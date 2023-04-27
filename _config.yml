@@ -2,19 +2,19 @@ title: National Health Innovation Centre Singapore (NHIC)
 url: https://nhic.sg
 favicon: /images/Zz   NHIC logo/nhic favicon.png
 colors:
-  primary-color: "#f89c1c"
-  secondary-color: "#00bdf2"
+  primary-color: "#ef4f23"
+  secondary-color: "#f89c1c"
   media-colors:
     - title: media-color-one
-      color: "#ef4f23"
-    - title: media-color-two
       color: "#132f57"
+    - title: media-color-two
+      color: "#00bdf2"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
-      color: "#00838f"
+      color: "#00bdf2"
     - title: media-color-five
-      color: "#00838f"
+      color: "#f89c1c"
 description: >-
   The National Health Innovation Centre Singapore (NHIC), is a
   nationally-appointed Innovation and Enterprise Office that works with Public
