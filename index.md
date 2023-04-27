@@ -19,7 +19,7 @@ sections:
   - hero:
       title: Welcome to NHIC
       subtitle: Powering the next generation of healthcare innovation
-      background: /images/hero-banner.png
+      background: /images/Zz   Banners/hero banner.jpeg
       button: Find out more
       url: /contact-us/
       key_highlights:
