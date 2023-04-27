@@ -14,13 +14,13 @@ description: >-
   Established since 2014, it has supported many projects and companies in the development and implementation of innovative medical technologies and services, improving the standard of healthcare in Singapore and beyond.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: Welcome to NHIC
+      subtitle: Powering the next generation of healthcare innovation
       background: /images/hero-banner.png
-      button: Contact Us
+      button: Find out more
       url: /contact-us/
       key_highlights:
         - title: Highlight A
