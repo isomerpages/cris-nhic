@@ -1,8 +1,14 @@
 logo: /images/Zz   NHIC logo/nhic logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
+  - title: About
+    collection: about
   - title: Example Page
     url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Programmes
+    collection: programmes
+  - title: Partnerships & Network
+    collection: partnerships-and-network
+  - title: Portfolio
+    collection: portfolio
+  - title: Contact Us
+    url: /contact-us/
