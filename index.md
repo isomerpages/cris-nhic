@@ -14,24 +14,33 @@ description: >-
   Established since 2014, it has supported many projects and companies in the development and implementation of innovative medical technologies and services, improving the standard of healthcare in Singapore and beyond.
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Active grant announcements
 sections:
   - hero:
       title: Welcome to NHIC
-      subtitle: Powering the next generation of healthcare innovation
+      subtitle: Powering the next generation of healthcare innovation for clinical and
+        economic impact
       background: /images/Zz   Banners/hero banner.jpeg
-      button: Find out more
-      url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Ideation
+          description: ""
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Development
+          description: ""
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Commercialization
+          description: ""
           url: /privacy/
+        - title: Adoption
+          description: ""
+          url: ""
+  - infopic:
+      title: Innovation and commercialization
+      subtitle: Infopic Subtitle
+      description: How does NHIC accelerate the healthcare innovation and
+        commercialisation journey?
+      button: Button Text
+      alt: Image alt text
   - infobar:
       title: Infobar title
       subtitle: Subtitle
