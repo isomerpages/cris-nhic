@@ -2,5 +2,6 @@ collections:
   about:
     output: true
     order:
+      - Our Team/Our Team.md
       - Our Team/.keep
       - About NHIC.md
