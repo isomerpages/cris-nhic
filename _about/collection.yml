@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Our Team/.keep
-      - Our Team.md
       - About NHIC.md
