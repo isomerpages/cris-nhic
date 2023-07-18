@@ -2,4 +2,5 @@ collections:
   portfolio:
     output: true
     order:
+      - Success stories/.keep
       - Start ups/.keep
