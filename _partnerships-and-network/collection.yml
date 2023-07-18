@@ -1,4 +1,5 @@
 collections:
   partnerships-and-network:
     output: true
-    order: []
+    order:
+      - Clinical network/.keep
