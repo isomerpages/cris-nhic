@@ -41,6 +41,12 @@ sections:
         commercialisation journey?
       button: Button Text
       alt: Image alt text
+  - infopic:
+      title: Nuturing tri-competent talent
+      subtitle: Infopic Subtitle
+      description: Nuturing tri-competent talent for medtech and biotech enterprises
+      button: Button Text
+      alt: Image alt text
   - infobar:
       title: Infobar title
       subtitle: Subtitle
