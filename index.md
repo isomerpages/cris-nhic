@@ -47,14 +47,14 @@ sections:
       description: Nuturing tri-competent talent for medtech and biotech enterprises
       button: Button Text
       alt: Image alt text
+  - resources:
+      title: Latest New and Events
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
   - infobar:
       title: Infobar title
       subtitle: Subtitle
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
-  - resources:
-      title: Latest New and Events
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
 ---
