@@ -2,7 +2,7 @@ collections:
   programmes:
     output: true
     order:
-      - Therapeutic development/.keep
-      - Talent development/.keep
-      - Collaborative Schemes/.keep
       - Funding/.keep
+      - Collaborative Schemes/.keep
+      - Talent development/.keep
+      - Therapeutic development/.keep
