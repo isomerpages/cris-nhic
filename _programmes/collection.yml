@@ -2,4 +2,5 @@ collections:
   programmes:
     output: true
     order:
+      - Collaborative Schemes/.keep
       - Funding/.keep
