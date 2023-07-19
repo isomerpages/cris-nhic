@@ -2,12 +2,12 @@ collections:
   programmes:
     output: true
     order:
-      - Therapeutic Development.md
-      - Talent Development.md
-      - Funding/Innovation to Protect (I2P).md
       - Funding/.keep
+      - Funding/Innovation to Protect (I2P).md
+      - Collaborative Schemes/.keep
       - Collaborative Schemes/Singapore Health Assistive & Robotics Programme
         (SHARP) Grant.md
-      - Collaborative Schemes/.keep
+      - Talent Development.md
+      - Therapeutic Development.md
       - Talent development/.keep
       - Therapeutic development/.keep
