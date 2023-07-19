@@ -2,9 +2,9 @@ collections:
   partnerships-and-network:
     output: true
     order:
-      - Community Partners.md
-      - Ventures & Corporates.md
       - Clinical Network.md
+      - Ventures & Corporates.md
+      - Community Partners.md
       - Clinical network/.keep
       - Ventures & Corporates/.keep
       - Community partners/.keep
