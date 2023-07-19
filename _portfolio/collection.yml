@@ -2,5 +2,6 @@ collections:
   portfolio:
     output: true
     order:
+      - Start ups.md
       - Start ups/.keep
       - Success stories/.keep
