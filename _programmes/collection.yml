@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Talent Development.md
       - Funding/Innovation to Protect (I2P).md
       - Funding/.keep
       - Collaborative Schemes/Singapore Health Assistive & Robotics Programme
