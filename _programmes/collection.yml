@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Funding/Innovation to Protect (I2P).md
       - Funding/.keep
       - Collaborative Schemes/.keep
       - Talent development/.keep
