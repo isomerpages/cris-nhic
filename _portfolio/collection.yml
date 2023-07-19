@@ -2,7 +2,7 @@ collections:
   portfolio:
     output: true
     order:
-      - Success stories.md
       - Start ups.md
+      - Success stories.md
       - Start ups/.keep
       - Success stories/.keep
