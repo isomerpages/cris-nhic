@@ -6,8 +6,8 @@ links:
     collection: programmes
   - title: Partnerships & Network
     collection: partnerships-and-network
-  - title: Portfolio
-    collection: portfolio
+  - title: Technology Portfolio
+    collection: technology-portfolio
   - title: Events and news
     resource_room: true
   - title: Contact Us
