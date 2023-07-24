@@ -6,7 +6,7 @@ description: ""
 Innovation to Protect (I2P)
 ---------------------------
 
-#### ![logo I2P](https://nhic.sg/web/images/NHIC/logo_I2P.jpg)
+<img src="/images/logo_i2p.jpg" style="width:200px">
 
 ##### Aim
 
