@@ -16,6 +16,7 @@ Michael holds a Ph.D from the University of Newcastle, Australia and completed t
 ### **Tan Ee Lim, Ph.D**  
 Manager, Innovation
 
+<img src="/images/About/Our%20Team/Innovation%20Team/taneelim.jpg" style="width:150px">
 ![TanEeLim](https://nhic.sg/web/images/NHIC/team/TanEeLim2.jpg)
 
 Before joining NHIC, Ee Lim was a Biodesign Fellow with Singapore-Stanford Biodesign Program established between the Agency for Science, Technology and Research (A\*STAR), the Economic Development Board (EDB), and Stanford University. Under this role, he engaged closely with healthcare professionals in Asia and United States to identify unmet clinical needs and developed a solution towards a commercially viable model. During that period, he was concurrently mentoring aspiring medical technology innovators from Singapore and regional countries in the Biodesign Innovation process. Prior to this, Ee Lim was a Scientist at A\*STAR. Under this role, he worked with national and overseas stakeholders to develop medical device solution using semiconductor processes.
@@ -25,7 +26,7 @@ Ee Lim holds a Ph.D. from the Michigan Technological University, USA and a recip
 ### **Chuah Yon Jin, Ph. D**  
 Manager, Innovation
 
-![ChuahYonJin](https://nhic.sg/web/images/NHIC/team/ChuahYonJin.jpg)
+<img src="/images/About/Our%20Team/Innovation%20Team/chuahyonjin.jpg" style="width:150px">
 
 Prior to joining NHIC, Yon Jin was a Research Fellow in Nanyang Technological University, Singapore where he oversaw multiple cross-functional research projects in the field of musculoskeletal regeneration. His research journey dates back to his undergraduate days in 2007 where he worked on a biomedical device to reverse intervertebral disc regeneration and cell processing methodologies in musculoskeletal tissue regeneration. Since then, Yon Jin has been actively working with clinicians and scientists and utilized cutting-edge technologies to address various clinical needs.
 
@@ -34,6 +35,8 @@ Yon Jin holds a Ph.D from the Nanyang Technological University (NTU) who special
 ### **Zhang Hanzhong**  
 Manager, Innovation
 
-![ZhangHanzhong](https://nhic.sg/web/images/NHIC/team/ZhangHanzhong2.jpg)Before joining NHIC, Hanzhong was a Biodesign Fellow with Singapore-Stanford Biodesign Program established between the Agency for Science, Technology and Research (A\*STAR), the Economic Development Board (EDB), and Stanford University, where he received intensive trainings on the entire value chain of medtech innovation. During his fellowship, Hanzhong immersed himself into the clinical practices in hospitals in Asia and United States, worked closely with healthcare professionals to identify clinical needs, develop novel solutions and analyse business strategies beyond technologies. Prior to his SSB fellowship, Hanzhong has worked in Singapore healthcare and medtech industries, taking charge to evaluate and apply novel technologies in clinical settings, as well as to develop technical solutions and lead projects for medical device enhancement and maintenance.
+<img src="/images/About/Our%20Team/Innovation%20Team/zhanghanzhong.jpg" style="width:150px">
+
+Before joining NHIC, Hanzhong was a Biodesign Fellow with Singapore-Stanford Biodesign Program established between the Agency for Science, Technology and Research (A\*STAR), the Economic Development Board (EDB), and Stanford University, where he received intensive trainings on the entire value chain of medtech innovation. During his fellowship, Hanzhong immersed himself into the clinical practices in hospitals in Asia and United States, worked closely with healthcare professionals to identify clinical needs, develop novel solutions and analyse business strategies beyond technologies. Prior to his SSB fellowship, Hanzhong has worked in Singapore healthcare and medtech industries, taking charge to evaluate and apply novel technologies in clinical settings, as well as to develop technical solutions and lead projects for medical device enhancement and maintenance.
 
 Hanzhong holds an MSc degree in Biomedical Engineering and a BEng degree in Electrical Engineering. He serves as an advisor in the Biomedical Engineering Society (Singapore), and a collaborator of the International Federation of Medical and Biological Engineering (IFMBE) Clinical Engineering Division.
