@@ -4,12 +4,9 @@ permalink: /funding/joint-medtech-grants/singhealth/
 description: ""
 third_nav_title: Joint MedTech Grants
 ---
-##### SingHealth Joint MedTech Grant
-
-
 ### SingHealth – National Health Innovation Centre Singapore (NHIC) Joint Medical Technology (MedTech) Grant
 
-**![logo singhealth](https://nhic.sg/web/images/NHIC/logo_singhealth.jpg)**
+<img src="/images/Funding/singhealth%20icon.jpg" style="width:150px" align="right">
 
 In 2015, SingHealth and NHIC collaborated and rolled out the annual&nbsp;**SingHealth – NHIC Joint MedTech Grant**, which funds feasibility studies and deserving pilot projects prior to embarking on NHIC applications.
 
