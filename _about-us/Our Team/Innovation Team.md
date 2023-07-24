@@ -17,7 +17,6 @@ Michael holds a Ph.D from the University of Newcastle, Australia and completed t
 Manager, Innovation
 
 <img src="/images/About/Our%20Team/Innovation%20Team/taneelim.jpg" style="width:150px">
-![TanEeLim](https://nhic.sg/web/images/NHIC/team/TanEeLim2.jpg)
 
 Before joining NHIC, Ee Lim was a Biodesign Fellow with Singapore-Stanford Biodesign Program established between the Agency for Science, Technology and Research (A\*STAR), the Economic Development Board (EDB), and Stanford University. Under this role, he engaged closely with healthcare professionals in Asia and United States to identify unmet clinical needs and developed a solution towards a commercially viable model. During that period, he was concurrently mentoring aspiring medical technology innovators from Singapore and regional countries in the Biodesign Innovation process. Prior to this, Ee Lim was a Scientist at A\*STAR. Under this role, he worked with national and overseas stakeholders to develop medical device solution using semiconductor processes.
 
