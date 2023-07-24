@@ -7,11 +7,11 @@ third_nav_title: Our Team
 ### **Associate Professor Henry Ho**  
 Executive Director
 
-![HenryHo](https://nhic.sg/web/images/NHIC/team/HenryHo.jpg)
+<img src="/images/About/Our%20Team/Senior%20Management/henryho.jpg" style="width:150px">
 
 Henry HO is the Chairman for Division of Surgery and Surgical Oncology, Singapore General Hospital and National Cancer Centre Singapore; Academic Chair for Surgery Academic Clinical Program, SingHealth. Currently A/Prof Henry is also holding the appointment as Director for SingHealth Duke-NUS Innovation Centre.
 
-A/Prof Henry is a urological surgeon that specializes in robotic surgery for urological cancers such as prostate & kidney. He received his MBBS and Master of Medicine (Surgery) from the National University of Singapore. After his accreditation as a Urologist, he further specializes with fellowships in robotic surgery in University of Innsbruck, Austria and Stone surgery in Hamburg, Germany.
+A/Prof Henry is a urological surgeon that specializes in robotic surgery for urological cancers such as prostate &amp; kidney. He received his MBBS and Master of Medicine (Surgery) from the National University of Singapore. After his accreditation as a Urologist, he further specializes with fellowships in robotic surgery in University of Innsbruck, Austria and Stone surgery in Hamburg, Germany.
 
 A/Prof Henry is an advocate for innovation in his clinical career. He is an early adopter of new technology with robust scientific methodology. Amongst his many publications, the randomized control trial on bipolar technology for prostate enlargement changes the practice of urologist internationally.
 
@@ -28,7 +28,7 @@ Director
 
 Prior to joining NHIC, Pauline was Executive Director and Head of Innovation Partnerships at UBS Tech Connect, responsible for establishing strategic partnerships across tech ecosystems in South-East Asia, facilitating access to capital and connections. Simultaneously, she served as Chairperson of the Singapore Business Federation SME Council’s Subcommittee for Technology, Innovation and Productivity, and acted as strategic advisor to a local biotech startup, Celligenics, for which she served as Chief Operating Officer prior.  
   
-Before this, Pauline spent 25 years of her career in public sector, in various leadership roles in science and technology. She was Senior Deputy Director, serving dual roles at the Strategy and Innovation and Enterprise (I&E) Directorates at the National Research Foundation (NRF) of the Prime Minister’s Office (PMO). She was responsible for formulating and implementing strategies and programmes to catalyse innovation and enterprise development through technology. During her term of office, she led the establishment and implementation of key I&E signatures, including the Singapore Week of Innovation and TeCHnology (SWITCH), Decentralised and Central Gap, Pollinate, The Elevator, National Lean Launchpad, Innovation Clusters, Industry-Alignment Funds, Technology Incubator Scheme, Early-Stage Venture Funds, SGInnovate and Xora.  
+Before this, Pauline spent 25 years of her career in public sector, in various leadership roles in science and technology. She was Senior Deputy Director, serving dual roles at the Strategy and Innovation and Enterprise (I&amp;E) Directorates at the National Research Foundation (NRF) of the Prime Minister’s Office (PMO). She was responsible for formulating and implementing strategies and programmes to catalyse innovation and enterprise development through technology. During her term of office, she led the establishment and implementation of key I&amp;E signatures, including the Singapore Week of Innovation and TeCHnology (SWITCH), Decentralised and Central Gap, Pollinate, The Elevator, National Lean Launchpad, Innovation Clusters, Industry-Alignment Funds, Technology Incubator Scheme, Early-Stage Venture Funds, SGInnovate and Xora.  
   
 Pauline was also a founding team member of Intellectual Property Intermediary (IPI), where she established and headed the Healthcare and Personal Care cluster. The role involved providing technology and intellectual property intelligence, scouting and matching services to industry, assisting companies to adopt technologies in their business models.
 
