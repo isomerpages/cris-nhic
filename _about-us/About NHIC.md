@@ -5,9 +5,6 @@ description: ""
 ---
 Vision, Mission and Core Values
 -------------------------------
-![](/images/About/nhic_vision.jpg)
-
-<img src="/images/About/nhic_vision.jpg">
 <img src="/images/About/nhic_vision.jpg" style="width:300px">
 
 * * *
