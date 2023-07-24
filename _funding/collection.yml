@@ -2,6 +2,7 @@ collections:
   funding:
     output: true
     order:
+      - Joint MedTech Grants/SingHealth.md
       - Joint MedTech Grants/NUHS.md
       - Joint MedTech Grants/.keep
       - Innovation to Adopt (I2Adopt).md
