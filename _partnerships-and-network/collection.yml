@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Clinical Network.md
-      - Ventures & Corporates.md
+      - Ventures & Industry.md
       - Community Partners.md
       - Clinical network/.keep
       - Ventures & Corporates/.keep
