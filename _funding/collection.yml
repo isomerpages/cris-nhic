@@ -2,5 +2,6 @@ collections:
   funding:
     output: true
     order:
+      - Innovation to Industry (I2I).md
       - Innovation to Develop (I2D).md
       - Innovation to Protect (I2P).md
