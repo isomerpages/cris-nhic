@@ -7,7 +7,7 @@ third_nav_title: Funding
 Innovation to Protect (I2P)
 ---------------------------
 
-#### ![logo I2P](https://nhic.sg/web/images/NHIC/logo_I2P.jpg)
+<img src="/images/Funding/logo_i2p.jpg" style="width:300px" align="right">
 
 ##### Aim
 
