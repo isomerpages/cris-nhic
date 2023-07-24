@@ -6,9 +6,9 @@ description: ""
 Innovation to Adopt (I2Adopt)
 -----------------------------
 
-![logo I2adopt](https://nhic.sg/web/images/NHIC/logos_I2adopt.jpg)
-
 #### Funding which supports commercially viable innovation for implementation, adoption
+
+<img src="/images/Funding/logos_i2adopt.jpg" style="width:300px" align="right">
 
 ##### Aim
 
