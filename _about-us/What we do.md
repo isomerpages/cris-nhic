@@ -14,7 +14,7 @@ The National Health Innovation Centre Singapore provides the publicly-funded cli
 
 ### How we work
 
-The NHIC team members have strong track records in the identification and commercialization of intellectual property from academic, clinical and commercial fields (see&nbsp;[Our Team](https://nhic.sg/web/index.php/about-us/our-team)). Our combined expertise and resources will be applied to the evaluation and nurturing of innovations along the commercialization pipeline.
+The NHIC team members have strong track records in the identification and commercialization of intellectual property from academic, clinical and commercial fields (see&nbsp;[Our Team](/about/our-team/senior-management/)). Our combined expertise and resources will be applied to the evaluation and nurturing of innovations along the commercialization pipeline.
 
 NHIC adds value by adopting an active role in the mentoring of applicants and their respective teams at all stages, from early stage discussions through to the funding of the application and post-award management of projects (including progress against milestones and commercialization).
 
