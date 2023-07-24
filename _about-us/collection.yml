@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Oversight Committee.md
-      - What we do.md
       - About NHIC.md
+      - What we do.md
+      - Oversight Committee.md
       - Our Team/.keep
       - Our Team/Senior Management.md
       - Our Team/Innovation Team.md
