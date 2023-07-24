@@ -6,7 +6,9 @@ description: ""
 Innovation to Industry (I2I)
 ----------------------------
 
-#### ![logo I2I](https://nhic.sg/web/images/NHIC/logo_I2I.jpg)Co-development of a healthcare innovation with an industry partner
+#### Co-development of a healthcare innovation with an industry partner
+
+<img src="/images/Funding/logo_i2i.jpg" style="width:300px" align="right">
 
 ##### Aim
 
