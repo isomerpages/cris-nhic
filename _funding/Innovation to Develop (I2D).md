@@ -6,9 +6,9 @@ description: ""
 Innovation to Develop (I2D)
 ---------------------------
 
-![logo I2D](https://nhic.sg/web/images/NHIC/logo_I2D.jpg)
-
 #### Funding for development of a healthcare innovation to a commercialisable endpoint
+
+<img src="/images/Funding/logo_i2d.jpg" style="width:300px" align="right">
 
 ##### Aim
 
