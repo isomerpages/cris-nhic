@@ -4,12 +4,11 @@ permalink: /funding/joint-medtech-grants/nhg/
 description: ""
 third_nav_title: Joint MedTech Grants
 ---
-##### NHG Joint MedTech Grant
-
-
 ### NHG Centre for Medical Technologies &amp; Innovations (CMTi) and National Health Innovation Centre Singapore (NHIC) Joint MedTech Grant Call
 
-[![nhg logo](https://nhic.sg/web/images/NHIC/partners/CMTi_nhg-logo1.jpg)](http://enterprise.nus.edu.sg/)To encourage innovation in healthcare, the NHG Centre for Medical Technologies and Innovations (CMTi) and NHIC rolled out the NHG CMTi-NHIC Joint MedTech Grant, which provides internal seed funding for the development of innovative MedTech solutions. This grant aims to fund the early stage development of technological solutions that are commercially viable to resolve unmet needs in healthcare. Potential areas for MedTech innovation include, but are not limited to, medical devices, diagnostics, and digital applications.
+<img src="/images/Funding/cmti_nhg-logo1.jpg" style="width:150px" align="right">
+
+To encourage innovation in healthcare, the NHG Centre for Medical Technologies and Innovations (CMTi) and NHIC rolled out the NHG CMTi-NHIC Joint MedTech Grant, which provides internal seed funding for the development of innovative MedTech solutions. This grant aims to fund the early stage development of technological solutions that are commercially viable to resolve unmet needs in healthcare. Potential areas for MedTech innovation include, but are not limited to, medical devices, diagnostics, and digital applications.
 
 The Centre for Medical Technologies and Innovations (CMTi) is NHG’s primary engine that drives innovation through the translation of ideas into implementable products, bridging the gap between unmet clinical needs, MedTech development, and innovative healthcare solutions. CMTi continuously looks out for opportunities to foster meaningful partnerships and builds its strategic innovation ecosystem with both local and international partners spanning across industry, academia, research and government sectors. From assessing problem statements and use cases, to building and supporting the navigation to resources, strategizing the right collaborative approach with our partners, and finally solution adoption and healthcare implementation, CMTi is fully equipped with a productization strategy for efficient business model execution.
 
