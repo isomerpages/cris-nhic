@@ -18,20 +18,19 @@ notification: Active grant announcements
 sections:
   - hero:
       title: Welcome to NHIC
-      subtitle: Powering the next generation of healthcare innovation for clinical and
-        economic impact
+      subtitle: Powering the next generation of healthcare innovation
       background: /images/Zz   Banners/hero banner.jpeg
       key_highlights:
-        - title: Ideation
+        - title: Funding
           description: ""
           url: https://google.com
-        - title: Development
-          description: ""
-          url: https://gmail.com
         - title: Commercialization
           description: ""
+          url: ""
+        - title: Venture Partnerships
+          description: ""
           url: /privacy/
-        - title: Adoption
+        - title: Talent Development
           description: ""
           url: ""
   - infopic:
