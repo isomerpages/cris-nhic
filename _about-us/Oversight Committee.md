@@ -3,7 +3,6 @@ title: Oversight Committee
 permalink: /about-us/oversight-committee/
 description: ""
 ---
-
 <table>
 	<tbody>
 		<tr height="350">
@@ -33,64 +32,47 @@ Public Health Group, Ministry of Health</div>
 Guardant Health Pte Ltd</div>
 			</td>
 		</tr>
-		<tr height="350"><!-- Second Row -->
-			<td width="25%"><!-- Table 1 -->
-				<a href="/leaders/dr-eng-chon-boon/" target="_blank">
-					<img src="/images/Leaders/dr-eng-chon-boon.png">
-				</a>
-				<div align="center"><b>Dr Eng Chon Boon</b></div>
-				<div align="center">Platform Lead, Cancer Databases &amp; Tissue Banks</div>
+		<tr height="350"> <!-- Second row -->
+			<td width="25%">
+				<img src="/images/About/Oversight%20Committee/kennethkwek.jpg">
+				<div align="center"><b>Prof Kenneth Kwek</b></div>
+				<div align="center">Chief Executive Officer  
+Singapore General Hospital Deputy Group Chief Executive Officer  
+(Organisational Transformation &amp; Informatics)  
+SingHealth</div>
 			</td>
-			<td width="25%"><!-- Table 2 -->
-				<a href="/leaders/assoc-prof-tan-ern-yu/" target="_blank">
-					<img src="/images/Leaders/tan-ern-yu.png">
-				</a>
-				<div align="center"><b>Assoc Prof Tan Ern Yu</b></div>
-				<div align="center">Platform Lead, Cancer Databases &amp;Tissue Banks</div>
+			<td width="25%">
+				<img src="/images/About/Oversight%20Committee/lisang.jpg">
+				<div align="center"><b>Dr Lisa Ng</b></div>
+				<div align="center">Executive Director, Biomedical Research Council  
+Agency for Science, Technology and Research (ID Labs)</div>
 			</td>
-			<td width="25%"><!-- Table 3 -->
-				<a href="/leaders/assoc-prof-iain-tan/" target="_blank">
-					<img src="/images/Leaders/assoc-prof-tan-bee-huat.png">
-				</a>
-				<div align="center"><b>Assoc Prof Iain Tan</b></div>
-				<div align="center">Platform Lead&nbsp;for&nbsp;Cancer Databases &amp; Tissue Banks &nbsp;&amp;&nbsp;Impact &amp; Population Health</div>
+			<td width="25%">
+				<img src="/images/About/Oversight%20Committee/teyhongliang.jpg">
+				<div align="center"><b>A/Prof Tey Hong Liang</b></div>
+				<div align="center">Head of Research and Senior Consultant  
+National Skin Centre  
+  
+Clinical Director  
+Centre for Medical Technologies &amp; Innovations (CMTi), NHG  
+  
+Assoc. Prof. and co-Director  
+Skin Research Programme, LKCMedicine, NTU</div>
 			</td>
-			<td width="25%"><!-- Table 4 -->
-				<a href="/leaders/dr-jason-chan/" target="_blank">
-					<img src="/images/Leaders/dr-jason-chan.png">
-				</a>
-				<div align="center"><b>Dr Jason Chan</b></div>
-				<div align="center">Platform Lead, Translational Research Integration &amp; Support</div>
-			</td>
-		</tr>
-		<tr height="350"><!-- Third Row -->
-			<td width="25%"><!-- Table 1 -->
-				<a href="/leaders/dr-anand-jeyasekharan/" target="_blank">
-					<img src="/images/Leaders/anand-jeyasekharan.png">
-				</a>
-				<div align="center"><b>Dr&nbsp;Anand Jeyasekharan</b></div>
-				<div align="center">Platform Lead, Translational Research Integration &amp; Support</div>
-			</td>
-			<td width="25%"><!-- Table 2 -->
-				<a href="/leaders/dr-alexander-lezhava/" target="_blank">
-					<img src="/images/Leaders/dr-alexandra-lezhava.png">
-				</a>
-				<div align="center"><b>Dr Alexander Lezhava</b></div>
-				<div align="center">Platform Lead, Translational Research Integration &amp; Support</div>
-			</td>
-			<td width="25%"><!-- Table 3 -->
-				<a href="/leaders/mr-seck-yee-kwang/" target="_blank">
-					<img src="/images/Leaders/mr-seck-yee-kwang.png">
-				</a>
-				<div align="center"><b>Mr Seck Yee Kwang</b></div>
-				<div align="center">Platform Lead, Business Intelligence &amp; Development</div>
-			</td>
-			<td width="25%"><!-- Table 4 -->
-				<a href="/leaders/assoc-prof-tan-ker-kan/" target="_blank">
-					<img src="/images/Leaders/tan-ker-kan.png">
-				</a>
-				<div align="center"><b>Assoc Prof Tan Ker Kan</b></div>
-				<div align="center">Platform Lead,&nbsp;Impact &amp; Population Health</div>
+			<td width="25%">
+				<img src="/images/About/Oversight%20Committee/aprof-tan-say-beng.jpg">
+				<div align="center"><b>A/Prof Tan Say Beng</b></div>
+				<div align="center">Group Director, Research,  
+Office of Research  
+Singapore Health Services Pte Ltd  
+  
+Senior Associate Dean  
+Research  
+Duke-NUS Medical School  
+  
+Covering Executive Director  
+(from 29 October 2018)  
+National Medical Research Council</div>
 			</td>
 		</tr>
 	</tbody>
