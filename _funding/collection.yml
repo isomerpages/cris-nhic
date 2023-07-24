@@ -1,0 +1,4 @@
+collections:
+  funding:
+    output: true
+    order: []
