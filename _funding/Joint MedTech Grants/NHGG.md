@@ -4,8 +4,8 @@ permalink: /funding/joint-medtech-grants/nhg/
 description: ""
 third_nav_title: Joint MedTech Grants
 ---
-NHG Joint MedTech Grant
------------------------
+##### NHG Joint MedTech Grant
+
 
 ### NHG Centre for Medical Technologies &amp; Innovations (CMTi) and National Health Innovation Centre Singapore (NHIC) Joint MedTech Grant Call
 
