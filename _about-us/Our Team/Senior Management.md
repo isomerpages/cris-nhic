@@ -24,7 +24,7 @@ A/Prof Henry leads the clinical test-bedding and adoption in Singhealth-DUKE NUS
 ### **Pauline Tay, Ph.D**  
 Director
 
-![Pauline Tay](https://nhic.sg/web/images/NHIC/team/PaulineTay.jpg)
+<img src="/images/About/Our%20Team/Senior%20Management/paulinetay.jpg" style="width:150px">
 
 Prior to joining NHIC, Pauline was Executive Director and Head of Innovation Partnerships at UBS Tech Connect, responsible for establishing strategic partnerships across tech ecosystems in South-East Asia, facilitating access to capital and connections. Simultaneously, she served as Chairperson of the Singapore Business Federation SME Council’s Subcommittee for Technology, Innovation and Productivity, and acted as strategic advisor to a local biotech startup, Celligenics, for which she served as Chief Operating Officer prior.  
   
