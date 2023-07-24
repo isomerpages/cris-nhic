@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - About NHIC.md
+      - Objectives and Identity.md
       - What we do.md
       - Oversight Committee.md
       - Our Team/.keep
