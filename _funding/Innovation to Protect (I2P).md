@@ -6,7 +6,7 @@ description: ""
 Innovation to Protect (I2P)
 ---------------------------
 
-<img src="/images/logo_i2p.jpg" style="width:200px" align="right">
+<img src="/images/logo_i2p.jpg" style="width:300px" align="right">
 
 ##### Aim
 
