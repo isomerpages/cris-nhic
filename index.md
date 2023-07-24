@@ -34,6 +34,13 @@ sections:
           description: ""
           url: ""
   - infopic:
+      title: Accelerating The Translation
+      subtitle: Infopic Subtitle
+      description: How NHIC accelerates the translation of clinical innovations into
+        health and economic outcomes?
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       title: Innovation and commercialization
       subtitle: Infopic Subtitle
       description: How does NHIC accelerate the healthcare innovation and
@@ -50,11 +57,4 @@ sections:
       title: Latest New and Events
       subtitle: Resources Section Subtitle
       button: Resources Button Name
-  - infopic:
-      title: Accelerating The Translation
-      subtitle: Infopic Subtitle
-      description: How NHIC accelerates the translation of clinical innovations into
-        health and economic outcomes?
-      button: Button Text
-      alt: Image alt text
 ---
