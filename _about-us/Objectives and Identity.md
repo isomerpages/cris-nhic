@@ -5,9 +5,11 @@ description: ""
 ---
 Vision, Mission and Core Values
 -------------------------------
+<br><br>
+
 <img src="/images/About/nhic_vision.jpg" style="width:250px">
 
-* * *
+***
 
 Singapore as a leading hub for health innovation &amp; enterprise in Asia
 
@@ -15,11 +17,15 @@ Singapore as a leading hub for health innovation &amp; enterprise in Asia
 
 * * *
 
+<br><br>
+
 Drive impactful health and economic outcomes for Singapore by catalyzing innovation and enterprise endeavours in the healthcare research community through public and industry partnerships
 
 <img src="/images/About/nhic_corevaluesh.jpg" style="width:300px">
 
 * * *
+
+<br><br>
 
 Our core values define how we make our decisions and ultimately, our actions, as we strive to create impact in the field of health technology innovation.
 
