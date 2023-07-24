@@ -5,14 +5,13 @@ description: ""
 ---
 Vision, Mission and Core Values
 -------------------------------
-
-![NHIC vision](https://nhic.sg/web/images/NHIC/NHIC_vision.jpg)
+![](/images/About/nhic_vision.jpg)
 
 * * *
 
 Singapore as a leading hub for health innovation & enterprise in Asia
 
-![NHIC mission](https://nhic.sg/web/images/NHIC/NHIC_mission.jpg)
+![](/images/About/nhic_mission.jpg)
 
 * * *
 
