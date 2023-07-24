@@ -8,6 +8,8 @@ links:
     collection: partnerships-and-network
   - title: Technology Portfolio
     collection: technology-portfolio
+  - title: Funding
+    collection: funding
   - title: Events and news
     resource_room: true
   - title: Contact Us
