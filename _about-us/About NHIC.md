@@ -23,4 +23,4 @@ Drive impactful health and economic outcomes for Singapore by catalyzing innovat
 
 Our core values define how we make our decisions and ultimately, our actions, as we strive to create impact in the field of health technology innovation.
 
-![](/images/About/nhic_corevalues.jpg)<img src="/images/About/nhic_corevalues.jpg" style="width:300px">
+<img src="/images/About/nhic_corevalues.jpg" style="width:300px">
