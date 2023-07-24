@@ -50,10 +50,11 @@ sections:
       title: Latest New and Events
       subtitle: Resources Section Subtitle
       button: Resources Button Name
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: Accelerating The Translation
+      subtitle: Infopic Subtitle
+      description: How NHIC accelerates the translation of clinical innovations into
+        health and economic outcomes?
+      button: Button Text
+      alt: Image alt text
 ---
