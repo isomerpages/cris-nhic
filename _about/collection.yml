@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Oversight Committee.md
       - What we do.md
       - About NHIC.md
       - Our Team/.keep
