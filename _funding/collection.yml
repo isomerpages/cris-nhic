@@ -2,6 +2,7 @@ collections:
   funding:
     output: true
     order:
+      - Innovation to Adopt (I2Adopt).md
       - Innovation to Startup (I2Start).md
       - Innovation to Industry (I2I).md
       - Innovation to Develop (I2D).md
