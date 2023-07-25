@@ -23,13 +23,13 @@ sections:
       key_highlights:
         - title: Funding
           description: ""
-          url: https://google.com
+          url: /funding/protect-i2p/
         - title: Venture Partnerships
           description: ""
-          url: /privacy/
+          url: /partnerships-and-network/ventures-and-industry/
         - title: Talent Development
           description: ""
-          url: ""
+          url: /programmes/talent-development
   - infopic:
       title: Accelerating The Translation
       subtitle: Infopic Subtitle
