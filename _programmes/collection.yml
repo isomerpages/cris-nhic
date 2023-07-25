@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Funding/Innovation to Startup (I2Start).md
       - Funding/Innovation to Industry (I2I).md
       - Funding/Innovation to Develop (I2D).md
       - Funding/Innovation to Protect (I2P).md
