@@ -16,17 +16,15 @@ Joint MedTech Grants
 				</a>
 			</td>
 				<td width="33.3%">
-				<a href="/funding/joint-medtech-grants/nuhs/">
+				<a href="/funding/joint-medtech-grants/singhealth/">
 					<img src="/images/Funding/singhealth%20icon.jpg">
 				</a>
 			</td>
 				<td width="33.3%">
-				<a href="/funding/joint-medtech-grants/nuhs/">
+				<a href="/funding/joint-medtech-grants/nhg/">
 					<img src="/images/Funding/cmti_nhg-logo1.jpg">
 				</a>
 			</td>
 		</tr>
 	</tbody>
 </table>
-	
-			
