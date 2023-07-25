@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Funding/Joint MedTech Grants.md
       - Funding/.keep
       - Funding/Innovation to Protect (I2P).md
       - Funding/Innovation to Develop (I2D).md
