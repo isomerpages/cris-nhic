@@ -1,5 +1,5 @@
 collections:
-  funding:
+  funding-test:
     output: true
     order:
       - Joint MedTech Grants/.keep
