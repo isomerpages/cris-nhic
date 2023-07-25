@@ -2,7 +2,6 @@ collections:
   funding:
     output: true
     order:
-      - Innovation to Protect (I2P).md
       - Joint MedTech Grants/.keep
       - Joint MedTech Grants/NUHS.md
       - Joint MedTech Grants/SingHealth.md
