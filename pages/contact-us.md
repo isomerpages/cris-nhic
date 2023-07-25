@@ -20,6 +20,6 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: '"form.sg link"'
-    title: Make an Online Enquiry
+      - other: form.sg
+    title: "Make an Online Enquiry :"
 ---
