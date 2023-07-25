@@ -24,9 +24,6 @@ sections:
         - title: Funding
           description: ""
           url: https://google.com
-        - title: Commercialization
-          description: ""
-          url: ""
         - title: Venture Partnerships
           description: ""
           url: /privacy/
