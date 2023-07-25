@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Funding/Innovation to Protect (I2P).md
       - Funding/.keep
       - Talent Development.md
       - Therapeutic Development.md
