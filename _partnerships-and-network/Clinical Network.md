@@ -9,6 +9,9 @@ NHIC works closely with all three of the healthcare clusters in Singapore, cover
 
 Logos to be added (Combine both clinical and academic partners): Logos to be hyperlinked with website
 
+#### Clinical Partners
+
+---
 
 <table>
 	<tbody>
