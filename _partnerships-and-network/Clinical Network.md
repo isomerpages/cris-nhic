@@ -9,4 +9,24 @@ NHIC works closely with all three of the healthcare clusters in Singapore, cover
 
 Logos to be added (Combine both clinical and academic partners): Logos to be hyperlinked with website
 
-https://nhic.sg/web/index.php/about-us/our-partners
+
+<table>
+	<tbody>
+		<tr>
+			<td width="20%">
+				<img src="/images/Partners%20Icons/nhg-logo.jpg">
+			</td>
+			<td width="20%">
+				<img src="/images/Partners%20Icons/nuhs_logo_201912.jpg">
+			</td>
+			<td width="20%">
+				<img src="/images/Partners%20Icons/singhealth.jpg">
+			</td>
+			<td width="20%">
+			</td>
+			<td width="20%">
+			</td>
+		</tr>
+	</tbody>
+</table>
+	
