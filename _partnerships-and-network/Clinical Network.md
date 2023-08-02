@@ -47,22 +47,22 @@ Logos to be added (Combine both clinical and academic partners): Logos to be hyp
 	<tbody>
 		<tr>
 			<td width="20%">
-				<a href="https://corp.nhg.com.sg/Pages/default.aspx">
+				<a href="https://www.ntu.edu.sg/medicine">
 					<img src="/images/Partners%20Icons/lkc-medical.jpg">
 				</a>
 			</td>
 			<td width="20%">
-				<a href="https://www.nuhs.edu.sg/Pages/Home.aspx">
+				<a href="http://www.dentistry.nus.edu.sg/">
 					<img src="/images/Partners%20Icons/nus-faculty-of-dentistry.jpg">
 				</a>
 			</td>
 			<td width="20%">
-				<a href="https://www.singhealth.com.sg/">
+				<a href="https://sph.nus.edu.sg/">
 					<img src="/images/Partners%20Icons/nus-sph.jpg">
 				</a>
 			</td>
 			<td width="20%">
-				<a href="https://www.singhealth.com.sg/">
+				<a href="https://medicine.nus.edu.sg/">
 					<img src="/images/Partners%20Icons/nus-som.jpg">
 				</a>
 			</td>
@@ -71,7 +71,7 @@ Logos to be added (Combine both clinical and academic partners): Logos to be hyp
 		</tr>
 		<tr>
 			<td width="20%">
-				<a href="https://www.singhealth.com.sg/">
+				<a href="https://www.academic-medicine.edu.sg/ampartnership">
 					<img src="/images/Partners%20Icons/duke-nus.jpg">
 				</a>
 		</td></tr>
