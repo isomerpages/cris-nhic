@@ -48,7 +48,7 @@ Logos to be added (Combine both clinical and academic partners): Logos to be hyp
 		<tr>
 			<td width="20%">
 				<a href="https://corp.nhg.com.sg/Pages/default.aspx">
-					<img src="/images/Partners%20Icons/nhg-logo.jpg">
+					<img src="/images/Partners%20Icons/lkc-medical.jpg">
 				</a>
 			</td>
 			<td width="20%">
