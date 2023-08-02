@@ -53,7 +53,7 @@ Logos to be added (Combine both clinical and academic partners): Logos to be hyp
 			</td>
 			<td width="20%">
 				<a href="https://www.nuhs.edu.sg/Pages/Home.aspx">
-					<img src="/images/Partners%20Icons/nuhs_logo_201912.jpg">
+					<img src="/images/Partners%20Icons/nus-faculty-of-dentistry.jpg">
 				</a>
 			</td>
 			<td width="20%">
