@@ -47,13 +47,19 @@ Logos to be added (Combine both clinical and academic partners): Logos to be hyp
 	<tbody>
 		<tr>
 			<td width="20%">
-				<img src="/images/Partners%20Icons/nhg-logo.jpg">
+				<a href="https://corp.nhg.com.sg/Pages/default.aspx">
+					<img src="/images/Partners%20Icons/nhg-logo.jpg">
+				</a>
 			</td>
 			<td width="20%">
-				<img src="/images/Partners%20Icons/nuhs_logo_201912.jpg">
+				<a href="https://www.nuhs.edu.sg/Pages/Home.aspx">
+					<img src="/images/Partners%20Icons/nuhs_logo_201912.jpg">
+				</a>
 			</td>
 			<td width="20%">
-				<img src="/images/Partners%20Icons/singhealth.jpg">
+				<a href="https://www.singhealth.com.sg/">
+					<img src="/images/Partners%20Icons/singhealth.jpg">
+				</a>
 			</td>
 			<td width="20%">
 			</td>
