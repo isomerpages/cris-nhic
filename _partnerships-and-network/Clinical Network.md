@@ -58,7 +58,7 @@ Logos to be added (Combine both clinical and academic partners): Logos to be hyp
 			</td>
 			<td width="20%">
 				<a href="https://www.singhealth.com.sg/">
-					<img src="/images/Partners%20Icons/singhealth.jpg">
+					<img src="/images/Partners%20Icons/nus-sph.jpg">
 				</a>
 			</td>
 			<td width="20%">
