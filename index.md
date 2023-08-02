@@ -35,24 +35,27 @@ sections:
       subtitle: Infopic Subtitle
       description: How NHIC accelerates the translation of clinical innovations into
         health and economic outcomes?
-      button: Button Text
+      button: Learn More
       alt: Image alt text
       image: /images/Homepage/stock image 1-min.jpeg
+      url: /programmes/overview/
   - infopic:
       title: Innovation and commercialization
       subtitle: Infopic Subtitle
       description: How does NHIC accelerate the healthcare innovation and
         commercialisation journey?
-      button: Button Text
+      button: Learn More
       alt: Image alt text
       image: /images/Homepage/stock image 2-min.jpeg
+      url: /ventures-and-industry/
   - infopic:
       title: Nuturing tri-competent talent
       subtitle: Infopic Subtitle
       description: Nuturing tri-competent talent for medtech and biotech enterprises
-      button: Button Text
+      button: Learn More
       alt: Image alt text
       image: /images/Homepage/stock image 3-min.jpeg
+      url: /talent-development/
   - resources:
       title: Latest New and Events
       subtitle: Resources Section Subtitle
