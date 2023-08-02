@@ -5,11 +5,16 @@ description: ""
 ---
 <style>
 	.row is-4{
+	width:25%;
+	}
+		.row is-5{
 	width:20%;
 	}
 	</style>
 	
 <img src="/images/Partners%20Icons/nhg-logo.jpg" class="col is-4">
+
+<img src="/images/Partners%20Icons/nhg-logo.jpg" class="col is-5">
 
 ### Walking alongside our clinical community to drive innovations to impactful outcomes
 
