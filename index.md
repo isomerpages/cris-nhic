@@ -19,7 +19,7 @@ sections:
   - hero:
       title: Welcome to NHIC
       subtitle: Powering the next generation of healthcare innovation
-      background: /images/Zz   Banners/hero banner.jpeg
+      background: /images/Homepage/homepage banner-min.jpeg
       key_highlights:
         - title: Funding
           description: ""
@@ -37,6 +37,7 @@ sections:
         health and economic outcomes?
       button: Button Text
       alt: Image alt text
+      image: /images/Homepage/stock image 1-min.jpeg
   - infopic:
       title: Innovation and commercialization
       subtitle: Infopic Subtitle
@@ -44,12 +45,14 @@ sections:
         commercialisation journey?
       button: Button Text
       alt: Image alt text
+      image: /images/Homepage/stock image 2-min.jpeg
   - infopic:
       title: Nuturing tri-competent talent
       subtitle: Infopic Subtitle
       description: Nuturing tri-competent talent for medtech and biotech enterprises
       button: Button Text
       alt: Image alt text
+      image: /images/Homepage/stock image 3-min.jpeg
   - resources:
       title: Latest New and Events
       subtitle: Resources Section Subtitle
