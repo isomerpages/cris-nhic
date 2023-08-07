@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Talent Development.md
       - Overview.md
       - Funding/.keep
       - Funding/Innovation to Protect (I2P).md
@@ -12,5 +11,6 @@ collections:
       - Funding/Innovation to Startup (I2Start).md
       - Funding/Innovation to Adopt (I2Adopt).md
       - Talent development/.keep
+      - Talent Development.md
       - Therapeutic development/.keep
       - Therapeutic Development.md
