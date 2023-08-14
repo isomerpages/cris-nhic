@@ -43,3 +43,9 @@ Email:&nbsp;[iris.soh.s.j@singhealth.com.sg](mailto:iris.soh.s.j@singhealth.com.
 Ms Tan Yi Mei  
 DID: 6576 7013  
 Email:&nbsp;[tan.yi.mei@singhealth.com.sg](mailto:tan.yi.mei@singhealth.com.sg)
+
+##### Application Eligibility
+
+I. Only investigators/researchers&nbsp;**primarily employed**&nbsp;in SingHealth and her member institutions are encouraged to apply provided the following criteria are fulfilled:
+
+1.  Principal Investigators (PIs) with previous MedTech research funding (irrespective of funding source) of 
