@@ -2,6 +2,6 @@ collections:
   technology-portfolio:
     output: true
     order:
-      - Start ups.md
+      - Technology Domains.md
       - Success stories.md
       - Success stories/.keep
