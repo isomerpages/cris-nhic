@@ -17,7 +17,7 @@ permalink: /
 notification: Active grant announcements
 sections:
   - hero:
-      title: " Powering the next generation of healthcare innovation"
+      title: Powering the Next Generation of Healthcare Innovation
       background: /images/Homepage/homepage banner-min.jpeg
       key_highlights:
         - title: Funding
