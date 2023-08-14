@@ -22,10 +22,4 @@ This jointly supported grant aims to:
 
 I. Only investigators/researchers&nbsp;**primarily employed**&nbsp;in SingHealth and her member institutions are encouraged to apply provided the following criteria are fulfilled:
 
-1.  Principal Investigators (PIs) with previous MedTech research funding (irrespective of funding source) of
-
-
-asdas
-sadasd
-asdasd
-sadas
+1.  Principal Investigators (PIs) with previous MedTech research funding (irrespective of funding source) of 
