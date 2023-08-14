@@ -22,7 +22,7 @@ This jointly supported grant aims to:
 
 I. Only investigators/researchers&nbsp;**primarily employed**&nbsp;in SingHealth and her member institutions are encouraged to apply provided the following criteria are fulfilled:
 
-1.  Principal Investigators (PIs) with previous MedTech research funding (irrespective of funding source) of S$1 million in total between the period 1 October 2018 to 1 October 2020 are eligible to apply.
+1.  Principal Investigators (PIs) with previous MedTech research funding (irrespective of funding source) of less than S$1 million in total between the period 1 October 2018 to 1 October 2020 are eligible to apply.
 2.  PIs (other than Allied Health professionals and Nurses) must not have held more than 1 SHF-Foundation/AM grant (i.e. a maximum of 2 SHF-Foundation/AM grants may be awarded to any PI who is not an Allied Health professional or Nurse); Allied Health professionals and Nurses must not have held more than 2 SHF-Foundation/AM grants (i.e. a maximum of 3 SHF-Foundation/AM grants may be awarded if the PI is an Allied Health professional or Nurse).
 3.  Association/Affiliation with an Academic Clinical Programme (ACP)  
     1.  The PI must be under an ACP or contributing to the growth and development of research in/under an ACP through active collaboration. Justifications must be given to support these research contributions and activities.
