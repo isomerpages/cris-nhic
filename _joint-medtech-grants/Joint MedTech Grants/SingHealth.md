@@ -20,8 +20,25 @@ This jointly supported grant aims to:
 
 ##### Application Eligibility
 
-Only investigators/researchers&nbsp;**primarily employed**&nbsp;in SingHealth and her member institutions are encouraged to apply provided the following criteria are fulfilled:
+I. Only investigators/researchers&nbsp;**primarily employed**&nbsp;in SingHealth and her member institutions are encouraged to apply provided the following criteria are fulfilled:
 
+1.  Principal Investigators (PIs) with previous MedTech research funding (irrespective of funding source) of S$1 million in total between the period 1 October 2018 to 1 October 2020 are eligible to apply.
+2.  PIs (other than Allied Health professionals and Nurses) must not have held more than 1 SHF-Foundation/AM grant (i.e. a maximum of 2 SHF-Foundation/AM grants may be awarded to any PI who is not an Allied Health professional or Nurse); Allied Health professionals and Nurses must not have held more than 2 SHF-Foundation/AM grants (i.e. a maximum of 3 SHF-Foundation/AM grants may be awarded if the PI is an Allied Health professional or Nurse).
+3.  Association/Affiliation with an Academic Clinical Programme (ACP)  
+    1.  The PI must be under an ACP or contributing to the growth and development of research in/under an ACP through active collaboration. Justifications must be given to support these research contributions and activities.
+        *   Applicants will need to complete a self-declaration on the ACP to which their research has contributed and obtain acknowledgement from the respective ACP Vice Chair (Research)\*.  
+            \*_Refer to attached list ‘ACP Academic Vice Chair, Research &amp; Administrators Contact list (Jul 2020)’_
+    2.  If the applicant is unable to fulfil the above condition (i), the applicant should have his/her proposal signed-off by the relevant ACP Vice Chair (Research) and have it endorsed by the ACP’s Academic Chair while keeping the respective ACP Administrators informed. The signing-off in support and as endorsement of the proposal signifies that the applicant is associated to the ACP.
+4.  The proposed research project must be conducted within SingHealth Duke-NUS academic health system and the PI must be primarily employed by SingHealth or her member institutions (e.g. MOHH employed medical officers and residents are not eligible). PI must have an official employment (permanent/contract) throughout the effective grant period.
+5.  PIs must not be recipients of NMRC’s Transition Award (TA) or Clinician Scientist Award (CSA); or be current recipients of SingHealth Duke-NUS AM’s Nurturing Clinician Scientist Scheme (NCSS) or Khoo Mentored Research Award (KMRA); or have been hired under SingHealth Research Strategic Hire or Research Talent schemes, at the point of application and upon award.
+6.  The project’s aims and objectives, and/or the same protocol have not been funded by other funding agencies.
+7.  No outstanding reports from previous SHF-Foundation/AM grants.
+
+II. If eligible, successful (awarded) investigators must apply for follow-on funding \[such as NHIC Innovation to Develop (I2D) Grant, SMART Innovation Grant and NRF Central Gap fund\] or take other concrete steps to develop the technology towards commercialization (details of which must be provided to the grant implementing agencies), at the end of the project.
+
+III. All awarded investigators will need to agree to have a project monitor for their project, assigned by MTO and mutually agreed on by the PI.
+
+IV. Applications that do not fulfil the eligibility criteria will be automatically disqualified from review.
 ##### Funding Quantum and Deliverables
 
 The award value is capped at S$100,000 per successful application, to be utilised over a period of 1 year.
@@ -43,25 +60,3 @@ Email:&nbsp;[iris.soh.s.j@singhealth.com.sg](mailto:iris.soh.s.j@singhealth.com.
 Ms Tan Yi Mei  
 DID: 6576 7013  
 Email:&nbsp;[tan.yi.mei@singhealth.com.sg](mailto:tan.yi.mei@singhealth.com.sg)
-
-##### Application Eligibility
-
-I. Only investigators/researchers&nbsp;**primarily employed**&nbsp;in SingHealth and her member institutions are encouraged to apply provided the following criteria are fulfilled:
-
-1.  Principal Investigators (PIs) with previous MedTech research funding (irrespective of funding source) of S$1 million in total between the period 1 October 2018 to 1 October 2020 are eligible to apply.
-2.  PIs (other than Allied Health professionals and Nurses) must not have held more than 1 SHF-Foundation/AM grant (i.e. a maximum of 2 SHF-Foundation/AM grants may be awarded to any PI who is not an Allied Health professional or Nurse); Allied Health professionals and Nurses must not have held more than 2 SHF-Foundation/AM grants (i.e. a maximum of 3 SHF-Foundation/AM grants may be awarded if the PI is an Allied Health professional or Nurse).
-3.  Association/Affiliation with an Academic Clinical Programme (ACP)  
-    1.  The PI must be under an ACP or contributing to the growth and development of research in/under an ACP through active collaboration. Justifications must be given to support these research contributions and activities.
-        *   Applicants will need to complete a self-declaration on the ACP to which their research has contributed and obtain acknowledgement from the respective ACP Vice Chair (Research)\*.  
-            \*_Refer to attached list ‘ACP Academic Vice Chair, Research &amp; Administrators Contact list (Jul 2020)’_
-    2.  If the applicant is unable to fulfil the above condition (i), the applicant should have his/her proposal signed-off by the relevant ACP Vice Chair (Research) and have it endorsed by the ACP’s Academic Chair while keeping the respective ACP Administrators informed. The signing-off in support and as endorsement of the proposal signifies that the applicant is associated to the ACP.
-4.  The proposed research project must be conducted within SingHealth Duke-NUS academic health system and the PI must be primarily employed by SingHealth or her member institutions (e.g. MOHH employed medical officers and residents are not eligible). PI must have an official employment (permanent/contract) throughout the effective grant period.
-5.  PIs must not be recipients of NMRC’s Transition Award (TA) or Clinician Scientist Award (CSA); or be current recipients of SingHealth Duke-NUS AM’s Nurturing Clinician Scientist Scheme (NCSS) or Khoo Mentored Research Award (KMRA); or have been hired under SingHealth Research Strategic Hire or Research Talent schemes, at the point of application and upon award.
-6.  The project’s aims and objectives, and/or the same protocol have not been funded by other funding agencies.
-7.  No outstanding reports from previous SHF-Foundation/AM grants.
-
-II. If eligible, successful (awarded) investigators must apply for follow-on funding \[such as NHIC Innovation to Develop (I2D) Grant, SMART Innovation Grant and NRF Central Gap fund\] or take other concrete steps to develop the technology towards commercialization (details of which must be provided to the grant implementing agencies), at the end of the project.
-
-III. All awarded investigators will need to agree to have a project monitor for their project, assigned by MTO and mutually agreed on by the PI.
-
-IV. Applications that do not fulfil the eligibility criteria will be automatically disqualified from review.
