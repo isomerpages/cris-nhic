@@ -40,7 +40,6 @@ sections:
       url: /programmes/overview/
   - infopic:
       title: Nuturing tri-competent talent
-      subtitle: Infopic Subtitle
       description: Nuturing tri-competent talent for medtech and biotech enterprises
       button: Learn More
       alt: Image alt text
