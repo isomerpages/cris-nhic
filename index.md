@@ -17,8 +17,7 @@ permalink: /
 notification: Active grant announcements
 sections:
   - hero:
-      title: Welcome to NHIC
-      subtitle: Powering the next generation of healthcare innovation
+      title: " Powering the next generation of healthcare innovation"
       background: /images/Homepage/homepage banner-min.jpeg
       key_highlights:
         - title: Funding
