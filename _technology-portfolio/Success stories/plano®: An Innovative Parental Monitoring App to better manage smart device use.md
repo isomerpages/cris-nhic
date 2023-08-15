@@ -12,7 +12,9 @@ plano®: An Innovative Parental Monitoring App to better manage smart device use
 
 <img src="/images/Technology%20Portfolio/Success%20Stories/Plano/plano-icon.jpg" style="width:150px" align="right">
 
---- 
+<br>
+
+
 **Santen and Singapore’s Health-tech Start-up, Plano**  
 **Form a Strategic Alliance to Tackle the Global Burden of Myopia**
 
