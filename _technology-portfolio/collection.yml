@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Technology Domains.md
-      - "Success stories/plano®: An Innovative Parental Monitoring App to better
-        manage smart device use.md"
-      - Success stories/aiTriage™ Intelligent system for real time risk
-        stratification of major adverse cardiac events.md
+      - Success stories/.keep
       - Success stories/Early prototype design of the KLARO™ deep cavity
         surgical LED lighting device.md
-      - Success stories/.keep
+      - Success stories/aiTriage™ Intelligent system for real time risk
+        stratification of major adverse cardiac events.md
+      - "Success stories/plano®: An Innovative Parental Monitoring App to better
+        manage smart device use.md"
