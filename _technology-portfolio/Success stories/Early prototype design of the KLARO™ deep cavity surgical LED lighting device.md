@@ -14,7 +14,7 @@ During open surgery, overhead lights in the operating theatre currently result i
 
 The device is currently target for general open surgery purposes and is easy to use, providing localised, uniform and high intensity “flood-lighting” from within the surgical site. Its small diameter (less than 4.8 mm) means it can fit unconstructively in-between organs or within narrow internal cavities, allowing the surgeon to work with maximum visibility and excellent illumination.
 
-![](/images/Technology%20Portfolio/Success%20Stories/success_vivo.jpg)
+![](/images/Technology%20Portfolio/Success%20Stories/KLARO™/success_vivo.jpg)
 
 The KLARO™ deep cavity surgical LED lighting device comprises the following key features:
 
