@@ -7,7 +7,7 @@ third_nav_title: Success stories
 ---
 Partnering National Health Innovation Centre in bringing first ready-to-eat texture modified Asian Meals for those with swallowing difficulties to market
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-<img src="/images/Technology%20Portfolio/Success%20Stories/Ready%20To%20Eat%20Asian%20Meals/success_texturemodifiedmeals.jpg" style="width:200px" align="right">
+<img align="right" style="width:200px" src="/images/Technology%20Portfolio/Success%20Stories/Ready%20To%20Eat%20Asian%20Meals/success_texturemodifiedmeals.jpg">
 
 National Health Innovation Centre (NHIC) has played an instrumental role in commercialising an idea from the Department of Food Services (DFS) from Changi General Hospital (CGH) to introduce the first ready-to-eat texture modified Asian Meals for those with swallowing difficulties. With facilitation by NHIC, CGH and Health Food Matters (HFM) signed a licensing agreement in September 2016 to distribute the meals in Singapore and countries such as Australia, Japan and New Zealand.
 
@@ -38,3 +38,11 @@ From L to R: Mrs Magdalin Cheong, Head/Deputy Director, Dietetic and Food Servic
 The collaboration between CGH and HFM represents the successful push to develop healthcare innovations that improve healthcare delivery and patient care in the face of Singapore’s greying population. With the support from NHIC, CGH could continue to work on improving the quality of life for people with dysphagia and their caregivers.
 
 For information on business or investment opportunities, please contact&nbsp;[enquiry@nhic.cris.sg](mailto:enquiry@nhic.cris.sg)
+
+##### Links:
+
+**Press release:**
+
+[http://www.todayonline.com/singapore/texture-modified-meals-developed-patients-swallowing-difficulties](http://www.todayonline.com/singapore/texture-modified-meals-developed-patients-swallowing-difficulties)
+
+[http://www.channelnewsasia.com/news/singapore/changi-general-hospital-ties-up-with-food-firm-for-ready-to-eat--7810306](http://www.channelnewsasia.com/news/singapore/changi-general-hospital-ties-up-with-food-firm-for-ready-to-eat--7810306)
