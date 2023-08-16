@@ -6,8 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-UroX Kickoff
-------------
 
 ![](/images/Resources/UroX%20Kickoff/20200724_urox.jpg)
 
