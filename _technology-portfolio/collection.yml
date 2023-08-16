@@ -3,6 +3,8 @@ collections:
     output: true
     order:
       - Technology Domains.md
+      - Success stories/National Health Innovation Centre bringing first ready
+        to eat texture modified Asian Meals.md
       - Success stories/.keep
       - Success stories/Early prototype design of the KLARO™ deep cavity
         surgical LED lighting device.md
