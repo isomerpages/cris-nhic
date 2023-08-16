@@ -11,7 +11,7 @@ image: ""
 
 Established in 2020 as a wholly owned subsidiary of MOH Holdings, CRIS seeks to strengthen synergies and promulgate strategies for national-level clinical research and translation programmes that are under the stewardship of the Ministry of Health (MOH). The organisation will preside over NHIC and four other entities as business units under a common management and governance structure.
 
-For more information on CRIS, click [here](https://www.scri.edu.sg/announcement-appointment-of-ceo-cris-and-ed-scri/)**.**
+For more information on CRIS, click [here](https://www.cris.sg/)**.**
 
 #### **About the Consortium for Clinical Research and Innovation Singapore (CRIS)**
 
