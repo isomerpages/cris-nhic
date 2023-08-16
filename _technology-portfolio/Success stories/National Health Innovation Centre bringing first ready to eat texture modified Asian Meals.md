@@ -27,7 +27,9 @@ While CGH had developed the in-house technology, CGH was also keen to find a par
 
 The partnership between CGH and HFM was negotiated in consultation with the National Health Innovation Centre. CGH and HFM signed a licensing agreement in September 2016. Under the terms of the agreement between CGH and HFM, the hospital will provide the technology for the meals to HFM, which will in turn produce, market and distribute the meals in Singapore, Japan, New Zealand, and Australia.
 
-![success texturedModifiedMeals1](https://nhic.sg/web/images/NHIC/success/success_texturedModifiedMeals1.jpg)_From L to R: Mrs Magdalin Cheong, Head/Deputy Director, Dietetic and Food Services Department, Changi General Hospital; Ms Lim Lee Nor, CFO Changi General Hospital; Dr Lee Chien Earn, CEO, Changi General Hospital; Mr Tan Soo Sam, CEO, Health Food Matters; Ms Grace Gan, VP Business, Health Food Matters and Mr Teo Cher Hwa, Director, National Health Innovation Centre (NHIC)_
+<img src="/images/Technology%20Portfolio/Success%20Stories/Ready%20To%20Eat%20Asian%20Meals/success_texturedmodifiedmeals1.jpg">
+
+From L to R: Mrs Magdalin Cheong, Head/Deputy Director, Dietetic and Food Services Department, Changi General Hospital; Ms Lim Lee Nor, CFO Changi General Hospital; Dr Lee Chien Earn, CEO, Changi General Hospital; Mr Tan Soo Sam, CEO, Health Food Matters; Ms Grace Gan, VP Business, Health Food Matters and Mr Teo Cher Hwa, Director, National Health Innovation Centre (NHIC)_
 
 “Dysphagia is a common problem among the elderly and a growing health concern in Singapore due to the rapidly ageing population. We are pleased to have found a like-minded partner in Health Food Matters to produce these meals for a wider audience, enabling us to continue focusing on research and development in dietetics to meet patients’ needs,” said Ms Magdalin Cheong, Head/Deputy Director, Department of Food Services, CGH
 
