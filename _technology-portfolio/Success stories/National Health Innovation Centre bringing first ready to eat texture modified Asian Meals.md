@@ -7,7 +7,7 @@ third_nav_title: Success stories
 ---
 Partnering National Health Innovation Centre in bringing first ready-to-eat texture modified Asian Meals for those with swallowing difficulties to market
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-<img align="right" style="width:200px" src="/images/Technology%20Portfolio/Success%20Stories/Ready%20To%20Eat%20Asian%20Meals/success_texturemodifiedmeals.jpg">
+<img src="/images/Technology%20Portfolio/Success%20Stories/Ready%20To%20Eat%20Asian%20Meals/success_texturemodifiedmeals.jpg" style="width:300px" align="right">
 
 National Health Innovation Centre (NHIC) has played an instrumental role in commercialising an idea from the Department of Food Services (DFS) from Changi General Hospital (CGH) to introduce the first ready-to-eat texture modified Asian Meals for those with swallowing difficulties. With facilitation by NHIC, CGH and Health Food Matters (HFM) signed a licensing agreement in September 2016 to distribute the meals in Singapore and countries such as Australia, Japan and New Zealand.
 
