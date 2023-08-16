@@ -9,7 +9,7 @@ image: ""
 Launch of a Clinical Innovation and Adoption Initiative
 -------------------------------------------------------
 
-[![20221006 NewsBanner](https://nhic.sg/web/images/NHIC/news/2022/20221006_NewsBanner.jpg)](https://form.gov.sg/#!/63353aa81f53700011f01d88)
+<img src="/images/Resources/Launch%20of%20Clinical%20Innovation/20221006_newsbanner.jpg"> 
 
 Over the past few decades, medical innovation has made great strides to improve medical management and hospital processes. However, despite such advances, challenges remain in the transition from technology innovations to clinical adoption in healthcare.
 
