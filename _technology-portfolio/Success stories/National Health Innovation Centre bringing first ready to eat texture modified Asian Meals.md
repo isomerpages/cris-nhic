@@ -7,10 +7,9 @@ third_nav_title: Success stories
 ---
 Partnering National Health Innovation Centre in bringing first ready-to-eat texture modified Asian Meals for those with swallowing difficulties to market
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+<img src="/images/Technology%20Portfolio/Success%20Stories/Ready%20To%20Eat%20Asian%20Meals/success_texturemodifiedmeals.jpg" style="width:200px" align="right">
 
-*   [](https://nhic.sg/web/index.php/partnering-national-health-innovation-centre-in-bringing-first-ready-to-eat-texture-modified-asian-meals-for-those-with-swallowing-difficulties-to-market)
-
-![success TextureModifiedMeals](https://nhic.sg/web/images/NHIC/success/success_TextureModifiedMeals.jpg)National Health Innovation Centre (NHIC) has played an instrumental role in commercialising an idea from the Department of Food Services (DFS) from Changi General Hospital (CGH) to introduce the first ready-to-eat texture modified Asian Meals for those with swallowing difficulties. With facilitation by NHIC, CGH and Health Food Matters (HFM) signed a licensing agreement in September 2016 to distribute the meals in Singapore and countries such as Australia, Japan and New Zealand.
+National Health Innovation Centre (NHIC) has played an instrumental role in commercialising an idea from the Department of Food Services (DFS) from Changi General Hospital (CGH) to introduce the first ready-to-eat texture modified Asian Meals for those with swallowing difficulties. With facilitation by NHIC, CGH and Health Food Matters (HFM) signed a licensing agreement in September 2016 to distribute the meals in Singapore and countries such as Australia, Japan and New Zealand.
 
 ##### Background
 
@@ -36,4 +35,4 @@ The partnership between CGH and HFM was negotiated in consultation with the Nati
 
 The collaboration between CGH and HFM represents the successful push to develop healthcare innovations that improve healthcare delivery and patient care in the face of Singapore’s greying population. With the support from NHIC, CGH could continue to work on improving the quality of life for people with dysphagia and their caregivers.
 
-For information on business or investment opportunities, please contact [enquiry@nhic.cris.sg](mailto:enquiry@nhic.cris.sg)
+For information on business or investment opportunities, please contact&nbsp;[enquiry@nhic.cris.sg](mailto:enquiry@nhic.cris.sg)
