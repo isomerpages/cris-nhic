@@ -28,15 +28,15 @@ We warmly welcome Assoc Prof Ho and look forward to his leadership to power prod
 <img src="https://nhic.sg/web/images/NHIC/team/TinaWong1.jpg" style="width:150px"> 
 Professor Tina Wong, who is Executive Director of the National Health Innovation Centre Singapore (NHIC) will complete her term of office on 31 December 2022. Tina has served two terms at NHIC since 2017 and has led NHIC in launching several programmes that accelerated the development of innovative clinical technologies towards commercialisation and adoption.
 
-Under Prof Wong’s stewardship, NHIC led the&nbsp;[Innovation to Industry (I2I)](https://nhic.sg/web/index.php/our-funding/industry-i2i)&nbsp;scheme and jointly started the&nbsp;[Innovation to Startup (I2START)](https://nhic.sg/web/index.php/our-funding/innovation-to-startup)&nbsp;grant with Enterprise Singapore and the Singapore-MIT Alliance for Research and Technology (SMART).
+Under Prof Wong’s stewardship, NHIC led the&nbsp;[Innovation to Industry (I2I)](/funding/industry-i2i/)&nbsp;scheme and jointly started the&nbsp;[Innovation to Startup (I2START)](/funding/innovation-to-startup/)&nbsp;grant with Enterprise Singapore and the Singapore-MIT Alliance for Research and Technology (SMART).
 
-During her term, she also led NHIC to participate in the Expanded Singapore Therapeutics Development Review (eSTDR) programme as a strategic partner. Together with the Centre for Healthcare Assistive &amp; Robotics Technology (CHART), NHIC also launched the&nbsp;[SG Healthcare Assistive and Robotics Programme (SHARP)](https://nhic.sg/web/index.php/collaborations/sharp-projects)&nbsp;which enables smart health facilities.
+During her term, she also led NHIC to participate in the Expanded Singapore Therapeutics Development Review (eSTDR) programme as a strategic partner. Together with the Centre for Healthcare Assistive &amp; Robotics Technology (CHART), NHIC also launched the&nbsp;SG Healthcare Assistive and Robotics Programme SHARP&nbsp;which enables smart health facilities.
 
 To further strengthen these schemes, talent development programmes were also incorporated through a partnership with Singapore BioDesign to train clinician innovators and entrepreneurs.
 
 During the COVID-19 pandemic, NHIC was instrumental in supporting MOH with quick turnaround technology assessments and swift administration of COVID-19 grants.
 
-Recently in 2022, Prof Wong&nbsp;[led the rebranding of NHIC](https://nhic.sg/web/index.php/about-us/our-identity)&nbsp;to offer a holistic suite of programmes to power healthtech innovations in Singapore. These include a&nbsp;[Clinical Innovation and Adoption Initiative (I2Adopt)](https://nhic.sg/web/index.php/our-funding/innovation-to-adopt), to enable the adoption of cost-effective clinical innovations across the local public health clusters, building venture co-creation and technology development partnerships and nurturing tri-competent healthtech talent.
+Recently in 2022, Prof Wong&nbsp;[led the rebranding of NHIC](/about/objectives-and-identity/)&nbsp;to offer a holistic suite of programmes to power healthtech innovations in Singapore. These include a&nbsp;[Clinical Innovation and Adoption Initiative (I2Adopt)](/funding/innovation-to-adopt/), to enable the adoption of cost-effective clinical innovations across the local public health clusters, building venture co-creation and technology development partnerships and nurturing tri-competent healthtech talent.
 
 Under her leadership, NHIC facilitated the transaction of 49 commercial licences, generating S$3.4 million of licensing revenue, and catalysed the formation of 16 spin-offs, raising a total investment amount of more than S$32 million.
 
