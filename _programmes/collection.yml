@@ -2,6 +2,8 @@ collections:
   programmes:
     output: true
     order:
+      - FAQs/HOW DO I APPLY FOR THE NATIONAL RESEARCH FOUNDATION (NRF) CENTRAL
+        GAP FUND?.md
       - FAQs/.keep
       - Overview.md
       - Funding/.keep
