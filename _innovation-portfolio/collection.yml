@@ -2,6 +2,7 @@ collections:
   innovation-portfolio:
     output: true
     order:
+      - Startups/.keep
       - Technology Domains.md
       - Success stories/.keep
       - Success stories/Early prototype design of the KLARO™ deep cavity
