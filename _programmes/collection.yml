@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - FAQs.md
       - Overview.md
       - Funding/.keep
       - Funding/Innovation to Protect (I2P).md
@@ -14,3 +13,4 @@ collections:
       - Talent Development.md
       - Therapeutic Development.md
       - Downloadable Forms.md
+      - FAQs.md
