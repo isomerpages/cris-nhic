@@ -1,5 +1,5 @@
 collections:
-  technology-portfolio:
+  innovation-portfolio:
     output: true
     order:
       - Technology Domains.md
