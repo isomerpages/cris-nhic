@@ -7,7 +7,7 @@ third_nav_title: Success stories
 ---
 Partnering National Health Innovation Centre in bringing first ready-to-eat texture modified Asian Meals for those with swallowing difficulties to market
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-<img src="/images/Technology%20Portfolio/Success%20Stories/Ready%20To%20Eat%20Asian%20Meals/success_texturemodifiedmeals.jpg" style="width:300px" align="right">
+<img align="right" style="width:300px" src="/images/Innovation%20Portfolio/Success%20Stories/Ready%20To%20Eat%20Asian%20Meals/success_texturemodifiedmeals.jpg">
 
 National Health Innovation Centre (NHIC) has played an instrumental role in commercialising an idea from the Department of Food Services (DFS) from Changi General Hospital (CGH) to introduce the first ready-to-eat texture modified Asian Meals for those with swallowing difficulties. With facilitation by NHIC, CGH and Health Food Matters (HFM) signed a licensing agreement in September 2016 to distribute the meals in Singapore and countries such as Australia, Japan and New Zealand.
 
@@ -27,7 +27,7 @@ While CGH had developed the in-house technology, CGH was also keen to find a par
 
 The partnership between CGH and HFM was negotiated in consultation with the National Health Innovation Centre. CGH and HFM signed a licensing agreement in September 2016. Under the terms of the agreement between CGH and HFM, the hospital will provide the technology for the meals to HFM, which will in turn produce, market and distribute the meals in Singapore, Japan, New Zealand, and Australia.
 
-<img src="/images/Technology%20Portfolio/Success%20Stories/Ready%20To%20Eat%20Asian%20Meals/success_texturedmodifiedmeals1.jpg">
+<img src="/images/Innovation%20Portfolio/Success%20Stories/Ready%20To%20Eat%20Asian%20Meals/success_texturedmodifiedmeals1.jpg">
 
 From L to R: Mrs Magdalin Cheong, Head/Deputy Director, Dietetic and Food Services Department, Changi General Hospital; Ms Lim Lee Nor, CFO Changi General Hospital; Dr Lee Chien Earn, CEO, Changi General Hospital; Mr Tan Soo Sam, CEO, Health Food Matters; Ms Grace Gan, VP Business, Health Food Matters and Mr Teo Cher Hwa, Director, National Health Innovation Centre (NHIC)_
 
