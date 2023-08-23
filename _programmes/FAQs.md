@@ -83,7 +83,8 @@ This grant focuses on implementation and eventual adoption of a technology into 
 	* Screening
 	* Diagnosis and Monitoring
 	* Intervention
-* Applicants are invited to submit proposals for the above themes (there is no further categorisation of sub-specialty or disease areas). The grant aims to support disease areas with high-prevalence in Singapore, and also areas for which participating/partnering PHIs deem as critical and would procure/adopt the proposed solution after the test-bedding/piloting period.
+
+Applicants are invited to submit proposals for the above themes (there is no further categorisation of sub-specialty or disease areas). The grant aims to support disease areas with high-prevalence in Singapore, and also areas for which participating/partnering PHIs deem as critical and would procure/adopt the proposed solution after the test-bedding/piloting period.
 
 **11. How will background ip and foreground ip ownership be managed?**
 
