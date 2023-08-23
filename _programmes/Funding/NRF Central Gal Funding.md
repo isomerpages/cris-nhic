@@ -31,15 +31,15 @@ applying for the Central Gap Fund.
 		</tr>
 		<tr>
 			<td><b>NHG</b></td>
-			<td><b>Michael Ho</b> Michael.ho@nhic.cris.sg <br><br>
-							<b>Chuah Yon Jin</b> mailto:Yonjin.chuah@nhic.cris.sg
+			<td><b>Michael Ho</b><a href="mailto:Michael.ho@nhic.cris.sg"> Michael.ho@nhic.cris.sg</a><br><br>
+							<b>Chuah Yon Jin</b> <a href="mailto:Yonjin.chuah@nhic.cris.sg">Yonjin.chuah@nhic.cris.sg</a>
 			</td>
 		</tr>
 		<tr>
 			<td><b>NUHS<br>
 	(also includes YLLSoM, Dentistry and SSHSPH)</b></td>
-			<td><b>Tan Ee Lim</b> Eelim.tan@nhic.cris.sg <br><br>
-							<b>Smitha Velayil</b> smitha.velayil@nhic.cris.sg
+			<td>Tan Ee Lim <a href="mailto:Eelim.tan@nhic.cris.sg">Eelim.tan@nhic.cris.sg</a> <br><br>
+				Smitha Velayil <a href="mailto:smitha.velayil@nhic.cris.sg">smitha.velayil@nhic.cris.sg</a>
 			</td>
 		</tr>
 			</tbody></table>
