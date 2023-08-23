@@ -47,11 +47,11 @@ description: ""
 
 **4. If the solution involves patient data collection, what level of compliance with data security regulations is expected for the demo/test-bedding?**
 
-* Projects will have to be performed in accordance to local and hospital regulations and guidelines. Depending on the solution, some projects will need to engage the local IT agency for public healthcare, which will be done with the partner hospital’s IT offices.
+Projects will have to be performed in accordance to local and hospital regulations and guidelines. Depending on the solution, some projects will need to engage the local IT agency for public healthcare, which will be done with the partner hospital’s IT offices.
 
 **5. Can private sector companies apply for this grant?**
 
-* Private sector companies must partner a PHI that is keen to adopt the proposed solution after the test-bedding/piloting period. The PHI partner is the lead party to apply for the I2A grant, and the Principal Lead of the proposal must hold a primary appointment within one of the PHIs.
+Private sector companies must partner a PHI that is keen to adopt the proposed solution after the test-bedding/piloting period. The PHI partner is the lead party to apply for the I2A grant, and the Principal Lead of the proposal must hold a primary appointment within one of the PHIs.
 
 **6. What is the funding quantum, funding period, fund flow mechanism and what does the grant cover?**
 
@@ -67,6 +67,7 @@ description: ""
 **7. What areas of healthcare ops/plans does this grant fund?**
 
 Solutions that have currently secured an implementation partner (e.g. healthcare clusters, community hospitals and nursing homes) in one healthcare cluster, are economically sustainable, with compelling operational cost savings for PHI and/or benefit a significant population segment will have an added advantage when assessed in competition with others.
+
 This grant focuses on implementation and eventual adoption of a technology into the healthcare system which provides patient impact, economical benefit for Singapore’s healthcare system. Thus, this grant is not suitable for proposals that are looking to seek funding for early research studies, research evaluation, productivity enhancements in regular care delivery workflows (fundable if the resulting workflows are a necessity and directly associated with the adoption of proposed technology in the application), training programmes and pedagogies not associated with the new technology.
 
 **8. What stage of technology will i2adopt support?**
