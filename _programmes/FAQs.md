@@ -87,8 +87,14 @@ This grant focuses on implementation and eventual adoption of a technology into 
 
 **11. how will background ip and foreground ip ownership be managed?**
 
+* As the I2Adopt is focusing on providing an opportunity for technology in translation/mature stage we understand that it is unlikely for new foreground IP to be created. If there are new FIPs created, we encourage that t the industry partner and PHI to discuss and agree on mutually amicable IP management and commercial terms.
+
 **12. what types of healthcare/ healthtech/ medtech innovations are included in this grant? for example, does this grant only refer to clinical lab based solutions (e.g. drug development, diagnostic devices etc.) or other health-tech solutions (e.g. iot and ai enabled remote patient monitoring programmes that can deliver measurable health outcomes)?**
 
+* The I2Adopt thematic grant call is based on healthcare needs and not specific technology types (i.e. the grant is technology agnostic). For example, for the first grant call we are looking for proposals focusing on screening, regardless of disease areas or health-tech solution.
+* Upcoming I2Adopt Grant Calls
+	* I2Adopt Cycle 2 on Diagnostics and Monitoring: Opens 3 April 2023, closes 2 May 2023
+	* I2Adopt Cycle 3 on Intervention: Opens 4 Aug 2023, closes 4 Sept 2023
 
 ##### Pre-award
 
