@@ -8,12 +8,12 @@ description: ""
 **Grant administration**
 
 ##### NRF Central Gap Fund
-**Which innovation and enterprise office (ieo) manages the submission of the national research foundation (nrf) central gap applications for the public healthcare institutions?**
+**1. Which innovation and enterprise office (ieo) manages the submission of the national research foundation (nrf) central gap applications for the public healthcare institutions?**
 
 * NHIC is the designated Innovation and Enterprise Office (IEO) for public hospitals, public health institutions, and National Specialty Centres. Please send your Central Gap related inquiries to&nbsp;[enquiry@nhic.cris.sg.](mailto:enquiry@nhic.cris.sg)
 
 
-**How do i apply for the national research foundation (nrf) central gap fund?**
+**2. How do i apply for the national research foundation (nrf) central gap fund?**
 
 * All Central Gap applications from the public healthcare institutions must be endorsed by NHIC. Please speak to the respective NHIC Cluster manager if you are interested in applying for the Central Gap Fund.
 
