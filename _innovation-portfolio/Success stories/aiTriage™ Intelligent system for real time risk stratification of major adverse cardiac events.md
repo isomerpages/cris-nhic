@@ -16,7 +16,7 @@ The importance of MACE and the potential impact of a prediction of MACE in patie
 
 aiTRIAGE™ is suitable for large-scale deployment across healthcare facilities. Hence, the market potential of the intelligent risk stratification device is high. Due to it being responsive, accurate and cost-effective, GP and community clinics can effectively offer the service to distinguish between those who require urgent treatment of serious problems and those who do not have life-threatening conditions, potentially without requiring immediate admission to hospital. Additionally given the portability of this technology, it can also be developed for use on high risk individuals for early identification and management if a situation of risk is identified. Evolution to self-monitoring provides the potential for lower costs via early diagnosis and intervention and less pressure on the emergency health care system. This simplicity offers the potential to substantially increase quality of care in developing countries especially in rural and remote areas where access to appropriately experienced HCPs to assess the clinical parameters may be more limited.
 
-![](/images/Technology%20Portfolio/Success%20Stories/AiTriage/success_aitriage1.jpg)
+![](/images/Innovation%20Portfolio/Success%20Stories/AiTriage/success_aitriage1.jpg)
 
 Fig.1 Prototype developed under NHIC grant for multiple vital signs monitoring
 
@@ -24,10 +24,10 @@ Fig.1 Prototype developed under NHIC grant for multiple vital signs monitoring
 	<tbody>
 		<tr>
 			<td width="50%">
-				<img src="/images/Technology%20Portfolio/Success%20Stories/AiTriage/success_aitriage2.jpg">
+				<img src="/images/Innovation%20Portfolio/Success%20Stories/AiTriage/success_aitriage2.jpg">
 			</td>
 			<td width="50%">
-				<img src="/images/Technology%20Portfolio/Success%20Stories/AiTriage/success_aitriage3.jpg">
+				<img src="/images/Innovation%20Portfolio/Success%20Stories/AiTriage/success_aitriage3.jpg">
 			</td>
 		</tr>
 	</tbody>
