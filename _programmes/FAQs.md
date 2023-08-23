@@ -7,6 +7,8 @@ description: ""
 
 #### Overview
 * [I2Adopt Questions](#I2Adopt)
+* [Pre-award Questions](#Pre-award)
+* [Post-award Questions](#Post-award)
 
 ### Grant Administration
 
@@ -108,6 +110,8 @@ Reach us at:&nbsp;[grant@nhic.cris.sg](mailto:grant@nhic.cris.sg)&nbsp;if you ha
 
 ##### Pre-award
 
+<a name="Pre-award"></a>
+
 **1. What types of grant schemes does nhic provide?**
 
 There are three types of Grant Schemes available from NHIC.
@@ -150,6 +154,7 @@ A maximum of 30% Indirect Research Cost is allowable during NHIC Phase in the I2
 You will receive an email notification on the outcome of your I2D grant application from the NHIC Grant Secretariat within six (6) weeks of the submission date.
 
 ##### Post-Award
+<a name="Post-Award"></a>
 
 **1. How do i request a budget variation? (applicable only to the i2d/i2i grant)**
 
