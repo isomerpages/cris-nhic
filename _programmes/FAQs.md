@@ -5,7 +5,7 @@ description: ""
 ---
 ### Frequently Asked Questions (FAQs)
 
-**Grant administration**
+### Grant Administration
 
 ##### NRF Central Gap Fund
 **1. Which innovation and enterprise office (ieo) manages the submission of the national research foundation (nrf) central gap applications for the public healthcare institutions?**
@@ -40,20 +40,50 @@ description: ""
 
 **3. Is commercialisation a critical consideration in this grant, given that it’s looking to fund mature technology?**
 
+* In order to truly enable better patient outcomes and healthcare impact, commercial partners are often required to help PHIs scale innovation beyond its own sphere of influence.
+* Commercial merit can be defined in various ways
+* For hospitals it can be measured in terms of healthcare economics – e.g. staff /patient benefit coupled to overall reduction in healthcare costs, thereby leading to value-based healthcare; for industry it could be defined as sales, profit and market expansion.
+* It is a natural progression of the innovation journey to pilot/test-bed in a controlled clinical setting, to prepare for implementation/integration into clinical work flows that can subsequently be adopted/scaled in real-world settings.
+
 **4. If the solution involves patient data collection, what level of compliance with data security regulations is expected for the demo/test-bedding?**
+
+* Projects will have to be performed in accordance to local and hospital regulations and guidelines. Depending on the solution, some projects will need to engage the local IT agency for public healthcare, which will be done with the partner hospital’s IT offices.
 
 **5. Can private sector companies apply for this grant?**
 
+* Private sector companies must partner a PHI that is keen to adopt the proposed solution after the test-bedding/piloting period. The PHI partner is the lead party to apply for the I2A grant, and the Principal Lead of the proposal must hold a primary appointment within one of the PHIs.
+
 **6. What is the funding quantum, funding period, fund flow mechanism and what does the grant cover?**
+
+* Funding quantum: up to $1Mil, reviewed on a project by project basis
+* Funding period: typically 12 months (extensions can be considered on a case-by-case basis with clear justifications – another 6 months’ extension, up to a maximum of 18 months’ funding period, may be considered)
+* Funding will flow from NHIC to PHIs, who will in turn flow funds to industry/international partners, according to distribution amounts stated in the project proposal, via appropriate service agreements established between PHI and partner(s).
+* Grant can be used to cover:
+	* Costs directly associated with proof-of-value/test bedding project, such as small-scale manufacturing for the purpose of the pilot, purchase of consumables, customisation, test-bedding services (such as protocol planning, test bed execution and data management), analytics and evaluation services.
+	* Costs incurred to engage an independent expert for the purpose of evaluating the proof-of-value/test bedding project at their discretion. Applicants are to provide an estimation for evaluation for the purposes of submission based on best knowledge.
+	* Outsourcing to third party vendors to perform roles that collaborating partners do not have the expertise to (provide separate justification and quotations)
+	* Costs incurred for project administration, test-bedding and implementation of the technology.
 
 **7. What areas of healthcare ops/plans does this grant fund?**
 
+* Solutions that have currently secured an implementation partner (e.g. healthcare clusters, community hospitals and nursing homes) in one healthcare cluster, are economically sustainable, with compelling operational cost savings for PHI and/or benefit a significant population segment will have an added advantage when assessed in competition with others.
+This grant focuses on implementation and eventual adoption of a technology into the healthcare system which provides patient impact, economical benefit for Singapore’s healthcare system. Thus, this grant is not suitable for proposals that are looking to seek funding for early research studies, research evaluation, productivity enhancements in regular care delivery workflows (fundable if the resulting workflows are a necessity and directly associated with the adoption of proposed technology in the application), training programmes and pedagogies not associated with the new technology.
+
 **8. what stage of technology will i2adopt support?**
+
+* We are seeking for solutions at a stage of conducting an implementation trial within the healthcare system i.e. likelihood Technology Readiness Level (TRL) 7 and above, to translate said technology to adoption/implementation at nesting institution with eventual aim to scale to another cluster (TRL 7 and above preferred but TRL 6 can be considered if there are strong merits and clear healthcare/economic benefits to Singapore). Those that have attained regulatory approvals from globally recognised regulatory authorities would have an advantage. Earlier-stage projects will be redirected to other suitable grants such as I2D/I2I or other sources.
 
 **9. what would be the expected outcomes of the grant?**
 
+* The test-bedded/piloted solution should bring about both health and economic outcomes to the Singapore healthcare system. Ideally, at the end of the grant period, the solution would be able to demonstrate compelling evidence to support eventual adoption across at least 2 public healthcare clusters (for e.g. SingHealth or National Healthcare Group). Thus, the proposal should be designed to provide stakeholders with adequate information to enable adoption. This could potentially include a proof-of value study to unequivocally convince stakeholders of the costs invested in the development, or projected total ownership costs. In short, results should be clear for partnering healthcare clusters to make a decision on whether to procure and adopt the solution.
+
 **10. are there any specific disease areas the grant is looking to fund?**
 
+* There will be 3 grant call themes centred around:-
+	* Screening
+	* Diagnosis and Monitoring
+	* Intervention
+* Applicants are invited to submit proposals for the above themes (there is no further categorisation of sub-specialty or disease areas). The grant aims to support disease areas with high-prevalence in Singapore, and also areas for which participating/partnering PHIs deem as critical and would procure/adopt the proposed solution after the test-bedding/piloting period.
 
 **11. how will background ip and foreground ip ownership be managed?**
 
