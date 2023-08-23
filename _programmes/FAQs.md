@@ -13,8 +13,8 @@ description: ""
 
 ### Grant Administration
 
-##### NRF Central Gap Fund
 <a name="NRF"></a>
+##### NRF Central Gap Fund
 
 **1. Which innovation and enterprise office (ieo) manages the submission of the national research foundation (nrf) central gap applications for the public healthcare institutions?**
 
@@ -27,9 +27,8 @@ description: ""
 
 <table style="max-width: 100%; background-color: rgb(255, 255, 255); border-collapse: collapse; border-spacing: 0px; padding: 0px; margin: 10px 0px; color: rgb(54, 54, 54); font-family: Arimo, Verdana, Geneva, sans-serif; font-size: 15.2px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 823.125px; border-width: 1px; border-color: rgb(229, 229, 229);" cellpadding="5" border="1"><tbody><tr><td style="width: 210.969px; vertical-align: top;">Healthcare Cluster</td><td style="vertical-align: top;">NHIC Cluster Manager</td></tr><tr><td style="width: 210.969px; vertical-align: top;">SingHealth</td><td style="vertical-align: top;">Dr Tan Ee Lim</td></tr><tr><td style="width: 210.969px; vertical-align: top;">NHG</td><td style="vertical-align: top;">Dr Michael Ho, Dr Chuah Yon Jin</td></tr><tr><td style="width: 210.969px; vertical-align: top;">NUHS</td><td style="vertical-align: top;">Dr Yeow Siang Lin</td></tr></tbody></table>
 
-##### I2Adopt 
-
 <a name="I2Adopt"></a>
+##### I2Adopt 
 
 **1. What does a typical deployment plan include?**
 
@@ -111,9 +110,8 @@ The I2Adopt thematic grant call is based on healthcare needs and not specific te
 
 Reach us at:&nbsp;[grant@nhic.cris.sg](mailto:grant@nhic.cris.sg)&nbsp;if you have any questions
 
-##### Pre-award
-
 <a name="Pre-award"></a>
+##### Pre-award
 
 **1. What types of grant schemes does nhic provide?**
 
@@ -156,8 +154,8 @@ A maximum of 30% Indirect Research Cost is allowable during NHIC Phase in the I2
 
 You will receive an email notification on the outcome of your I2D grant application from the NHIC Grant Secretariat within six (6) weeks of the submission date.
 
-##### Post-Award
 <a name="Post-Award"></a>
+##### Post-Award
 
 **1. How do i request a budget variation? (applicable only to the i2d/i2i grant)**
 
