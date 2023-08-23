@@ -13,7 +13,7 @@ description: ""
 * NHIC is the designated Innovation and Enterprise Office (IEO) for public hospitals, public health institutions, and National Specialty Centres. Please send your Central Gap related inquiries to&nbsp;[enquiry@nhic.cris.sg.](mailto:enquiry@nhic.cris.sg)
 
 
-** How do i apply for the national research foundation (nrf) central gap fund?**
+**How do i apply for the national research foundation (nrf) central gap fund?**
 
 * All Central Gap applications from the public healthcare institutions must be endorsed by NHIC. Please speak to the respective NHIC Cluster manager if you are interested in applying for the Central Gap Fund.
 
