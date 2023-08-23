@@ -13,6 +13,7 @@ The National Healthcare Innovation centre (NHIC) is the designated Innovation an
 Please speak to one of the respective NHIC Cluster managers if you are interested in
 applying for the Central Gap Fund.
 
+
 <table>
 	<tbody>
 		<tr>
