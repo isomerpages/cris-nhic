@@ -154,7 +154,7 @@ A maximum of 30% Indirect Research Cost is allowable during NHIC Phase in the I2
 
 You will receive an email notification on the outcome of your I2D grant application from the NHIC Grant Secretariat within six (6) weeks of the submission date.
 
-<a name="Post-Award"></a>
+<a name="Post-award"></a>
 ##### Post-Award
 
 **1. How do i request a budget variation? (applicable only to the i2d/i2i grant)**
