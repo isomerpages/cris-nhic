@@ -9,9 +9,9 @@ plano®: An Innovative Parental Monitoring App to better manage smart device use
 ------------------------------------------------------------------------------------------------------
 
 
-<img src="/images/Technology%20Portfolio/Success%20Stories/Plano/santen-icon.jpg" style="width:150px" align="left">
+<img src="/images/Innovation%20Portfolio/Success%20Stories/Plano/santen-icon.jpg" style="width:150px" align="left">
 
-<img src="/images/Technology%20Portfolio/Success%20Stories/Plano/plano-icon.jpg" style="width:150px" align="right">
+<img src="/images/Innovation%20Portfolio/Success%20Stories/Plano/plano-icon.jpg" style="width:150px" align="right">
 
 
 
