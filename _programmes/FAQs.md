@@ -9,14 +9,11 @@ description: ""
 
 ##### nrf central gap fund
 1. Which innovation and enterprise office (ieo) manages the submission of the national research foundation (nrf) central gap applications for the public healthcare institutions?
-> NHIC is the designated Innovation and Enterprise Office (IEO) for public hospitals, public health institutions, and National Specialty Centres. Please send your Central Gap related inquiries to [enquiry@nhic.cris.sg.](mailto:enquiry@nhic.cris.sg)
+&gt; NHIC is the designated Innovation and Enterprise Office (IEO) for public hospitals, public health institutions, and National Specialty Centres. Please send your Central Gap related inquiries to&nbsp;[enquiry@nhic.cris.sg.](mailto:enquiry@nhic.cris.sg)
 2. How do i apply for the national research foundation (nrf) central gap fund?
-> All Central Gap applications from the public healthcare institutions must be endorsed by NHIC. Please speak to the respective NHIC Cluster manager if you are interested in applying for the Central Gap Fund.
+&gt; All Central Gap applications from the public healthcare institutions must be endorsed by NHIC. Please speak to the respective NHIC Cluster manager if you are interested in applying for the Central Gap Fund.
 
-Healthcare Cluster	NHIC Cluster Manager
-SingHealth	Dr Tan Ee Lim
-NHG	Dr Michael Ho, Dr Chuah Yon Jin
-NUHS	Dr Yeow Siang Lin
+<table style="max-width: 100%; background-color: rgb(255, 255, 255); border-collapse: collapse; border-spacing: 0px; padding: 0px; margin: 10px 0px; color: rgb(54, 54, 54); font-family: Arimo, Verdana, Geneva, sans-serif; font-size: 15.2px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 823.125px; border-width: 1px; border-color: rgb(229, 229, 229);" cellpadding="5" border="1"><tbody><tr><td style="width: 210.969px; vertical-align: top;">Healthcare Cluster</td><td style="vertical-align: top;">NHIC Cluster Manager</td></tr><tr><td style="width: 210.969px; vertical-align: top;">SingHealth</td><td style="vertical-align: top;">Dr Tan Ee Lim</td></tr><tr><td style="width: 210.969px; vertical-align: top;">NHG</td><td style="vertical-align: top;">Dr Michael Ho, Dr Chuah Yon Jin</td></tr><tr><td style="width: 210.969px; vertical-align: top;">NUHS</td><td style="vertical-align: top;">Dr Yeow Siang Lin</td></tr></tbody></table>
 
 i2adopt 
 1. what does a typical deployment plan include?
