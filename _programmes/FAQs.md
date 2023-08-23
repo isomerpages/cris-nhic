@@ -110,17 +110,38 @@ There are three types of Grant Schemes available from NHIC.
 
 **2. Who is eligible to apply for nhic grants?**
 
+**I2D Grant:**&nbsp;The Principal Investigator must hold a primary appointment and be salaried by one of the following local institutions:  
+**I2P Grant:**&nbsp;One of the Inventors must hold a primary appointment and be salaried by one of the below local institutions:
+
+<table style="max-width: 100%; background-color: rgb(255, 255, 255); border-collapse: collapse; border-spacing: 0px; padding: 0px; margin: 10px 0px 0px; color: rgb(54, 54, 54); font-family: Arimo, Verdana, Geneva, sans-serif; font-size: 15.2px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 823.125px; border-width: 1px; border-color: rgb(229, 229, 229);" cellpadding="5" border="1"><tbody><tr><td style="width: 210.969px; vertical-align: top;"><strong style="font-weight: bold;">Public Hospital</strong></td><td style="vertical-align: top;">Singapore General Hospital, Changi General Hospital, National University Hospital, Tan Tock Seng Hospital, Ng Teng Fong General Hospital, Khoo Teck Puat Hospital, KK Woman’s and Children’s Hospital, Seng Kang Health, Alexandra Hospital</td></tr><tr><td style="vertical-align: top;"><strong style="font-weight: bold;">Public Health Institution</strong></td><td style="vertical-align: top;">Singapore Eye Research Institution, NUS Saw Swee Hock School of Public Health, Institute of Mental Health</td></tr><tr><td style="vertical-align: top;"><strong style="font-weight: bold;">National Speciality Centre</strong></td><td style="vertical-align: top;">National Skin Centre Singapore, National Heart Centre Singapore, National Cancer Centre Singapore, National Neuroscience Institute Singapore, National Dental Centre Singapore, National University Cancer Institute Singapore, National University Heart Centre Singapore, Singapore National Eye Centre</td></tr><tr><td style="vertical-align: top;"><strong style="font-weight: bold;">Academic Medical Centre/Medical School</strong></td><td style="vertical-align: top;">Duke-NUS Medical School, NTU Lee Kong Chian School of Medicine, NUS Yong Loo Lin School of Medicine</td></tr></tbody></table>
 
 **3. How do i apply for a grant?**
 
+**I2D Grant:**&nbsp;Interested applicants must submit a NHIC I2D Grant Application Form (NHIC-I2D-FORM-1) through your Healthcare Cluster Research/Innovation Office to NHIC. Consult your respective Healthcare Cluster Research/Innovation Office for their internal deadline submission date.
+
+**I2Start Program**: Interested applicant must submit a Letter of Intent (I2S-FORM-1) to the I2Start Grant Secretariat at&nbsp;[](mailto:grant@nhic.sg.)[grant@nhic.cris.sg](mailto:grant@nhic.cris.sg).
+
+**I2P Scheme:**&nbsp;Interested applicant must submit a NHIC I2P Patent Support Scheme Application Form (NHIC-I2P-FORM-1) and Invention Disclosure Form (NHIC-I2P-FORM-2) through your Healthcare Cluster Research/Innovation Office to NHIC. Kindly consult your respective Healthcare Cluster Research/Innovation Office for more details.
+
+**I2I Grant:**&nbsp;By invitation only. Interested applicants must speak with your NHIC Innovation Manager for more details.
+
 **4. When are the deadlines for application submission?**
 
+**I2D Grant:**&nbsp;The due date for grant application submission falls on the first Friday, 5pm of each April, August, and December. If the due date falls on a public holiday, the submission deadline is next business day. For confirmation of dates and application forms, see nhic.sg.
 
+**I2Start Program**: There is no deadline for the submission of I2S Letter of Intent. The Letter of Intent (LOI) will be accepted on a rolling basis throughout the year and will be batch processed by the I2S Program Team.
+
+**I2P Scheme:**&nbsp;There is no deadline for I2P applications; the application should be lodged before the respective patent action is undertaken.
 
 **5. Do you allow indirect research costs?**
 
+Yes, a maximum of 30% Indirect Research Costs are allowable under the I2D and I2I grants.
+
+A maximum of 30% Indirect Research Cost is allowable during NHIC Phase in the I2Start Program.
 
 **6. How can i check the outcome of my i2d grant application?**
+
+You will receive an email notification on the outcome of your I2D grant application from the NHIC Grant Secretariat within six (6) weeks of the submission date.
 
 ##### Post-Award
 
