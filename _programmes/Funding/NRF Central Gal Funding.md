@@ -43,3 +43,5 @@ applying for the Central Gap Fund.
 			</td>
 		</tr>
 			</tbody></table>
+			
+For general Central Gap related inquiries, please email [enquiry@nhic.cris.sg.](mailto:enquiry@nhic.cris.sg)
