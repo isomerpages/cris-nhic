@@ -7,7 +7,9 @@ description: ""
 
 The National Health Innovation Centre Singapore provides the publicly-funded clinical research sector of Singapore with translational funding and strategic guidance to accelerate healthcare innovation. Established in 2014, we support the development of innovative technologies and services to improve healthcare delivery and patient care. NHIC funding aims to expedite the translation of an innovation towards a market-ready product.
 
-<img src="/images/About/nhic_whatwedo_202210.jpg" style="width:500px">
+<img src="/images/Programmes/img-20230822-wa0032%20revised.jpg" style="width:500px">
+<img src="/images/Programmes/img-20230822-wa0031_revised.jpg" style="width:500px">
+
 
 ### How we work
 
