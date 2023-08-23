@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Funding/NRF Central Gal Funding.md
       - Funding/.keep
       - Funding/Innovation to Protect (I2P).md
       - Funding/Joint MedTech Grants.md
