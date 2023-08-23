@@ -69,15 +69,15 @@ description: ""
 * Solutions that have currently secured an implementation partner (e.g. healthcare clusters, community hospitals and nursing homes) in one healthcare cluster, are economically sustainable, with compelling operational cost savings for PHI and/or benefit a significant population segment will have an added advantage when assessed in competition with others.
 This grant focuses on implementation and eventual adoption of a technology into the healthcare system which provides patient impact, economical benefit for Singapore’s healthcare system. Thus, this grant is not suitable for proposals that are looking to seek funding for early research studies, research evaluation, productivity enhancements in regular care delivery workflows (fundable if the resulting workflows are a necessity and directly associated with the adoption of proposed technology in the application), training programmes and pedagogies not associated with the new technology.
 
-**8. what stage of technology will i2adopt support?**
+**8. What stage of technology will i2adopt support?**
 
 * We are seeking for solutions at a stage of conducting an implementation trial within the healthcare system i.e. likelihood Technology Readiness Level (TRL) 7 and above, to translate said technology to adoption/implementation at nesting institution with eventual aim to scale to another cluster (TRL 7 and above preferred but TRL 6 can be considered if there are strong merits and clear healthcare/economic benefits to Singapore). Those that have attained regulatory approvals from globally recognised regulatory authorities would have an advantage. Earlier-stage projects will be redirected to other suitable grants such as I2D/I2I or other sources.
 
-**9. what would be the expected outcomes of the grant?**
+**9. What would be the expected outcomes of the grant?**
 
 * The test-bedded/piloted solution should bring about both health and economic outcomes to the Singapore healthcare system. Ideally, at the end of the grant period, the solution would be able to demonstrate compelling evidence to support eventual adoption across at least 2 public healthcare clusters (for e.g. SingHealth or National Healthcare Group). Thus, the proposal should be designed to provide stakeholders with adequate information to enable adoption. This could potentially include a proof-of value study to unequivocally convince stakeholders of the costs invested in the development, or projected total ownership costs. In short, results should be clear for partnering healthcare clusters to make a decision on whether to procure and adopt the solution.
 
-**10. are there any specific disease areas the grant is looking to fund?**
+**10. Are there any specific disease areas the grant is looking to fund?**
 
 * There will be 3 grant call themes centred around:-
 	* Screening
@@ -85,66 +85,71 @@ This grant focuses on implementation and eventual adoption of a technology into 
 	* Intervention
 * Applicants are invited to submit proposals for the above themes (there is no further categorisation of sub-specialty or disease areas). The grant aims to support disease areas with high-prevalence in Singapore, and also areas for which participating/partnering PHIs deem as critical and would procure/adopt the proposed solution after the test-bedding/piloting period.
 
-**11. how will background ip and foreground ip ownership be managed?**
+**11. How will background ip and foreground ip ownership be managed?**
 
-* As the I2Adopt is focusing on providing an opportunity for technology in translation/mature stage we understand that it is unlikely for new foreground IP to be created. If there are new FIPs created, we encourage that t the industry partner and PHI to discuss and agree on mutually amicable IP management and commercial terms.
+As the I2Adopt is focusing on providing an opportunity for technology in translation/mature stage we understand that it is unlikely for new foreground IP to be created. If there are new FIPs created, we encourage that t the industry partner and PHI to discuss and agree on mutually amicable IP management and commercial terms.
 
-**12. what types of healthcare/ healthtech/ medtech innovations are included in this grant? for example, does this grant only refer to clinical lab based solutions (e.g. drug development, diagnostic devices etc.) or other health-tech solutions (e.g. iot and ai enabled remote patient monitoring programmes that can deliver measurable health outcomes)?**
+**12. What types of healthcare/ healthtech/ medtech innovations are included in this grant? for example, does this grant only refer to clinical lab based solutions (e.g. drug development, diagnostic devices etc.) or other health-tech solutions (e.g. iot and ai enabled remote patient monitoring programmes that can deliver measurable health outcomes)?**
 
-* The I2Adopt thematic grant call is based on healthcare needs and not specific technology types (i.e. the grant is technology agnostic). For example, for the first grant call we are looking for proposals focusing on screening, regardless of disease areas or health-tech solution.
+The I2Adopt thematic grant call is based on healthcare needs and not specific technology types (i.e. the grant is technology agnostic). For example, for the first grant call we are looking for proposals focusing on screening, regardless of disease areas or health-tech solution.
 * Upcoming I2Adopt Grant Calls
 	* I2Adopt Cycle 2 on Diagnostics and Monitoring: Opens 3 April 2023, closes 2 May 2023
 	* I2Adopt Cycle 3 on Intervention: Opens 4 Aug 2023, closes 4 Sept 2023
 
-* Reach us at:&nbsp;[grant@nhic.cris.sg](mailto:grant@nhic.cris.sg)&nbsp;if you have any questions
+Reach us at:&nbsp;[grant@nhic.cris.sg](mailto:grant@nhic.cris.sg)&nbsp;if you have any questions
 
 ##### Pre-award
 
-**1. what types of grant schemes does nhic provide?**
+**1. What types of grant schemes does nhic provide?**
 
-**2. who is eligible to apply for nhic grants?**
+There are three types of Grant Schemes available from NHIC.
 
+<table style="max-width: 100%; background-color: rgb(255, 255, 255); border-collapse: collapse; border-spacing: 0px; padding: 0px; margin: 10px 0px 0px; color: rgb(54, 54, 54); font-family: Arimo, Verdana, Geneva, sans-serif; font-size: 15.2px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 823.125px; border-width: 1px; border-color: rgb(229, 229, 229);" cellpadding="5" border="1"><tbody><tr><td style="width: 263.031px; vertical-align: top;"><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" href="https://nhic.sg/web/index.php/our-funding/develop-i2d">Innovation to Develop (I2D)</a></td><td style="width: 263.031px; vertical-align: top;"><a style="color: rgb(68, 68, 68); text-decoration: none; outline: none;" href="https://nhic.sg/web/index.php/our-funding/protect-i2p">Innovation to Protect (I2P)</a></td><td style="width: 263.062px; vertical-align: top;"><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" href="https://nhic.sg/web/index.php/our-funding/industry-i2i">Innovation to Industry (I2I)</a></td></tr><tr><td style="width: 263.031px; vertical-align: top;">This scheme supports the development of a healthcare innovation towards commercialisation.</td><td style="width: 263.031px; vertical-align: top;">This scheme funds healthcare-related patentable innovations with a commercialisation potential.</td><td style="width: 263.062px; vertical-align: top;">This scheme, by NHIC invitation only, funds healthcare-related projects which have successfully completed I2D funding.</td></tr></tbody></table>
 
-**3. how do i apply for a grant?**
-
-**4. when are the deadlines for application submission?**
-
+**2. Who is eligible to apply for nhic grants?**
 
 
-**5. do you allow indirect research costs?**
+**3. How do i apply for a grant?**
 
-
-**6. how can i check the outcome of my i2d grant application?**
-
-post-award
-1. how do i request a budget variation? (applicable only to the i2d/i2i grant)
-
-
-2. how do i request a grant extension?
-
-
-3. how do i request a change of principal investigator/research team member?
-
-
-4. how do i request a variation of the project?
-
-
-5. when and how do i submit my progress report?
+**4. When are the deadlines for application submission?**
 
 
 
-6. when and how do i submit my final project report?
+**5. Do you allow indirect research costs?**
 
 
-7. when and how do i submit a reimbursement claim?
+**6. How can i check the outcome of my i2d grant application?**
+
+##### Post-Award
+
+**1. How do i request a budget variation? (applicable only to the i2d/i2i grant)**
+
+
+**2. How do i request a grant extension?**
+
+
+**3. How do i request a change of principal investigator/research team member?**
+
+
+**4. How do i request a variation of the project?**
+
+
+**5. When and how do i submit my progress report?**
 
 
 
-8. what is the claim submission timeline?
-
-9. how do i check the status of the project claim?
-
-10. how do i know if my grant has closed?
+**6. When and how do i submit my final project report?**
 
 
-11. may i know the terms and conditions that governs nhic grants?
+7. When and how do i submit a reimbursement claim?
+
+
+
+8. What is the claim submission timeline?
+
+9. How do i check the status of the project claim?
+
+10. How do i know if my grant has closed?
+
+
+11. May i know the terms and conditions that governs nhic grants?
