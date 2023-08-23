@@ -7,21 +7,25 @@ description: ""
 
 **Grant administration**
 
-##### nrf central gap fund
+##### NRF Central Gap Fund
 1. Which innovation and enterprise office (ieo) manages the submission of the national research foundation (nrf) central gap applications for the public healthcare institutions?
-&gt; NHIC is the designated Innovation and Enterprise Office (IEO) for public hospitals, public health institutions, and National Specialty Centres. Please send your Central Gap related inquiries to&nbsp;[enquiry@nhic.cris.sg.](mailto:enquiry@nhic.cris.sg)
+* NHIC is the designated Innovation and Enterprise Office (IEO) for public hospitals, public health institutions, and National Specialty Centres. Please send your Central Gap related inquiries to&nbsp;[enquiry@nhic.cris.sg.](mailto:enquiry@nhic.cris.sg)
 2. How do i apply for the national research foundation (nrf) central gap fund?
-&gt; All Central Gap applications from the public healthcare institutions must be endorsed by NHIC. Please speak to the respective NHIC Cluster manager if you are interested in applying for the Central Gap Fund.
+* All Central Gap applications from the public healthcare institutions must be endorsed by NHIC. Please speak to the respective NHIC Cluster manager if you are interested in applying for the Central Gap Fund.
 
 <table style="max-width: 100%; background-color: rgb(255, 255, 255); border-collapse: collapse; border-spacing: 0px; padding: 0px; margin: 10px 0px; color: rgb(54, 54, 54); font-family: Arimo, Verdana, Geneva, sans-serif; font-size: 15.2px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 823.125px; border-width: 1px; border-color: rgb(229, 229, 229);" cellpadding="5" border="1"><tbody><tr><td style="width: 210.969px; vertical-align: top;">Healthcare Cluster</td><td style="vertical-align: top;">NHIC Cluster Manager</td></tr><tr><td style="width: 210.969px; vertical-align: top;">SingHealth</td><td style="vertical-align: top;">Dr Tan Ee Lim</td></tr><tr><td style="width: 210.969px; vertical-align: top;">NHG</td><td style="vertical-align: top;">Dr Michael Ho, Dr Chuah Yon Jin</td></tr><tr><td style="width: 210.969px; vertical-align: top;">NUHS</td><td style="vertical-align: top;">Dr Yeow Siang Lin</td></tr></tbody></table>
 
-i2adopt 
-1. what does a typical deployment plan include?
+##### I2Adopt 
+1. What does a typical deployment plan include?
+* It should include:
+	* Identification of the process and relevant offices, stakeholders who are supporting implementation and their roles and responsibilities.
+	* Study design to measure impact and/or value of the innovation being trial-ed or implemented.
+	* State scope and contributions of Public Healthcare Institution (PHI) vs private sector/international partners (if any) in the test-bedding and implementation plan
 
-2. what does a letter of interest (loi) from the healthcare cluster typically include and who should issue it?
+2. What does a letter of interest (loi) from the healthcare cluster typically include and who should issue it?
 
-3. is commercialisation a critical consideration in this grant, given that it’s looking to fund mature technology?
-4. if the solution involves patient data collection, what level of compliance with data security regulations is expected for the demo/test-bedding?
+3. Is commercialisation a critical consideration in this grant, given that it’s looking to fund mature technology?
+4. If the solution involves patient data collection, what level of compliance with data security regulations is expected for the demo/test-bedding?
 
 5. can private sector companies apply for this grant?
 
