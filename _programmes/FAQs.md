@@ -20,57 +20,63 @@ description: ""
 <table style="max-width: 100%; background-color: rgb(255, 255, 255); border-collapse: collapse; border-spacing: 0px; padding: 0px; margin: 10px 0px; color: rgb(54, 54, 54); font-family: Arimo, Verdana, Geneva, sans-serif; font-size: 15.2px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 823.125px; border-width: 1px; border-color: rgb(229, 229, 229);" cellpadding="5" border="1"><tbody><tr><td style="width: 210.969px; vertical-align: top;">Healthcare Cluster</td><td style="vertical-align: top;">NHIC Cluster Manager</td></tr><tr><td style="width: 210.969px; vertical-align: top;">SingHealth</td><td style="vertical-align: top;">Dr Tan Ee Lim</td></tr><tr><td style="width: 210.969px; vertical-align: top;">NHG</td><td style="vertical-align: top;">Dr Michael Ho, Dr Chuah Yon Jin</td></tr><tr><td style="width: 210.969px; vertical-align: top;">NUHS</td><td style="vertical-align: top;">Dr Yeow Siang Lin</td></tr></tbody></table>
 
 ##### I2Adopt 
-1. What does a typical deployment plan include?
+**1. What does a typical deployment plan include?**
+
 * It should include:
 	* Identification of the process and relevant offices, stakeholders who are supporting implementation and their roles and responsibilities.
 	* Study design to measure impact and/or value of the innovation being trial-ed or implemented.
 	* State scope and contributions of Public Healthcare Institution (PHI) vs private sector/international partners (if any) in the test-bedding and implementation plan
 
-2. What does a letter of interest (loi) from the healthcare cluster typically include and who should issue it?
+**2. What does a letter of interest (loi) from the healthcare cluster typically include and who should issue it?**
 
-3. Is commercialisation a critical consideration in this grant, given that it’s looking to fund mature technology?
-4. If the solution involves patient data collection, what level of compliance with data security regulations is expected for the demo/test-bedding?
+* This is a written document typically detailing a buyer’s desire to purchase a seller’s product, assets, or services.
+	* It’s used to establish and indicate an understanding between the parties which provides the basis for a future or proposed agreement, typically supported by senior management eg. Head of Department/Division or C-suite management
+	* The letter of interest should include:
+		* Information about the parties
+		* Product, services, assets to be pilot-ed/trial-ed/ implemented
+		* Timeline
+		* Estimated manpower costs/roles (both industry partner &amp; PHI)
+		* Estimated payment/pricing/fund distribution mutually agreed between the parties
 
-5. can private sector companies apply for this grant?
+**3. Is commercialisation a critical consideration in this grant, given that it’s looking to fund mature technology?**
 
-6. what is the funding quantum, funding period, fund flow mechanism and what does the grant cover?
-7. what areas of healthcare ops/plans does this grant fund?
+**4. If the solution involves patient data collection, what level of compliance with data security regulations is expected for the demo/test-bedding?**
 
+**5. Can private sector companies apply for this grant?**
 
-8. what stage of technology will i2adopt support?
+**6. What is the funding quantum, funding period, fund flow mechanism and what does the grant cover?**
 
-9. what would be the expected outcomes of the grant?
+**7. What areas of healthcare ops/plans does this grant fund?**
 
-10. are there any specific disease areas the grant is looking to fund?
+**8. what stage of technology will i2adopt support?**
 
+**9. what would be the expected outcomes of the grant?**
 
-11. how will background ip and foreground ip ownership be managed?
-
-12. what types of healthcare/ healthtech/ medtech innovations are included in this grant? for example, does this grant only refer to clinical lab based solutions (e.g. drug development, diagnostic devices etc.) or other health-tech solutions (e.g. iot and ai enabled remote patient monitoring programmes that can deliver measurable health outcomes)?
-
-
-
-
-
-pre-award
-1. what types of grant schemes does nhic provide?
-
-2. who is eligible to apply for nhic grants?
+**10. are there any specific disease areas the grant is looking to fund?**
 
 
-3. how do i apply for a grant?
+**11. how will background ip and foreground ip ownership be managed?**
+
+**12. what types of healthcare/ healthtech/ medtech innovations are included in this grant? for example, does this grant only refer to clinical lab based solutions (e.g. drug development, diagnostic devices etc.) or other health-tech solutions (e.g. iot and ai enabled remote patient monitoring programmes that can deliver measurable health outcomes)?**
+
+
+##### Pre-award
+
+**1. what types of grant schemes does nhic provide?**
+
+**2. who is eligible to apply for nhic grants?**
+
+
+**3. how do i apply for a grant?**
+
+**4. when are the deadlines for application submission?**
 
 
 
-
-4. when are the deadlines for application submission?
-
+**5. do you allow indirect research costs?**
 
 
-5. do you allow indirect research costs?
-
-
-6. how can i check the outcome of my i2d grant application?
+**6. how can i check the outcome of my i2d grant application?**
 
 post-award
 1. how do i request a budget variation? (applicable only to the i2d/i2i grant)
