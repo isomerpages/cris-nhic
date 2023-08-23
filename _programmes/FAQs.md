@@ -161,32 +161,72 @@ You will receive an email notification on the outcome of your I2D grant applicat
 
 **1. How do i request a budget variation? (applicable only to the i2d/i2i grant)**
 
+The Grant Variation request and justification must be submitted to NHIC at least three (3) months prior to the grant completion date. Refer to&nbsp;[Guidelines for Management of NMRC Funding Programmes (Updated January 2020)](https://www.nmrc.gov.sg/docs/default-source/policies-and-guidelines-library/guidelines-for-the-management-of-nmrc-programmes.pdf?sfvrsn=69ad48fb_0)&nbsp;for more details of fundable and non-fundable direct costs and virement within or between votes.
+
+Download the Grant Variation Form (NHIC-GEN-FORM-17) and submit the completed form to NHIC for approval.
 
 **2. How do i request a grant extension?**
 
+The Principal Investigator can request a grant extension of up to six (6) months. The Grant Extension Form and justification must be submitted to NHIC at least three (3) months prior to the grant completion date.
+
+Download the Grant Extension Form (NHIC-GEN-FORM-18 or NHIC-I2P-FORM-7) and submit the completed form to NHIC for approval.
 
 **3. How do i request a change of principal investigator/research team member?**
 
+For changes of Principal Investigator, Co-Investigator, Collaborator, download the Request for Changes to Team form (NHIC-GEN-FORM-11) and submit completed form through your Research/Innovation Office to NHIC for approval.
+
+You will receive an email notification on the approval outcome of your request by NHIC Grant Secretariat. Please note that a revised of the Letter of Award to a new Principal Investigator will not be issued.
 
 **4. How do i request a variation of the project?**
 
+Project variation may encompass a variety of changes, including, but not limited to the following changes:
+
+*   Project Commencement Date
+*   Project Scope of Work
+*   Project Title
+*   Project/Grant Termination
+*   Host Institution
+
+For changes to research scopes, milestones/deliverables, equipment relocation and grant deferral/suspension/termination of your project, download the Grant Amendment Form (NHIC-GEN-FORM-27) and submit the completed form through your Research/Innovation Office to NHIC for approval.
 
 **5. When and how do i submit my progress report?**
 
+The Principal Investigator of the awarded I2D project is required to submit a Quarterly Progress Report (NHIC-GEN-FORM-20) to NHIC Grant Secretariat. The Progress Report is due on a quarterly basis, within thirty (30) days after the close of the quarter.
 
+The submission of a Quarterly Progress Report is waived if the project commencement date is less than three (3) months from the progress report reporting period. For example, if the project commencement date is 01 July 2017, the first progress report reporting period will be Oct – Dec 2017. A Quarterly Progress Report is not required for the final quarter.
+
+Submit the Progress Report to your Host Institution Research Office or Healthcare Cluster Research/Innovation Office. Your Research/Innovation Office will collate the report and submit to NHIC Grant Secretariat.
 
 **6. When and how do i submit my final project report?**
 
+The Principal Investigator of the awarded I2D project is required to submit a Final Project Report (NHIC-GEN-FORM-21) to NHIC Grant Secretariat after grant completion date. The final report is due two (2) months from the grant completion date.
 
-7. When and how do i submit a reimbursement claim?
+Submit the Final Project Report to your Host Institution Research Office or Healthcare Cluster Research/Innovation Office. Your Research Office will collate the report and submit to NHIC Grant Secretariat.
 
+**7. When and how do i submit a reimbursement claim?**
 
+The Principal Investigator (PI) may utilize the approved budget after the project commencement date and expenditure should be incurred before the grant completion date.
 
-8. What is the claim submission timeline?
+Download the Reimbursement Claim Form (NHIC-GEN-FORM-19) and submit completed form to NHIC Grant Secretariat by 15th calendar day of each Feb, May, Aug and Nov.
 
-9. How do i check the status of the project claim?
+Please note that the Final Claim must be submitted to NHIC within three (3) months of the grant completion date.
 
-10. How do i know if my grant has closed?
+**8. What is the claim submission timeline?**
 
+The reimbursement to the Host Institutions will be made three (3) months from the submission deadline upon receiving a completed I2D or I2P Reimbursement Claim Form. Kindly note that this process may take longer if we need to request further verification from you and late submissions will be processed in the next quarter.
 
-11. May i know the terms and conditions that governs nhic grants?
+<table style="max-width: 100%; background-color: rgb(255, 255, 255); border-collapse: collapse; border-spacing: 0px; padding: 0px; margin: 10px 0px 0px; color: rgb(54, 54, 54); font-family: Arimo, Verdana, Geneva, sans-serif; font-size: 15.2px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 493.875px; border-width: 1px; border-color: rgb(229, 229, 229);" cellpadding="5" border="1"><tbody><tr><td><strong style="font-weight: bold;">Submission Deadline</strong></td><td><strong style="font-weight: bold;">Payment to Host Institution</strong></td></tr><tr><td>15th Feb</td><td>June</td></tr><tr><td>15th May</td><td>September</td></tr><tr><td>15th Aug</td><td>December</td></tr><tr><td>15th Nov</td><td>March</td></tr></tbody></table>
+
+**9. How do i check the status of the project claim?**
+
+An email notification will be sent by the bank (eg: DBS eadvice) to your Finance-in-charge’s email address stated in your reimbursement claim form to confirm the disbursement of your Project claim. For more information or any clarifications, you may contact NHIC Grant Administrator directly.
+
+**10. How do i know if my grant has closed?**
+
+**I2D Grant:**&nbsp;The I2D grant is officially closed once the Final Progress Report, Final Statement of Accounts and Final Claim have been submitted to NHIC and the Host Institution has received the final reimbursement.
+
+**I2P Scheme:**&nbsp;The I2P grant is officially closed once the Final Claim and Filed Patent Application has been submitted to NHIC and the Host Institution has received the final reimbursement. No further notification will be sent by NHIC.
+
+**11. May i know the terms and conditions that governs nhic grants?**
+
+NHIC adheres closely to NMRC Terms &amp; Conditions.
