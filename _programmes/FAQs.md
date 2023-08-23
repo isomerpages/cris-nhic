@@ -96,6 +96,8 @@ This grant focuses on implementation and eventual adoption of a technology into 
 	* I2Adopt Cycle 2 on Diagnostics and Monitoring: Opens 3 April 2023, closes 2 May 2023
 	* I2Adopt Cycle 3 on Intervention: Opens 4 Aug 2023, closes 4 Sept 2023
 
+* Reach us at:&nbsp;[grant@nhic.cris.sg](mailto:grant@nhic.cris.sg)&nbsp;if you have any questions
+
 ##### Pre-award
 
 **1. what types of grant schemes does nhic provide?**
