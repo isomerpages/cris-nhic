@@ -3,94 +3,93 @@ title: FAQs
 permalink: /programmes/faqs/
 description: ""
 ---
-# Frequently Asked Questions (FAQs)
+### Frequently Asked Questions (FAQs)
 
-**Grant Administration**
+**Grant administration**
 
-##### NRF Central Gap Fund
+##### nrf central gap fund
+1. Which innovation and enterprise office (ieo) manages the submission of the national research foundation (nrf) central gap applications for the public healthcare institutions?
+> NHIC is the designated Innovation and Enterprise Office (IEO) for public hospitals, public health institutions, and National Specialty Centres. Please send your Central Gap related inquiries to [enquiry@nhic.cris.sg.](mailto:enquiry@nhic.cris.sg)
+3. how do i apply for the national research foundation (nrf) central gap fund?
 
-[1. WHICH INNOVATION AND ENTERPRISE OFFICE (IEO) MANAGES THE SUBMISSION OF THE NATIONAL RESEARCH FOUNDATION (NRF) CENTRAL GAP APPLICATIONS FOR THE PUBLIC HEALTHCARE INSTITUTIONS?](/faqs/which-innovation-and-enterprise-office-ieo-manages-the-submission-of-the-nrf/)
+i2adopt 
+1. what does a typical deployment plan include?
 
-[2. HOW DO I APPLY FOR THE NATIONAL RESEARCH FOUNDATION (NRF) CENTRAL GAP FUND?](/faqs/how-do-i-apply-for-the-national-research-foundation-nrf-central-gap-fund/)
+2. what does a letter of interest (loi) from the healthcare cluster typically include and who should issue it?
 
-##### I2Adopt 
-1. WHAT DOES A TYPICAL DEPLOYMENT PLAN INCLUDE?
+3. is commercialisation a critical consideration in this grant, given that it’s looking to fund mature technology?
+4. if the solution involves patient data collection, what level of compliance with data security regulations is expected for the demo/test-bedding?
 
-2. WHAT DOES A LETTER OF INTEREST (LOI) FROM THE HEALTHCARE CLUSTER TYPICALLY INCLUDE AND WHO SHOULD ISSUE IT?
+5. can private sector companies apply for this grant?
 
-3. IS COMMERCIALISATION A CRITICAL CONSIDERATION IN THIS GRANT, GIVEN THAT IT’S LOOKING TO FUND MATURE TECHNOLOGY?
-4. IF THE SOLUTION INVOLVES PATIENT DATA COLLECTION, WHAT LEVEL OF COMPLIANCE WITH DATA SECURITY REGULATIONS IS EXPECTED FOR THE DEMO/TEST-BEDDING?
-
-5. CAN PRIVATE SECTOR COMPANIES APPLY FOR THIS GRANT?
-
-6. WHAT IS THE FUNDING QUANTUM, FUNDING PERIOD, FUND FLOW MECHANISM AND WHAT DOES THE GRANT COVER?
-7. WHAT AREAS OF HEALTHCARE OPS/PLANS DOES THIS GRANT FUND?
-
-
-8. WHAT STAGE OF TECHNOLOGY WILL I2ADOPT SUPPORT?
-
-9. WHAT WOULD BE THE EXPECTED OUTCOMES OF THE GRANT?
-
-10. ARE THERE ANY SPECIFIC DISEASE AREAS THE GRANT IS LOOKING TO FUND?
+6. what is the funding quantum, funding period, fund flow mechanism and what does the grant cover?
+7. what areas of healthcare ops/plans does this grant fund?
 
 
-11. HOW WILL BACKGROUND IP AND FOREGROUND IP OWNERSHIP BE MANAGED?
+8. what stage of technology will i2adopt support?
 
-12. WHAT TYPES OF HEALTHCARE/ HEALTHTECH/ MEDTECH INNOVATIONS ARE INCLUDED IN THIS GRANT? FOR EXAMPLE, DOES THIS GRANT ONLY REFER TO CLINICAL LAB BASED SOLUTIONS (E.G. DRUG DEVELOPMENT, DIAGNOSTIC DEVICES ETC.) OR OTHER HEALTH-TECH SOLUTIONS (E.G. IOT AND AI ENABLED REMOTE PATIENT MONITORING PROGRAMMES THAT CAN DELIVER MEASURABLE HEALTH OUTCOMES)?
+9. what would be the expected outcomes of the grant?
 
+10. are there any specific disease areas the grant is looking to fund?
+
+
+11. how will background ip and foreground ip ownership be managed?
+
+12. what types of healthcare/ healthtech/ medtech innovations are included in this grant? for example, does this grant only refer to clinical lab based solutions (e.g. drug development, diagnostic devices etc.) or other health-tech solutions (e.g. iot and ai enabled remote patient monitoring programmes that can deliver measurable health outcomes)?
 
 
 
 
-##### Pre-Award
-1. WHAT TYPES OF GRANT SCHEMES DOES NHIC PROVIDE?
 
-2. WHO IS ELIGIBLE TO APPLY FOR NHIC GRANTS?
+pre-award
+1. what types of grant schemes does nhic provide?
 
-
-3. HOW DO I APPLY FOR A GRANT?
+2. who is eligible to apply for nhic grants?
 
 
-
-
-4. WHEN ARE THE DEADLINES FOR APPLICATION SUBMISSION?
+3. how do i apply for a grant?
 
 
 
-5. DO YOU ALLOW INDIRECT RESEARCH COSTS?
 
-
-6. HOW CAN I CHECK THE OUTCOME OF MY I2D GRANT APPLICATION?
-
-Post-Award
-1. HOW DO I REQUEST A BUDGET VARIATION? (APPLICABLE ONLY TO THE I2D/I2I GRANT)
-
-
-2. HOW DO I REQUEST A GRANT EXTENSION?
-
-
-3. HOW DO I REQUEST A CHANGE OF PRINCIPAL INVESTIGATOR/RESEARCH TEAM MEMBER?
-
-
-4. HOW DO I REQUEST A VARIATION OF THE PROJECT?
-
-
-5. WHEN AND HOW DO I SUBMIT MY PROGRESS REPORT?
+4. when are the deadlines for application submission?
 
 
 
-6. WHEN AND HOW DO I SUBMIT MY FINAL PROJECT REPORT?
+5. do you allow indirect research costs?
 
 
-7. WHEN AND HOW DO I SUBMIT A REIMBURSEMENT CLAIM?
+6. how can i check the outcome of my i2d grant application?
+
+post-award
+1. how do i request a budget variation? (applicable only to the i2d/i2i grant)
+
+
+2. how do i request a grant extension?
+
+
+3. how do i request a change of principal investigator/research team member?
+
+
+4. how do i request a variation of the project?
+
+
+5. when and how do i submit my progress report?
 
 
 
-8. WHAT IS THE CLAIM SUBMISSION TIMELINE?
-
-9. HOW DO I CHECK THE STATUS OF THE PROJECT CLAIM?
-
-10. HOW DO I KNOW IF MY GRANT HAS CLOSED?
+6. when and how do i submit my final project report?
 
 
-11. MAY I KNOW THE TERMS AND CONDITIONS THAT GOVERNS NHIC GRANTS?
+7. when and how do i submit a reimbursement claim?
+
+
+
+8. what is the claim submission timeline?
+
+9. how do i check the status of the project claim?
+
+10. how do i know if my grant has closed?
+
+
+11. may i know the terms and conditions that governs nhic grants?
