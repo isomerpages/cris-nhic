@@ -24,15 +24,15 @@ applying for the Central Gap Fund.
 			</th>
 		</tr>
 		<tr>
-			<td><b>singhealth</b></td>
-			<td><b>Esther Lee</b> esther.lee@nhic.cris.sg <br><br>
-							<b>Zhang Hanzhong</b> Hanzhong.zhang@nhic.cris.sg
+			<td><b>Singhealth</b></td>
+			<td>Esther Lee <a href="mailto:esther.lee@nhic.cris.sg">esther.lee@nhic.cris.sg</a> <br><br>
+				Zhang Hanzhong <a href="mailto:Hanzhong.zhang@nhic.cris.sg">Hanzhong.zhang@nhic.cris.sg</a>
 			</td>
 		</tr>
 		<tr>
 			<td><b>NHG</b></td>
 			<td><b>Michael Ho</b> Michael.ho@nhic.cris.sg <br><br>
-							<b>Chuah Yon Jin</b> Yonjin.chuah@nhic.cris.sg
+							<b>Chuah Yon Jin</b> mailto:Yonjin.chuah@nhic.cris.sg
 			</td>
 		</tr>
 		<tr>
