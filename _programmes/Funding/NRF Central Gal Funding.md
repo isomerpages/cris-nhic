@@ -31,8 +31,8 @@ applying for the Central Gap Fund.
 		</tr>
 		<tr>
 			<td><b>NHG</b></td>
-			<td><b>Michael Ho</b><a href="mailto:Michael.ho@nhic.cris.sg"> Michael.ho@nhic.cris.sg</a><br><br>
-							<b>Chuah Yon Jin</b> <a href="mailto:Yonjin.chuah@nhic.cris.sg">Yonjin.chuah@nhic.cris.sg</a>
+			<td>Michael Ho<a href="mailto:Michael.ho@nhic.cris.sg"> Michael.ho@nhic.cris.sg</a><br><br>
+							Chuah Yon Jin<a href="mailto:Yonjin.chuah@nhic.cris.sg">Yonjin.chuah@nhic.cris.sg</a>
 			</td>
 		</tr>
 		<tr>
