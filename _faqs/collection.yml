@@ -1,8 +1,0 @@
-collections:
-  faqs:
-    output: true
-    order:
-      - WHICH INNOVATION AND ENTERPRISE OFFICE (IEO) MANAGES THE SUBMISSION OF
-        THE (NRF).md
-      - HOW DO I APPLY FOR THE NATIONAL RESEARCH FOUNDATION (NRF) CENTRAL GAP
-        FUND?.md
