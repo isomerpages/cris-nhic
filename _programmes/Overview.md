@@ -3,4 +3,4 @@ title: Overview
 permalink: /programmes/overview/
 description: ""
 ---
-![](/images/Programmes/img-20230822-wa0030.jpg)
+![](/images/Programmes/brochurev5%20ai_edit-1_230825_170120_10.jpg)
