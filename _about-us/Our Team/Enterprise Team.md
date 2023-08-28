@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Team
 ---
 ### **Yeow Siang Lin, Ph.D**  
-Head, Enterprise
+**Head, Enterprise**
 
 <img src="/images/About/Our%20Team/Enterprise%20Team/yeowsianglin.jpg" style="width:150px">
 
@@ -14,7 +14,7 @@ Before joining NHIC, Siang Lin was a Project Manager with Singapore General Hosp
 Siang Lin holds a Ph.D. from the National University of Singapore in Biomedical Engineering and has completed entrepreneurial programmes such as NUS-IEL LaunchPad, Singapore-Stanford Biodesign Innovation Class, and SMART-INSEAD Sci-Tech Entrepreneurship Boot Camp.
 
 ### **Esther Lee, Ph.D**  
-Senior Manager, Enterprise
+**Senior Manager, Enterprise**
 
 <img src="/images/About/Our%20Team/Enterprise%20Team/estherlee.jpg" style="width:150px">
 
@@ -23,7 +23,7 @@ Prior to joining NHIC, Esther was in SingHealth (SHHQ) focusing on ground up inn
 Esther has a PhD. From the National University of Singapore and also completed the Lean Launchpad course by NUS Enterprise.
 
 ### **Smitha Velayil Sunildeep**  
-Manager, Enterprise
+**Manager, Enterprise**
 
 <img src="/images/About/Our%20Team/Enterprise%20Team/smitha%20velayil%20sunildeep.PNG" style="width:150px">
 
