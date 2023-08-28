@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Team
 ---
 ### **Shermaine Kwan**  
-Manager, Grants and Administration
+**Manager, Grants and Administration**
 
 <img src="/images/About/Our%20Team/Administrative%20Team/shermainekwan.jpg" style="width:150px">
 
@@ -14,7 +14,7 @@ Having graduated from RMIT University with a Bachelor in Business Administration
 Prior to joining NHIC, Shermaine worked as research grant administrative roles in Singhealth and National University Health System. (NUHS). She worked closely with researchers and principal investigators by assisting them to secure and manage their grant fundings.
 
 ### **Ng San San**  
-Assistant Manager, Administration
+**Assistant Manager, Administration**
 <img src="/images/About/Our%20Team/Administrative%20Team/ngsansan.jpg" style="width:150px">
 
 Having been trained financially with a Diploma from Association of Chartered Certified Accountants, San San has always been grateful for the opportunities she had, to have experienced working systems spanning across various spaces, including healthcare, education, banking and the public sector. They opened her eyes to diversified ways of working and ideation processes, leading her to place passion, efficiency and service quality as her highest life goals, both professionally and personally.
