@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Team
 ---
 ### **Associate Professor Henry Ho**  
-Executive Director
+**Executive Director**
 
 <img src="/images/About/Our%20Team/Senior%20Management/henryho.jpg" style="width:150px">
 
@@ -22,7 +22,7 @@ A/Prof Henry also contributes to the Singapore innovation ecosystem. He was the 
 A/Prof Henry leads the clinical test-bedding and adoption in Singhealth-DUKE NUS Academic Medicine Innovation Institute which aims to facilitate implementation of technologies with external partners into the healthcare system. to imbue such vibrant exchange and collaboration (Digital, technologyand process), there will be a healthcare Innovation and transformation center.
 
 ### **Pauline Tay, Ph.D**  
-Director
+**Director**
 
 <img src="/images/About/Our%20Team/Senior%20Management/paulinetay.jpg" style="width:150px">
 
