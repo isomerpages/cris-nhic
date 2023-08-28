@@ -7,4 +7,4 @@ description: ""
 
 **Examples of technology domains we have funded over the years**
 
-![](/images/Innovation%20Portfolio/Technology%20Domains/nhic%20technology%202.png)
+<img src="/images/Innovation%20Portfolio/Technology%20Domains/nhic%20technology%202.png" style="width:600px">
