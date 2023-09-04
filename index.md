@@ -47,5 +47,5 @@ sections:
   - resources:
       title: Latest New and Events
       subtitle: Resources Section Subtitle
-      button: Resources Button Name
+      button: Learn More
 ---
