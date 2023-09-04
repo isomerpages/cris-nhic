@@ -21,13 +21,13 @@ sections:
       background: /images/Homepage/homepage banner-min.jpeg
       key_highlights:
         - title: Funding
-          description: ""
+          description: Collaboration and development
           url: /funding/protect-i2p/
         - title: Venture Partnerships
-          description: ""
+          description: Ventures & Industry
           url: /partnerships-and-network/ventures-and-industry/
         - title: Talent Development
-          description: ""
+          description: Nurturing our founders
           url: /programmes/talent-development
   - infopic:
       title: Accelerating The Translation
