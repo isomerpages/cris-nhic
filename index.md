@@ -46,6 +46,5 @@ sections:
       url: /talent-development/
   - resources:
       title: Latest New and Events
-      subtitle: Resources Section Subtitle
       button: Learn More
 ---
