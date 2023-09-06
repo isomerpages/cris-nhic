@@ -4,15 +4,6 @@ permalink: /about-us/our-team/enterprise-team/
 description: ""
 third_nav_title: Our Team
 ---
-### **Yeow Siang Lin, Ph.D**  
-**Head, Enterprise**
-
-<img src="/images/About/Our%20Team/Enterprise%20Team/yeowsianglin.jpg" style="width:150px">
-
-Before joining NHIC, Siang Lin was a Project Manager with Singapore General Hospital where he was responsible for forming partnerships with start-ups, SME and healthcare institution for the development of robotic-assisted ultrasound system. Prior to this, Siang Lin spent close to 5 years at National University of Singapore with the Medical Engineering Research &amp; Commercialisation Initiative (M.E.R.C.I) team, overseeing multi-institutional collaborations on medical device development in the area of colonoscopy, endovascular, nephrology, organ transplant, underactive bladder, and musculoskeletal maintenance. He is also co-inventor of two medical devices that eventually led to 2 spin-off companies.
-
-Siang Lin holds a Ph.D. from the National University of Singapore in Biomedical Engineering and has completed entrepreneurial programmes such as NUS-IEL LaunchPad, Singapore-Stanford Biodesign Innovation Class, and SMART-INSEAD Sci-Tech Entrepreneurship Boot Camp.
-
 ### **Esther Lee, Ph.D**  
 **Senior Manager, Enterprise**
 
