@@ -64,7 +64,7 @@ NHIC I2D Grant Process
 
 An overview of the grant process is as follows:
 
-![I2DProcess](https://nhic.sg/web/images/NHIC/documents/I2D/I2DProcess.jpg)
+![](/images/Funding/i2dprocess.jpg)
 
 All NHIC I2D grant applications are evaluated based on the criteria detailed below.
 
