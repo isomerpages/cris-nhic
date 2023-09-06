@@ -47,6 +47,6 @@ Applications to this scheme can be submitted to NHIC at any time.
 
 ##### Submission Process
 
-The&nbsp;[NHIC I2P Patent Support Scheme Application Form](https://nhic.sg/web/index.php/downloads)&nbsp;along with other supporting documents listed in the Application Form must be submitted to NHIC Grant Secretariat at&nbsp;[ip@nhic.cris.sg](mailto:ip@nhic.cris.sg). Only applications endorsed and submitted by the Designated Offices listed above are accepted by NHIC.
+The&nbsp;[NHIC I2P Patent Support Scheme Application Form](https://for.sg/nhic-i2p)&nbsp;along with other supporting documents listed in the Application Form must be submitted to NHIC Grant Secretariat at&nbsp;[ip@nhic.cris.sg](mailto:ip@nhic.cris.sg). Only applications endorsed and submitted by the Designated Offices listed above are accepted by NHIC.
 
 For any queries on this scheme, please contact the NHIC I2P Grant Secretariat at&nbsp;[ip@nhic.cris.sg](mailto:ip@nhic.cris.sg).
