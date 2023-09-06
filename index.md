@@ -43,7 +43,7 @@ sections:
       button: Learn More
       alt: Image alt text
       image: /images/Homepage/stock image 3-min.jpeg
-      url: /talent-development/
+      url: /programmes/talent-development/
   - resources:
       title: Latest New and Events
       button: Learn More
