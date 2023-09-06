@@ -10,3 +10,37 @@ NHIC recently established stronger public-private partnerships as it launched it
 
 
 ![](/images/Partnerships%20and%20Network/venture%20and%20indutry%20logos.png)
+
+<table>
+	<tbody>
+		<tr>
+			<td style="width:20%">
+				<a href="www.brinc.io">
+				<img src="/images/Partnerships%20and%20Network/Ventures%20&amp;%20Industry/brinc_gradient_rgb.png">
+				</a>
+			</td>
+			<td style="width:20%">
+				<a href="www.brinc.io">
+				<img src="/images/Partnerships%20and%20Network/Ventures%20&amp;%20Industry/brinc_gradient_rgb.png">
+				</a>
+			</td>
+			<td style="width:20%">
+				<a href="www.brinc.io">
+				<img src="/images/Partnerships%20and%20Network/Ventures%20&amp;%20Industry/brinc_gradient_rgb.png">
+				</a>
+			</td>
+			<td style="width:20%">
+				<a href="www.brinc.io">
+				<img src="/images/Partnerships%20and%20Network/Ventures%20&amp;%20Industry/brinc_gradient_rgb.png">
+				</a>
+			</td>
+			<td style="width:20%">
+				<a href="www.brinc.io">
+				<img src="/images/Partnerships%20and%20Network/Ventures%20&amp;%20Industry/brinc_gradient_rgb.png">
+				</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
+	
+	
