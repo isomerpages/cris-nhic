@@ -27,7 +27,7 @@ sections:
           description: Ventures & Industry
           url: /partnerships-and-network/ventures-and-industry/
         - title: Talent Development
-          description: Nurturing our founders
+          description: Nurturing our Talents
           url: /programmes/talent-development
   - infopic:
       title: Accelerating The Translation
