@@ -101,7 +101,42 @@ All NHIC I2D grant applications are evaluated based on the criteria detailed bel
 
 NHIC I2D Evaluation Criteria  
 
-<table style="max-width: 100%; background-color: transparent; border-collapse: collapse; border-spacing: 0px; padding: 0px; margin: 10px 0px; width: 855.125px; height: 449px;" cellpadding="10" border="1"><tbody><tr><td style="vertical-align: top;">Category</td><td style="vertical-align: top;">Considerations</td></tr><tr><td style="vertical-align: top;">Background and preliminary data</td><td style="vertical-align: top;">Is there sufficient background to evaluate the scope and nature of the problem?<br>Is the unmet need clear?<br>Does the preliminary data support and de-risk further development of the technology?<br>Has the preliminary data been generated using the technology?</td></tr><tr><td style="vertical-align: top;">Development plan and deliverables</td><td style="vertical-align: top;">Is the development plan sensible and robust?<br>Are the deliverables realistic for the timeframe?<br>Are the deliverables attractive to a commercial partner (or a follow-on funder)?<br>Is the timeframe for obtaining ethics approvals appropriate?</td></tr><tr><td style="vertical-align: top;">Uniqueness of technology</td><td style="vertical-align: top;">How is the product/solution better than other options that are currently in use? Better, faster, cheaper?</td></tr><tr><td style="vertical-align: top;">Healthcare impact</td><td style="vertical-align: top;">Is the expected benefit of this technology clear?<br>How does the technology fit with current clinical practice/standard of care? Consider clinical adoption, patient benefit.</td></tr><tr><td style="vertical-align: top;">Commercial potential</td><td style="vertical-align: top;">Is the current IP status clear?<br>Consider the market size, route to market, competitive landscape.</td></tr><tr><td style="vertical-align: top;">Team composition</td><td style="vertical-align: top;">Does the team have (or able to access) the necessary competencies in: scientific and technological domains, clinical expertise, business development, where relevant?<br>Will recruitment of manpower impact project timelines?</td></tr><tr><td style="vertical-align: top;">Budget</td><td style="vertical-align: top;">Is the budget realistic for the work outlined?</td></tr></tbody></table>
+<table style="max-width: 100%; background-color: transparent; border-collapse: collapse; border-spacing: 0px; padding: 0px; margin: 10px 0px; width: 855.125px; height: 449px;" cellpadding="10" border="1">
+   <tbody>
+      <tr>
+         <td style="vertical-align: top;">Category</td>
+         <td style="vertical-align: top;">Considerations</td>
+      </tr>
+      <tr>
+         <td style="vertical-align: top;">Background and preliminary data</td>
+         <td style="vertical-align: top;">Is there sufficient background to evaluate the scope and nature of the problem?<br>Is the unmet need clear?<br>Does the preliminary data support and de-risk further development of the technology?<br>Has the preliminary data been generated using the technology?</td>
+      </tr>
+      <tr>
+         <td style="vertical-align: top;">Development plan and deliverables</td>
+         <td style="vertical-align: top;">Is the development plan sensible and robust?<br>Are the deliverables realistic for the timeframe?<br>Are the deliverables attractive to a commercial partner (or a follow-on funder)?<br>Is the timeframe for obtaining ethics approvals appropriate?</td>
+      </tr>
+      <tr>
+         <td style="vertical-align: top;">Uniqueness of technology</td>
+         <td style="vertical-align: top;">How is the product/solution better than other options that are currently in use? Better, faster, cheaper?</td>
+      </tr>
+      <tr>
+         <td style="vertical-align: top;">Healthcare impact</td>
+         <td style="vertical-align: top;">Is the expected benefit of this technology clear?<br>How does the technology fit with current clinical practice/standard of care? Consider clinical adoption, patient benefit.</td>
+      </tr>
+      <tr>
+         <td style="vertical-align: top;">Commercial potential</td>
+         <td style="vertical-align: top;">Is the current IP status clear?<br>Consider the market size, route to market, competitive landscape.</td>
+      </tr>
+      <tr>
+         <td style="vertical-align: top;">Team composition</td>
+         <td style="vertical-align: top;">Does the team have (or able to access) the necessary competencies in: scientific and technological domains, clinical expertise, business development, where relevant?<br>Will recruitment of manpower impact project timelines?</td>
+      </tr>
+      <tr>
+         <td style="vertical-align: top;">Budget</td>
+         <td style="vertical-align: top;">Is the budget realistic for the work outlined?</td>
+      </tr>
+   </tbody>
+</table>
 
 All applicants, regardless of shortlisted or non-shortlisted will be provided feedback.
 
