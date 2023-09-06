@@ -88,14 +88,14 @@ For the Terms and Conditions governing NHIC grants, please see&nbsp;[Terms and C
 
 ##### Grant Call
 
-[Letter of Intent](https://nhic.sg/web/index.php/downloads)&nbsp;call for 2023 will be open for applications on 3rd April 2023. The closing date is on 02 June 2023.
+[Letter of Intent](https://for.sg/nhic-i2start-loi)&nbsp;call for 2023 will be open for applications on 3rd April 2023. The closing date is on 02 June 2023.
 
 ##### Submission details
 
-The&nbsp;[Letter of Intent](https://nhic.sg/web/index.php/downloads)&nbsp;must be submitted by Lead PI to the I2Start Grant Secretariat at&nbsp;[grant@nhic.cris.sg](mailto:grant@nhic.cris.sg).
+The&nbsp;[Letter of Intent](https://for.sg/nhic-i2start-loi)&nbsp;must be submitted by Lead PI to the I2Start Grant Secretariat at&nbsp;[grant@nhic.cris.sg](mailto:grant@nhic.cris.sg).
 
-Applicants are required to include the project scope, milestones and budget for all the 3 grant phases through a single submission using the&nbsp;[Letter of Intent](https://nhic.sg/web/index.php/downloads)&nbsp;template.
+Applicants are required to include the project scope, milestones and budget for all the 3 grant phases through a single submission using the&nbsp;[Letter of Intent](https://for.sg/nhic-i2start-loi)&nbsp;template.
 
 Shortlisted applicants will be invited to submit a formal grant application through the respective research office.
 
-For detailed information, please refer to the&nbsp;[I2START grant information sheet](https://nhic.sg/web/index.php/downloads)
+For detailed information, please refer to the&nbsp;[I2START grant information sheet](https://for.sg/nhic-i2start-info)
