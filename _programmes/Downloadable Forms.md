@@ -46,12 +46,12 @@ description: ""
       </tr>
       <tr>
          <td>NHIC-I2D-FORM-1</td>
-         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://nhic.sg/web/images/NHIC/documents/I2D/NHIC-I2D-1_I2D_Grant_Application_Form_v18.0.docx">NHIC I2D Grant Application Form</a></td>
+         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://for.sg/nhic-i2d">NHIC I2D Grant Application Form</a></td>
          <td>17 Oct 2022</td>
       </tr>
       <tr>
          <td>NHIC-I2D-FORM-21</td>
-         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://nhic.sg/web/images/NHIC/documents/I2D/NHIC-I2D-Form-21_NHIC_Joint_MedTech_Grant_Project_Status_Form_V5.0.docx">NHIC Joint MedTech Grant Project Status Form</a></td>
+         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://for.sg/nhic-jointgrant-statusx">NHIC Joint MedTech Grant Project Status Form</a></td>
          <td>17 Oct 2022</td>
       </tr>
    </tbody>
@@ -67,22 +67,22 @@ description: ""
       </tr>
       <tr>
          <td>I2S-FORM-1</td>
-         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://nhic.sg/web/images/NHIC/documents/I2Start/I2S-1_Letter-of-Intent-v6.0.docx">I2Start Letter of Intent</a></td>
+         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://for.sg/nhic-i2start-loi">I2Start Letter of Intent</a></td>
          <td>1 Apr 2023</td>
       </tr>
       <tr>
          <td>I2S-FORM-2</td>
-         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://nhic.sg/web/images/NHIC/documents/I2Start/I2S-2_Application_Form_v5.0.docx">Application Form</a></td>
+         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://for.sg/nhic-i2start">Application Form</a></td>
          <td>17 Oct 2022</td>
       </tr>
       <tr>
          <td>I2S-FORM-3</td>
-         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://nhic.sg/web/images/NHIC/documents/I2Start/I2S-3_Budget_Template_v3.0.xlsx">Budget Template</a></td>
+         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://for.sg/nhic-i2start">Budget Template</a></td>
          <td>17 Oct 2022</td>
       </tr>
       <tr>
          <td>I2S-FORM-4</td>
-         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://nhic.sg/web/images/NHIC/documents/I2Start/Innovation_to_Startup_I2START_grant_information_sheet.pdf">Grant information sheet</a></td>
+         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://for.sg/nhic-i2start-info">Grant information sheet</a></td>
          <td>28 Mar 2023</td>
       </tr>
    </tbody>
@@ -113,35 +113,35 @@ description: ""
          <td>Effective Date</td>
       </tr>
       <tr>
-         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://nhic.sg/web/images/NHIC/documents/NRFCentralGap/Central_Gap_Fund_Yearly_Progress_Reports_v3.0.docx">Yearly Project Progress Report</a></td>
+         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://for.sg/nrf-yearlyprogress">Yearly Project Progress Report</a></td>
          <td>01 April 2021</td>
       </tr>
       <tr>
-         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://nhic.sg/web/images/NHIC/documents/NRFCentralGap/Central_Gap_Fund_Final_Progress_Reports_v3.0.docx">Final Project Report</a></td>
+         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://for.sg/nrf-finalreport">Final Project Report</a></td>
          <td>01 April 2021</td>
       </tr>
       <tr>
-         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://nhic.sg/web/images/NHIC/documents/NRFCentralGap/Central_Gap_Fund_Post_Progress_Reports_v3.0.docx">Post-Project Review Report</a></td>
+         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://for.sg/nrf-postprogress">Post-Project Review Report</a></td>
          <td>01 April 2021</td>
       </tr>
       <tr>
-         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://nhic.sg/web/images/NHIC/documents/NRFCentralGap/Change_Request_Form_v1.0_1.docx">Change Request Form</a></td>
+         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://for.sg/nrf-changerequest">Change Request Form</a></td>
          <td>01 Feb 2020</td>
       </tr>
       <tr>
-         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://nhic.sg/web/images/NHIC/documents/NRFCentralGap/IE_Terms_and_Conditions_V3.pdf">I&amp;E Terms and Conditions</a></td>
+         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://for.sg/nrf-ie-tc">I&amp;E Terms and Conditions</a></td>
          <td>01 April 2021</td>
       </tr>
       <tr>
-         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="/files/guidelines_for_the_management_of_innovation_and_enterprise_grants_v3.pdf">Guidelines for the Management of Innovation and Enterprise Grants</a></td>
+         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://for.sg/nrf-guidelinesgrantmgt">Guidelines for the Management of Innovation and Enterprise Grants</a></td>
          <td>01 April 2021</td>
       </tr>
       <tr>
-         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://nhic.sg/web/images/NHIC/documents/NRFCentralGap/NRF-Project_AUP.pdf">Guidelines for Periodic Project Audit and AUP</a></td>
+         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://for.sg/nrf-projectaup">Guidelines for Periodic Project Audit and AUP</a></td>
          <td>31 May 2022</td>
       </tr>
       <tr>
-         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://nhic.sg/web/images/NHIC/documents/NRFCentralGap/Project_Drawdown_Form-17June2022.xlsx">Project Drawdown Form</a></td>
+         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://for.sg/nrf-projectdrawdown">Project Drawdown Form</a></td>
          <td>NA</td>
       </tr>
    </tbody>
@@ -157,47 +157,47 @@ description: ""
       </tr>
       <tr>
          <td>NHIC-GEN-FORM-11</td>
-         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://nhic.sg/web/images/NHIC/documents/General/NHIC-GEN-11_Request_for_Changes_to_Research_Team_v8.0.docx">Request for Changes to Research Team</a></td>
+         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://for.sg/nhic-gen-changesteam">Request for Changes to Research Team</a></td>
          <td>17 Oct 2022</td>
       </tr>
       <tr>
          <td>NHIC-GEN-FORM-13</td>
-         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://nhic.sg/web/images/NHIC/documents/General/NHIC-GEN-13_Manpower_Listing_v3.0.xlsx">Manpower Listing</a></td>
+         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://for.sg/nhic-gen-manpowerlist">Manpower Listing</a></td>
          <td>17 Oct 2022</td>
       </tr>
       <tr>
          <td>NHIC-GEN-FORM-17</td>
-         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://nhic.sg/web/images/NHIC/documents/General/NHIC-GEN-17_Budget_Variation_Form_V9.0.docx">Budget Variation Form</a></td>
+         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://for.sg/nhic-gen-budgetvariation">Budget Variation Form</a></td>
          <td>17 Oct 2022</td>
       </tr>
       <tr>
          <td>NHIC-GEN-FORM-18</td>
-         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://nhic.sg/web/images/NHIC/documents/General/NHIC-GEN-18_Grant_Extension_Form_v7.0.docx">Grant Extension Form</a></td>
+         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://for.sg/nhic-gen-ext">Grant Extension Form</a></td>
          <td>17 Oct 2022</td>
       </tr>
       <tr>
          <td>NHIC-GEN-FORM-19</td>
-         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://nhic.sg/web/images/NHIC/documents/General/NHIC-GEN-19_Reimbursement_Claim_Form_v10.0.xlsx">Reimbursement Claim Form</a></td>
+         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://for.sg/nhic-gen-reimbursement">Reimbursement Claim Form</a></td>
          <td>17 Oct 2022</td>
       </tr>
       <tr>
          <td>NHIC-GEN-FORM-20</td>
-         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://nhic.sg/web/images/NHIC/documents/General/NHIC-GEN-20_Progress_Report_v10.0.doc">Progress Report</a></td>
+         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://for.sg/nhic-gen-progressreport">Progress Report</a></td>
          <td>17 Oct 2022</td>
       </tr>
       <tr>
          <td>NHIC-GEN-FORM-21</td>
-         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://nhic.sg/web/images/NHIC/documents/General/NHIC-GEN-21_Final_Project_Report_v8.0.doc">Final Project Report</a></td>
+         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://for.sg/nhic-gen-finalreport">Final Project Report</a></td>
          <td>17 Oct 2022</td>
       </tr>
       <tr>
          <td>NHIC-GEN-FORM-22</td>
-         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://nhic.sg/web/images/NHIC/documents/General/NHIC-GEN-22_Final_Statement_of_Account_v5.0.docx">Final Statement of Account</a></td>
+         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://for.sg/nhic-gen-finalsoa">Final Statement of Account</a></td>
          <td>17 Oct 2022</td>
       </tr>
       <tr>
          <td>NHIC-GEN-FORM-27</td>
-         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://nhic.sg/web/images/NHIC/documents/General/NHIC-GEN-27_Grant_Amendment_Form_v5.0.docx">Grant Amendment Form</a></td>
+         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://for.sg/nhic-gen-grantamendment">Grant Amendment Form</a></td>
          <td>17 Oct 2022</td>
       </tr>
    </tbody>
