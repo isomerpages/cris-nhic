@@ -64,7 +64,7 @@ Submission through designated Healthcare Cluster Office
 
 ##### Grant Process
 
-![i2A Clinical Innovation amd Adoption Initiative Grant Process](https://nhic.sg/web/images/NHIC/i2A_ClinicalInnovation.png)
+![](/images/Funding/i2a_clinicalinnovation.png)
 
 *   All grant applications are evaluated based on the criteria detailed below.
 *   LOI template can be downloaded&nbsp;[here](https://nhic.sg/web/index.php/downloads)
@@ -77,4 +77,4 @@ Submission through designated Healthcare Cluster Office
 
 ##### Frequently Asked Questions (FAQs)
 
-Please refer to our list of&nbsp;[FAQs for more information](https://nhic.sg/web/index.php/faqs#grant).
+Please refer to our list of&nbsp;[FAQs for more information](/programmes/faqs/).
