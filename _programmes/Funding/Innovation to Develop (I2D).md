@@ -58,7 +58,38 @@ Submission deadlines for&nbsp;**2023**&nbsp;are:
 
 Each form&nbsp;**MUST**&nbsp;be endorsed and submitted electronically by the designated Research/Innovation Offices from the respective Healthcare Cluster (as listed in the table below) to the NHIC Grant Secretariat.
 
-<table style="max-width: 100%; background-color: transparent; border-collapse: collapse; border-spacing: 0px; padding: 0px; margin: 10px 0px; width: 855.125px; height: 222px; border: thin solid rgb(0, 0, 0);"><tbody><tr><td style="border: thin solid rgb(0, 0, 0);"><strong style="font-weight: bold;">&nbsp;Healthcare Cluster</strong></td><td style="border: thin solid rgb(0, 0, 0);"><strong style="font-weight: bold;">&nbsp;Designated Research/Innovation Office</strong></td></tr><tr><td style="border: thin solid rgb(0, 0, 0);">&nbsp;National Healthcare Group (NHG)</td><td style="border: thin solid rgb(0, 0, 0);">&nbsp;NHG Group Research</td></tr><tr><td style="border: thin solid rgb(0, 0, 0);">&nbsp;National University Health System (NUHS)</td><td style="border: thin solid rgb(0, 0, 0);">&nbsp;NUHS Research Office&nbsp;</td></tr><tr><td style="border: thin solid rgb(0, 0, 0);">&nbsp;Singapore Health Services (SingHealth)</td><td style="border: thin solid rgb(0, 0, 0);">&nbsp;SingHealth Office of Intellectual Property (SHIP)</td></tr><tr><td style="border: thin solid rgb(0, 0, 0);">&nbsp;Duke-NUS Medical School</td><td style="border: thin solid rgb(0, 0, 0);">&nbsp;Duke-NUS Medical School Sponsored Research Department</td></tr><tr><td style="border: thin solid rgb(0, 0, 0);">&nbsp;Lee Kong Chian School of Medicine</td><td style="border: thin solid rgb(0, 0, 0);">&nbsp;NTU Research Support Office&nbsp;</td></tr><tr><td style="border: thin solid rgb(0, 0, 0);">&nbsp;Yong Loo Lin School of Medicine&nbsp;</td><td style="border: thin solid rgb(0, 0, 0);">&nbsp;NUHS Research Office&nbsp;</td></tr></tbody></table>
+<table style="max-width: 100%; background-color: transparent; border-collapse: collapse; border-spacing: 0px; padding: 0px; margin: 10px 0px; width: 855.125px; height: 222px; border: thin solid rgb(0, 0, 0);">
+   <tbody>
+      <tr>
+         <td style="border: thin solid rgb(0, 0, 0);"><strong style="font-weight: bold;">&nbsp;Healthcare Cluster</strong></td>
+         <td style="border: thin solid rgb(0, 0, 0);"><strong style="font-weight: bold;">&nbsp;Designated Research/Innovation Office</strong></td>
+      </tr>
+      <tr>
+         <td style="border: thin solid rgb(0, 0, 0);">&nbsp;National Healthcare Group (NHG)</td>
+         <td style="border: thin solid rgb(0, 0, 0);">&nbsp;NHG Group Research</td>
+      </tr>
+      <tr>
+         <td style="border: thin solid rgb(0, 0, 0);">&nbsp;National University Health System (NUHS)</td>
+         <td style="border: thin solid rgb(0, 0, 0);">&nbsp;NUHS Research Office&nbsp;</td>
+      </tr>
+      <tr>
+         <td style="border: thin solid rgb(0, 0, 0);">&nbsp;Singapore Health Services (SingHealth)</td>
+         <td style="border: thin solid rgb(0, 0, 0);">&nbsp;SingHealth Office of Intellectual Property (SHIP)</td>
+      </tr>
+      <tr>
+         <td style="border: thin solid rgb(0, 0, 0);">&nbsp;Duke-NUS Medical School</td>
+         <td style="border: thin solid rgb(0, 0, 0);">&nbsp;Duke-NUS Medical School Sponsored Research Department</td>
+      </tr>
+      <tr>
+         <td style="border: thin solid rgb(0, 0, 0);">&nbsp;Lee Kong Chian School of Medicine</td>
+         <td style="border: thin solid rgb(0, 0, 0);">&nbsp;NTU Research Support Office&nbsp;</td>
+      </tr>
+      <tr>
+         <td style="border: thin solid rgb(0, 0, 0);">&nbsp;Yong Loo Lin School of Medicine&nbsp;</td>
+         <td style="border: thin solid rgb(0, 0, 0);">&nbsp;NUHS Research Office&nbsp;</td>
+      </tr>
+   </tbody>
+</table>
 
 NHIC I2D Grant Process  
 
