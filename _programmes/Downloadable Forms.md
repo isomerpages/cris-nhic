@@ -19,17 +19,17 @@ description: ""
       </tr>
       <tr>
          <td>NHIC-I2P-FORM-2</td>
-         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://nhic.sg/web/images/NHIC/documents/I2P/NHIC-I2P-2_I2P_Invention_Disclosure_Form_v4.0.docx">NHIC I2P Invention Disclosure Form</a></td>
+         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://for.sg/nhic-i2p-id">NHIC I2P Invention Disclosure Form</a></td>
          <td>17 Oct 2022</td>
       </tr>
       <tr>
          <td>NHIC-I2P-FORM-6</td>
-         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://nhic.sg/web/images/NHIC/documents/I2P/NHIC-I2P-6_NHIC_I2P_Reimbursement_Claims_Form_v15.0.xlsx">NHIC I2P Reimbursement Claims Form</a></td>
+         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://for.sg/nhic-i2p-rc">NHIC I2P Reimbursement Claims Form</a></td>
          <td>17 Oct 2022</td>
       </tr>
       <tr>
          <td>NHIC-I2P-FORM-7</td>
-         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://nhic.sg/web/images/NHIC/documents/I2P/NHIC-I2P-7_Grant_Extension_Form_v14.0.docx">NHIC I2P Grant Extension Form</a></td>
+         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://for.sg/nhic-i2p-ext">NHIC I2P Grant Extension Form</a></td>
          <td>17 Oct 2022</td>
       </tr>
    </tbody>
