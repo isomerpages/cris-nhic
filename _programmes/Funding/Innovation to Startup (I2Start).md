@@ -9,9 +9,7 @@ Innovation to Startup (I2Start)
 
 #### Development of clinician innovations towards Health and Biomedical Sciences Startups
 
-<!--
-![SMART1](https://nhic.sg/web/images/NHIC/partners/SMART1.jpg)    ![adminLoginLogo](https://nhic.sg/web/images/NHIC/adminLoginLogo.png)    ![EnterpriseSG](https://nhic.sg/web/images/NHIC/partners/EnterpriseSG.jpg) 
--->
+<img src="/images/Funding/i2s%20logos.PNG" style="width:300px" align="left">
 
 <img src="/images/Funding/logo_i2start.jpg" style="width:300px" align="right">
 
