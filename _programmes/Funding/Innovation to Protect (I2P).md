@@ -52,7 +52,45 @@ This scheme provides funding for different stages of patent protection namely Fi
 
 Depending on the stage of patent protection and ownership of intellectual property, grant quantum and duration vary as following:
 
-<table style="max-width: 100%; background-color: transparent; border-collapse: collapse; border-spacing: 0px; padding: 0px; margin: 10px 0px; width: 855.125px;" cellpadding="10" border="1"><tbody><tr><td style="vertical-align: top;">Stage</td><td style="vertical-align: top;">Stage Description</td><td style="vertical-align: top;">Grant Duration</td><td style="vertical-align: top;">Grant Quantum (when institution owns &gt;50% of IP)*</td><td style="vertical-align: top;">Grant Quantum (when host institution owns ≤ 50% of IP)*</td></tr><tr><td style="vertical-align: top;">1</td><td style="vertical-align: top;">First Filing</td><td style="vertical-align: top;">12 months</td><td style="vertical-align: top;">$10,000</td><td style="vertical-align: top;">$5,000</td></tr><tr><td style="vertical-align: top;">2</td><td style="vertical-align: top;">PCT Filing &amp; Prosecution</td><td style="vertical-align: top;">12 months</td><td style="vertical-align: top;">$30,000</td><td style="vertical-align: top;">$15,000</td></tr><tr><td style="vertical-align: top;">3</td><td style="vertical-align: top;">National Phase (NP)</td><td style="vertical-align: top;">12 months</td><td style="vertical-align: top;">$40,000 for 2 territories</td><td style="vertical-align: top;">$20,000 for 2 territories</td></tr><tr><td style="vertical-align: top;">4</td><td style="vertical-align: top;">NP Prosecution &amp; Grant Maintenance</td><td style="vertical-align: top;">12 months</td><td style="vertical-align: top;">$20,000</td><td style="vertical-align: top;">$10,000</td></tr></tbody></table>
+<table style="max-width: 100%; background-color: transparent; border-collapse: collapse; border-spacing: 0px; padding: 0px; margin: 10px 0px; width: 855.125px;" cellpadding="10" border="1">
+   <tbody>
+      <tr>
+         <td style="vertical-align: top;">Stage</td>
+         <td style="vertical-align: top;">Stage Description</td>
+         <td style="vertical-align: top;">Grant Duration</td>
+         <td style="vertical-align: top;">Grant Quantum (when institution owns &gt;50% of IP)*</td>
+         <td style="vertical-align: top;">Grant Quantum (when host institution owns ≤ 50% of IP)*</td>
+      </tr>
+      <tr>
+         <td style="vertical-align: top;">1</td>
+         <td style="vertical-align: top;">First Filing</td>
+         <td style="vertical-align: top;">12 months</td>
+         <td style="vertical-align: top;">$10,000</td>
+         <td style="vertical-align: top;">$5,000</td>
+      </tr>
+      <tr>
+         <td style="vertical-align: top;">2</td>
+         <td style="vertical-align: top;">PCT Filing &amp; Prosecution</td>
+         <td style="vertical-align: top;">12 months</td>
+         <td style="vertical-align: top;">$30,000</td>
+         <td style="vertical-align: top;">$15,000</td>
+      </tr>
+      <tr>
+         <td style="vertical-align: top;">3</td>
+         <td style="vertical-align: top;">National Phase (NP)</td>
+         <td style="vertical-align: top;">12 months</td>
+         <td style="vertical-align: top;">$40,000 for 2 territories</td>
+         <td style="vertical-align: top;">$20,000 for 2 territories</td>
+      </tr>
+      <tr>
+         <td style="vertical-align: top;">4</td>
+         <td style="vertical-align: top;">NP Prosecution &amp; Grant Maintenance</td>
+         <td style="vertical-align: top;">12 months</td>
+         <td style="vertical-align: top;">$20,000</td>
+         <td style="vertical-align: top;">$10,000</td>
+      </tr>
+   </tbody>
+</table>
 
 \*Institutions are not allowed to claim Indirect Research Cost (IRC)
 
