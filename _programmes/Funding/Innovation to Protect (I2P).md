@@ -17,7 +17,26 @@ This scheme provides funding for patentable inventions with demonstrated proof o
 
 The applicants for this scheme must be the Head/Deputy Director/Director of Designated Offices listed below.
 
-<table style="max-width: 100%; background-color: transparent; border-collapse: collapse; border-spacing: 0px; padding: 0px; margin: 10px 0px; width: 855.125px; border-width: 1px; border-color: rgb(222, 222, 222);" cellpadding="10" border="1"><tbody><tr><td><strong style="font-weight: bold;">Healthcare Cluster</strong></td><td><strong style="font-weight: bold;">Designated Office</strong></td></tr><tr><td>National Healthcare Group</td><td>NHG Group Research</td></tr><tr><td>NUHS</td><td>NUHS Research Office</td></tr><tr><td>SingHealth</td><td>SingHealth Office of Intellectual Property (SHIP)</td></tr></tbody></table>
+<table style="max-width: 100%; background-color: transparent; border-collapse: collapse; border-spacing: 0px; padding: 0px; margin: 10px 0px; width: 855.125px; border-width: 1px; border-color: rgb(222, 222, 222);" cellpadding="10" border="1">
+   <tbody>
+      <tr>
+         <td><strong style="font-weight: bold;">Healthcare Cluster</strong></td>
+         <td><strong style="font-weight: bold;">Designated Office</strong></td>
+      </tr>
+      <tr>
+         <td>National Healthcare Group</td>
+         <td>NHG Group Research</td>
+      </tr>
+      <tr>
+         <td>NUHS</td>
+         <td>NUHS Research Office</td>
+      </tr>
+      <tr>
+         <td>SingHealth</td>
+         <td>SingHealth Office of Intellectual Property (SHIP)</td>
+      </tr>
+   </tbody>
+</table>
 
 Applications for this scheme can apply to this scheme for inventions in which one of the inventors hold a primary appointment and is employed by a public healthcare institution in Singapore.
 
