@@ -9,7 +9,7 @@ Innovation to Startup (I2Start)
 
 #### Development of clinician innovations towards Health and Biomedical Sciences Startups
 
-<img src="/images/Funding/i2s%20logos.PNG" style="width:300px" align="left">
+<img src="/images/Funding/i2s%20logos.PNG" style="width:150px" align="left">
 
 <img src="/images/Funding/logo_i2start.jpg" style="width:300px" align="right">
 
