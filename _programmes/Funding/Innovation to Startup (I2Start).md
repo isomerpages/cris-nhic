@@ -58,7 +58,7 @@ The project should&nbsp;**preferably fall under one of the following areas**:
 
 ##### Funding Process
 
-![funding quantum i2s1a](https://nhic.sg/web/images/NHIC/funding-quantum-i2s1a.jpg)
+![funding quantum i2s1a](/images/Funding/funding-quantum-i2s1a.jpg)
 
 All I2Start grant applications will be jointly evaluated by the 3 funding agencies.
 
