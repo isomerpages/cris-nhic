@@ -91,7 +91,7 @@ Each form&nbsp;**MUST**&nbsp;be endorsed and submitted electronically by the des
    </tbody>
 </table>
 
-NHIC I2D Grant Process  
+##### NHIC I2D Grant Process
 
 An overview of the grant process is as follows:
 
