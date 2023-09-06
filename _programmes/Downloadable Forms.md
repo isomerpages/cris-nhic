@@ -88,6 +88,8 @@ description: ""
    </tbody>
 </table>
 
+<!--
+
 # I2Adopt Forms
 
 <table>
@@ -97,12 +99,13 @@ description: ""
          <td>Effective Date</td>
       </tr>
       <tr>
-         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://nhic.sg/web/images/NHIC/documents/I2Adopt/I2Adopt_Letter_of_Intent_Template_Nov_2022.pptx">I2Adopt Letter of Intent</a></td>
+         <td><a href="https://nhic.sg/web/images/NHIC/documents/I2Adopt/I2Adopt_Letter_of_Intent_Template_Nov_2022.pptx" target="_blank" style="color: rgb(211, 38, 42); text-decoration: none; outline: none;">I2Adopt Letter of Intent</a></td>
          <td>1 Nov 2022</td>
       </tr>
    </tbody>
 </table>
  
+-->
 
 # NRF Central Gap Fund Forms
 
