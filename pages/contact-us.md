@@ -20,6 +20,6 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: form.sg
+      - other: https://form.gov.sg/64f850e28c490a00119ca140
     title: "Make an Online Enquiry :"
 ---
