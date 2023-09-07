@@ -56,14 +56,13 @@ These collaborations play to the strengths of each sector; NHIC would identify a
 				</a>
 			</td>
 			<td style="width:33%">
-				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_coronet.png">
+				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_roche.png">
 			</td>
 			<td style="width:33%">
-				<a href="www.evx.ventures">
-				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_evx.png">
+				<a href="www.sdta.sg">
+				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_sdta.png">
 				</a>
 			</td>
 		</tr>
 	</tbody></table>
 		
-		![](/images/Partners%20Icons/CADRE2/cadre%20logos_outrambio.png)
