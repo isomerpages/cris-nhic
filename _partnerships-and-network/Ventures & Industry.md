@@ -40,6 +40,22 @@ These collaborations play to the strengths of each sector; NHIC would identify a
 				</a>
 			</td>
 			<td style="width:33%">
+				<a href="https://mirxes.com">
+				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_mirxes.png">
+			</a></td>
+			<td style="width:33%">
+				<a href="www.origgin.com">
+				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_origgin.png">
+				</a>
+			</td>
+		</tr>
+	<tr>
+			<td style="width:33%">
+				<a href="www.outrambio.com">
+				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_outrambio.png">
+				</a>
+			</td>
+			<td style="width:33%">
 				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_coronet.png">
 			</td>
 			<td style="width:33%">
@@ -47,6 +63,7 @@ These collaborations play to the strengths of each sector; NHIC would identify a
 				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_evx.png">
 				</a>
 			</td>
-		</tr></tbody></table>
+		</tr>
+	</tbody></table>
 		
-		![](/images/Partners%20Icons/CADRE2/cadre%20logos_medtech%20actuator.png)
+		![](/images/Partners%20Icons/CADRE2/cadre%20logos_outrambio.png)
