@@ -14,7 +14,7 @@ Prior to joining NHIC, Michael was a Scientist with A\*STAR’s IME for five yea
 Michael holds a Ph.D from the University of Newcastle, Australia and completed the postgraduate course from Singapore Stanford Biodesign Innovation Class in 2014.
 
 ### **Tan Ee Lim, Ph.D**  
-**Senior Manager**
+**Senior Manager (Medtech)**
 
 <img src="/images/About/Our%20Team/Innovation%20Team/taneelim.jpg" style="width:150px">
 
@@ -23,7 +23,7 @@ Before joining NHIC, Ee Lim was a Biodesign Fellow with Singapore-Stanford Biode
 Ee Lim holds a Ph.D. from the Michigan Technological University, USA and a recipient of Singapore-Stanford Biodesign Fellowship. He has also completed the Lean Launchpad course by NUS Enterprise and trained in medical device design control.
 
 ### **Chuah Yon Jin, Ph. D**  
-**Manager**
+**Manager (Biomed)**
 
 <img src="/images/About/Our%20Team/Innovation%20Team/chuahyonjin.jpg" style="width:150px">
 
@@ -32,7 +32,7 @@ Prior to joining NHIC, Yon Jin was a Research Fellow in Nanyang Technological Un
 Yon Jin holds a Ph.D from the Nanyang Technological University (NTU) who specialized in biomaterials engineering, cell processing and tissue engineering, and has completed biomedical courses such as Singapore Stanford Biodesign Innovation Course and The Medical Device School. He also serves as an ad-hoc reviewer for numerous leading scientific journals and a member of the Biomedical Engineering Society.
 
 ### **Zhang Hanzhong, Ph.D**  
-**Manager**
+**Manager (Medtech)**
 
 <img src="/images/About/Our%20Team/Innovation%20Team/zhanghanzhong.jpg" style="width:150px">
 
@@ -41,7 +41,7 @@ Before joining NHIC, Hanzhong was a Biodesign Fellow with Singapore-Stanford Bio
 Hanzhong holds an MSc degree in Biomedical Engineering and a BEng degree in Electrical Engineering. He serves as an advisor in the Biomedical Engineering Society (Singapore), and a collaborator of the International Federation of Medical and Biological Engineering (IFMBE) Clinical Engineering Division.
 
 ### **Esther Lee, Ph.D** 
-**Senior Manager**
+**Senior Manager (Biomed)**
 
 <img src="/images/About/Our%20Team/Enterprise%20Team/estherlee.jpg" style="width:150px">
 
@@ -50,10 +50,10 @@ Prior to joining NHIC, Esther was in SingHealth (SHHQ) focusing on ground up inn
 Esther has a PhD. From the National University of Singapore and also completed the Lean Launchpad course by NUS Enterprise.
 
 ### **Smitha Velayil, MSc-MBA**  
-**Manager**
+**Manager (Biomed)**
 
 <img src="/images/About/Our%20Team/Enterprise%20Team/smitha%20velayil%20sunildeep.PNG" style="width:150px">
 
-Smitha started her career as a clinical research coordinator before moving onto pursue business development and strategy roles at the Nanyang Technological University (NTU) and Singapore Centre for Environmental Life Sciences Engineering (SCELSE). Over the course of last 9 years, she was involved in establishing strategic initiatives and partnerships with local ministries, agencies, industry, clinical community and international players. She facilitated the establishment of the Singapore National Biofilm Consortium (SNBC) and also actively participated in the commercialization activities associated with biofilm and microbiome technologies. In parallel, she held the position of the lead administrator of a company limited by guarantee (CLG) associated with genomics. 
+Smitha started her career as a clinical research coordinator before moving onto pursue business development and strategy roles at the Nanyang Technological University (NTU) and Singapore Centre for Environmental Life Sciences Engineering (SCELSE). She was involved in establishing strategic initiatives and partnerships with local ministries, agencies, industry, clinical community and international players. She facilitated the establishment of the Singapore National Biofilm Consortium (SNBC) and also actively participated in the commercialization activities associated with biofilm and microbiome technologies. In parallel, she held the position of the lead administrator of a company limited by guarantee (CLG) associated with genomics. 
 
 Smitha holds a dual Masters degree (MSc-MBA) in Biotechnology and Business Administration from La Trobe University, Melbourne, and a Bachelors degree (Honours) in Biological Sciences from Nanyang Technological University (NTU). She also completed the Lean Launchpad course by NTUitive Pte. Ltd. as part of a team from the Big Data Analytics group hosted at the School of Electrical and Electronic Engineering, and the project has since been incorporated as a neurotechnology startup company. Additionally, she earned a nomination for NTU’s premier leadership excellence and advancement program LEAD1 that she successfully completed in 2022.
