@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Team
 ---
 ### **Michael Ho, Ph.D**  
-**Head, Innovation and Strategy**
+**Head, Operations**
 
 <img src="/images/About/Our%20Team/Innovation%20Team/michaelho.jpg" style="width:150px">
 
@@ -14,7 +14,7 @@ Prior to joining NHIC, Michael was a Scientist with A\*STAR’s IME for five yea
 Michael holds a Ph.D from the University of Newcastle, Australia and completed the postgraduate course from Singapore Stanford Biodesign Innovation Class in 2014.
 
 ### **Tan Ee Lim, Ph.D**  
-**Manager, Innovation**
+**Senior Manager**
 
 <img src="/images/About/Our%20Team/Innovation%20Team/taneelim.jpg" style="width:150px">
 
@@ -23,7 +23,7 @@ Before joining NHIC, Ee Lim was a Biodesign Fellow with Singapore-Stanford Biode
 Ee Lim holds a Ph.D. from the Michigan Technological University, USA and a recipient of Singapore-Stanford Biodesign Fellowship. He has also completed the Lean Launchpad course by NUS Enterprise and trained in medical device design control.
 
 ### **Chuah Yon Jin, Ph. D**  
-**Manager, Innovation**
+**Manager**
 
 <img src="/images/About/Our%20Team/Innovation%20Team/chuahyonjin.jpg" style="width:150px">
 
@@ -32,7 +32,7 @@ Prior to joining NHIC, Yon Jin was a Research Fellow in Nanyang Technological Un
 Yon Jin holds a Ph.D from the Nanyang Technological University (NTU) who specialized in biomaterials engineering, cell processing and tissue engineering, and has completed biomedical courses such as Singapore Stanford Biodesign Innovation Course and The Medical Device School. He also serves as an ad-hoc reviewer for numerous leading scientific journals and a member of the Biomedical Engineering Society.
 
 ### **Zhang Hanzhong**  
-**Manager, Innovation**
+**Manager**
 
 <img src="/images/About/Our%20Team/Innovation%20Team/zhanghanzhong.jpg" style="width:150px">
 
