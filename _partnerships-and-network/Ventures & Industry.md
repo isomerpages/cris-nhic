@@ -15,13 +15,12 @@ By working closely with private sector partners from the initial stages of produ
 
 These collaborations play to the strengths of each sector; NHIC would identify and support the achievement of healthcare objectives, while private sector partners would introduce the commercial discipline that prepares projects to be market-ready and investable. NHIC has established more than 10 CADRE<sup>2</sup> partnerships since the inception of this programme.
 
-![](/images/Partners%20Icons/CADRE2/cadre%20logos_mirxes.png)
 
 <table>
 	<tbody>
 		<tr>
 			<td style="width:33%">
-				<a href="https://www.brinc.io">
+				<a href="www.brinc.io">
 				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_bric.png">
 				</a>
 			</td>
@@ -30,13 +29,13 @@ These collaborations play to the strengths of each sector; NHIC would identify a
 				
 			</td>
 			<td style="width:33%">
-				<a href="https://www.evx.ventures">
+				<a href="www.evx.ventures">
 				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_evx.png">
 				</a>
 			</td>
 		</tr><tr>
 			<td style="width:33%">
-				<a href="https://www.medtechactuator.com">
+				<a href="www.medtechactuator.com">
 				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_medtech%20actuator.png">
 				</a>
 			</td>
