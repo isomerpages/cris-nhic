@@ -13,7 +13,7 @@ description: >-
   Established since 2014, it has supported many projects and companies in the development and implementation of innovative medical technologies and services, improving the standard of healthcare in Singapore and beyond.
 image: /images/Zz   NHIC logo/nhic logo.png
 permalink: /
-notification: Active Grant Announcement
+notification: ""
 sections:
   - hero:
       title: Powering the Next Generation of Healthcare Innovation
