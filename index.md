@@ -19,17 +19,17 @@ sections:
       title: Powering the Next Generation of Healthcare Innovation
       background: /images/Homepage/homepage banner-min.jpeg
       key_highlights:
-        - title: "Funding "
+        - title: Funding
           description: Impactful Health Innovations
           url: /funding/protect-i2p/
         - title: Ventures & Industry
-          description: "Partnerships "
+          description: Partnerships
           url: /partnerships-and-network/ventures-and-industry/
         - title: Talent Development
           description: Develop Tri-competent Talent
           url: /programmes/talent-development
   - infopic:
-      title: Accelerating The Translation
+      title: Accelerating clinical innovation journey
       description: How does NHIC accelerate the translation of clinical innovations
         into health and economic outcomes?
       button: Learn More
