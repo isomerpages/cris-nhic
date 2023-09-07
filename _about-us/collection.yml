@@ -1,0 +1,12 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Objectives and Identity.md
+      - What we do.md
+      - Oversight Committee.md
+      - Our Team/.keep
+      - Our Team/Senior Management.md
+      - Our Team/Innovation Team.md
+      - Our Team/Enterprise Team.md
+      - Our Team/Administrative Team.md

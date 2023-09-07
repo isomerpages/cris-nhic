@@ -1,0 +1,7 @@
+collections:
+  partnerships-and-network:
+    output: true
+    order:
+      - Clinical Network.md
+      - Ventures & Industry.md
+      - Community Partners.md

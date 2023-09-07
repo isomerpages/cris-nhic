@@ -1,0 +1,41 @@
+---
+title: NUHS
+permalink: /funding/joint-medtech-grants/nuhs/
+description: ""
+third_nav_title: Joint MedTech Grants
+---
+### National University Health System (NUHS) – National Health Innovation Centre Singapore (NHIC) Joint Medical Technology (MedTech) Grant
+
+<img src="/images/Funding/nuhs%20icon.jpg" style="width:150px" align="right">
+
+NUHS and NHIC set up the&nbsp;**NUHS-NHIC Joint MedTech Grant**&nbsp;to support investigators in their efforts for early-stage development of a clinically significant and commercially-viable healthcare innovation which show potential for obtaining next stage National MedTech grants. The end deliverable should be a&nbsp;[medical device](https://www.hsa.gov.sg/content/hsa/en/Health_Products_Regulation/MEDICS_e-Services/Singapore_Medical_Device_Register_smdr_MEDICS.html),&nbsp;**in-vitro diagnostics or health services solution**.
+
+##### Application Eligibility
+
+Proposals will be evaluated based on the following criteria:
+
+*   The lead Principal Investigator (PI) must hold a primary appointment in NUHS (i.e. NUH/NUSMed/FoD/SPH), and salaried by NUH/NUSMed/FoD/SPH throughout the effective grant period.
+*   Only one lead PI is allowed per application.
+*   Only one application per lead PI can be submitted per grant call.
+*   Co-Investigator (Co-I) need to hold at least an adjunct position in a local public institution.
+*   Researchers from overseas institutions or private companies can only participate as Collaborators.
+
+##### Funding Information
+
+The funding quantum and duration for each project is:
+
+<table style="max-width: 100%; background-color: transparent; border-collapse: collapse; border-spacing: 0px; padding: 0px; margin: 10px 0px; width: 513.062px; border-color: rgb(229, 229, 229);" cellpadding="5" border="1"><tbody><tr><td style="background-color: rgb(229, 244, 244); text-align: center;"><strong style="font-weight: bold;">Capped Amount</strong></td><td style="background-color: rgb(229, 244, 244); text-align: center;"><strong style="font-weight: bold;">Maximum Duration</strong></td></tr><tr><td style="text-align: center;"><strong style="font-weight: bold;">S$100,000</strong><br>(Co-funded by NUHS and NHIC; No IRC provided)</td><td style="text-align: center;"><strong style="font-weight: bold;">12 months</strong></td></tr></tbody></table>
+
+Note: Indirect research costs, travel and conference costs are&nbsp;not&nbsp;allowable. Extension is capped at 6 months.
+
+##### Funded Projects
+
+<table style="max-width: 100%; background-color: transparent; border-collapse: collapse; border-spacing: 0px; padding: 0px; margin: 10px 0px; width: 855.125px; border-color: rgb(229, 229, 229);" cellpadding="5" border="1"><tbody><tr><td style="width: 202.531px; background-color: rgb(229, 244, 244); vertical-align: top;"><strong style="font-weight: bold;">Principal Investigator (PI)</strong></td><td style="background-color: rgb(229, 244, 244); vertical-align: top;"><strong style="font-weight: bold;">Project Title</strong></td></tr><tr><td style="vertical-align: top;" colspan="2"><strong style="font-weight: bold;">2016</strong></td></tr><tr><td style="vertical-align: top; text-align: right;">Dr Vitaly Sorokin</td><td style="vertical-align: top;">Development of medical technology to use plasma biomarker assay platform for non-invasive diagnose of early stage coronary artery disease.</td></tr><tr><td style="vertical-align: top; text-align: right;">Dr Kamarjit Singh Mangat</td><td style="vertical-align: top;">Minimally Invasive Device for Safer Liver Biopsy</td></tr><tr><td style="vertical-align: top; text-align: right;">Dr Victor Koh</td><td style="vertical-align: top;">A smarter, user friendly, portable and reliable automated (SUPRA) perimetry device for the future</td></tr><tr><td style="vertical-align: top;" colspan="2"><strong style="font-weight: bold;"><strong style="font-weight: bold;">2017</strong></strong></td></tr><tr><td style="vertical-align: top; text-align: right;">Theodoros Kofidis</td><td style="vertical-align: top;">Facilitating easier, safer, better Minimally Invasive Heart Surgery</td></tr><tr><td style="vertical-align: top; text-align: right;">Paul Anantharajah Tambyah</td><td style="vertical-align: top;">Antimicrobial urease inhibitor-containing coating for urinary catheter</td></tr><tr><td style="vertical-align: top; text-align: right;">Lim Chwee Ming</td><td style="vertical-align: top;">Trans-oral robotic assisted needle direct tracheostomy puncture in patients requiring prolonged mechanical ventilation</td></tr><tr><td style="vertical-align: top; text-align: right;">Matthew Edward Cove</td><td style="vertical-align: top;">Using dialysis to remove carbon dioxide and support lung protective ventilation in critically ill patients</td></tr><tr><td style="vertical-align: top; text-align: justify;" colspan="2"><strong style="font-weight: bold;">2018</strong></td></tr><tr><td style="vertical-align: top; text-align: right;">Kuan Win Sen</td><td style="vertical-align: top;">Point-of-collection microbiological characterisation in community-acquired pneumonia using cough condensates</td></tr><tr><td style="vertical-align: top; text-align: right;">Raymond Seet</td><td style="vertical-align: top;">SMOoVE®: A cuff-less blood pressure device</td></tr><tr><td style="vertical-align: top; text-align: right;">Victor Koh</td><td style="vertical-align: top;">EyeDEA – Eye Drop Electronic Alarm (Glaucoma Medication Management System)</td></tr><tr><td style="vertical-align: top; text-align: right;">Tan Kai Soo</td><td style="vertical-align: top;">Rapid chair-side detection of root canal bacteria for personalized endodontic treatment</td></tr><tr><td style="vertical-align: top; text-align: left;" colspan="2"><strong style="font-weight: bold;">2019</strong></td></tr><tr><td style="vertical-align: top; text-align: right;">Lim Yinghao</td><td style="vertical-align: top;">Non-invasive right atrial pressure measurement</td></tr><tr><td style="vertical-align: top; text-align: right;">Su Xinyi</td><td style="vertical-align: top;">A Novel Oxygen Delivery Device for Corneal Hypoxia</td></tr><tr><td style="vertical-align: top; text-align: right;">Federico Tesi Torta</td><td style="vertical-align: top;">A fast lipid-based assay to diagnose sepsis and measure its severity</td></tr><tr><td style="vertical-align: top; text-align: left;" colspan="2"><strong style="font-weight: bold;">2020</strong>&nbsp;</td></tr><tr><td style="vertical-align: top; text-align: right;">Yang Peiling, Samantha</td><td style="vertical-align: top;">Adding highly-sensitive micro-RNA to DNA-RNA classifier to improve thyroid cancer prediction in indeterminate cytology</td></tr><tr><td style="vertical-align: top; text-align: right;">Thian Yee Liang</td><td style="vertical-align: top;">Object detection networks for automated fracture detection of emergency radiographs</td></tr><tr><td style="vertical-align: top; text-align: left;" colspan="2"><strong style="font-weight: bold;">2021</strong></td></tr><tr><td style="vertical-align: top; text-align: right;">Alexander Ng Jet Yue</td><td style="vertical-align: top;">Development of an advanced modular airway suction catheter for use in emergency airway management</td></tr><tr><td style="vertical-align: top; text-align: right;">Deng Lih Wen</td><td style="vertical-align: top;">A multi-miRNA panel for the early detection of recurrence and radio(chemo) therapy response in cancers of the cervix and head and neck</td></tr><tr><td style="vertical-align: top; text-align: right;">Leonard Yeo</td><td style="vertical-align: top;">Near Infrared Imaging for acute stroke diagnosis and monitoring with feedback for non-invasive augmentation of ischemic collaterals. (NIRS-Compress)</td></tr></tbody></table>
+
+For more information about this grant, please contact your Host Institution’s Research Office:
+
+Alfred CHIA (PhD)  
+Email:&nbsp;[alfred\_CHIA@nuhs.edu.sg](mailto:alfred_CHIA@nuhs.edu.sg)
+
+Partnership  
+Email:&nbsp;[partnership@nuhs.edu.sg](mailto:partnership@nuhs.edu.sg)

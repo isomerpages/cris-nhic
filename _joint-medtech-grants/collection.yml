@@ -1,0 +1,8 @@
+collections:
+  joint-medtech-grants:
+    output: true
+    order:
+      - Joint MedTech Grants/.keep
+      - Joint MedTech Grants/NUHS.md
+      - Joint MedTech Grants/SingHealth.md
+      - Joint MedTech Grants/NHGG.md
