@@ -30,3 +30,5 @@ Joint MedTech Grants
 		</tr>
 	</tbody>
 </table>
+
+NHIC jointly collaborates with public healthcare institutions to support and advance early-stage healthcare innovations through co-funding. This initative is geared towards elevating the Technology Readiness Level (TRL) of the early innovations.
