@@ -26,29 +26,14 @@ These collaborations play to the strengths of each sector; NHIC would identify a
 			</td>
 			<td style="width:33%">
 				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_coronet.png">
-				
 			</td>
 			<td style="width:33%">
 				<a href="www.evx.ventures">
 				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_evx.png">
 				</a>
 			</td>
-		</tr><tr>
-			<td style="width:33%">
-				<a href="www.medtechactuator.com">
-				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_medtech%20actuator.png">
-				</a>
-			</td>
-			<td style="width:33%">
-				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_coronet.png">
-				
-			</td>
-			<td style="width:33%">
-				<a href="www.evx.ventures">
-				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_evx.png">
-				</a>
-			</td>
-					</tr><tr>
+		</tr>
+		<tr>
 			<td style="width:33%">
 				<a href="www.brinc.io">
 				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_bric.png">
@@ -56,40 +41,10 @@ These collaborations play to the strengths of each sector; NHIC would identify a
 			</td>
 			<td style="width:33%">
 				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_coronet.png">
-				
 			</td>
 			<td style="width:33%">
 				<a href="www.evx.ventures">
 				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_evx.png">
 				</a>
 			</td>
-					</tr><tr>
-			<td style="width:33%">
-				<a href="www.brinc.io">
-				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_bric.png">
-				</a>
-			</td>
-			<td style="width:33%">
-				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_coronet.png">
-				
-			</td>
-			<td style="width:33%">
-				<a href="www.evx.ventures">
-				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_evx.png">
-				</a>
-			</td>
-					</tr><tr>
-			<td style="width:33%">
-				<a href="www.brinc.io">
-				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_bric.png">
-				</a>
-			</td>
-			<td style="width:33%">
-				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_coronet.png">
-				
-			</td>
-			<td style="width:33%">
-				<a href="www.evx.ventures">
-				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_evx.png">
-				</a>
-			</td></tr></tbody></table>
+		</tr></tbody></table>
