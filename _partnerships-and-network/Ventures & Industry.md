@@ -76,4 +76,3 @@ These collaborations play to the strengths of each sector; NHIC would identify a
 			</td>
 		</tr>
 	</tbody></table>
-	
