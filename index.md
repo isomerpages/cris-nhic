@@ -44,6 +44,6 @@ sections:
       image: /images/Homepage/stock image 3-min.jpeg
       url: /programmes/talent-development/
   - resources:
-      title: Latest New and Events
+      title: Latest News and Events
       button: Learn More
 ---
