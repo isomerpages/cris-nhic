@@ -19,14 +19,14 @@ sections:
       title: Powering the Next Generation of Healthcare Innovation
       background: /images/Homepage/homepage banner-min.jpeg
       key_highlights:
-        - title: Funding
-          description: Collaboration and development
+        - title: "Funding "
+          description: Impactful Health Innovations
           url: /funding/protect-i2p/
-        - title: Venture Partnerships
-          description: Ventures & Industry
+        - title: Ventures & Industry
+          description: "Partnerships "
           url: /partnerships-and-network/ventures-and-industry/
         - title: Talent Development
-          description: Nurturing our Talents
+          description: Develop Tri-competent Talent
           url: /programmes/talent-development
   - infopic:
       title: Accelerating The Translation
