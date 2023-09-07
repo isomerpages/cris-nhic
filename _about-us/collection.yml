@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Objectives and Identity.md
+      - Vision & Mission.md
       - What We Do.md
       - Oversight Committee.md
       - Our Team/.keep
