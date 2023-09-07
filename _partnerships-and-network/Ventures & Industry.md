@@ -15,34 +15,82 @@ By working closely with private sector partners from the initial stages of produ
 
 These collaborations play to the strengths of each sector; NHIC would identify and support the achievement of healthcare objectives, while private sector partners would introduce the commercial discipline that prepares projects to be market-ready and investable. NHIC has established more than 10 CADRE<sup>2</sup> partnerships since the inception of this programme.
 
+![](/images/Partners%20Icons/CADRE2/cadre%20logos_mirxes.png)
 
 <table>
 	<tbody>
 		<tr>
-			<td style="width:20%">
+			<td style="width:33%">
+				<a href="https://www.brinc.io">
+				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_bric.png">
+				</a>
+			</td>
+			<td style="width:33%">
+				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_coronet.png">
+				
+			</td>
+			<td style="width:33%">
+				<a href="https://www.evx.ventures">
+				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_evx.png">
+				</a>
+			</td>
+		</tr><tr>
+			<td style="width:33%">
+				<a href="https://www.medtechactuator.com">
+				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_medtech%20actuator.png">
+				</a>
+			</td>
+			<td style="width:33%">
+				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_coronet.png">
+				
+			</td>
+			<td style="width:33%">
+				<a href="www.evx.ventures">
+				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_evx.png">
+				</a>
+			</td>
+					</tr><tr>
+			<td style="width:33%">
 				<a href="www.brinc.io">
 				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_bric.png">
 				</a>
 			</td>
-			<td style="width:20%">
-				<a href="www.brinc.io">
+			<td style="width:33%">
 				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_coronet.png">
-				</a>
-			</td>
-			<td style="width:20%">
-				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_evx.png">
 				
 			</td>
-			<td style="width:20%">
-				<a href="www.brinc.io">
-				<img src="/images/Partnerships%20and%20Network/Ventures%20&amp;%20Industry/brinc_gradient_rgb.png">
+			<td style="width:33%">
+				<a href="www.evx.ventures">
+				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_evx.png">
 				</a>
 			</td>
-			<td style="width:20%">
+					</tr><tr>
+			<td style="width:33%">
 				<a href="www.brinc.io">
-				<img src="/images/Partnerships%20and%20Network/Ventures%20&amp;%20Industry/brinc_gradient_rgb.png">
+				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_bric.png">
 				</a>
 			</td>
-		</tr>
-	</tbody>
-</table>
+			<td style="width:33%">
+				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_coronet.png">
+				
+			</td>
+			<td style="width:33%">
+				<a href="www.evx.ventures">
+				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_evx.png">
+				</a>
+			</td>
+					</tr><tr>
+			<td style="width:33%">
+				<a href="www.brinc.io">
+				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_bric.png">
+				</a>
+			</td>
+			<td style="width:33%">
+				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_coronet.png">
+				
+			</td>
+			<td style="width:33%">
+				<a href="www.evx.ventures">
+				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_evx.png">
+				</a>
+			</td></tr></tbody></table>
