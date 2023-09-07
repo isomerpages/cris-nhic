@@ -40,7 +40,7 @@ Before joining NHIC, Hanzhong was a Biodesign Fellow with Singapore-Stanford Bio
 
 Hanzhong holds an MSc degree in Biomedical Engineering and a BEng degree in Electrical Engineering. He serves as an advisor in the Biomedical Engineering Society (Singapore), and a collaborator of the International Federation of Medical and Biological Engineering (IFMBE) Clinical Engineering Division.
 
- ### **Esther Lee, Ph.D**  
+### **Esther Lee, Ph.D** 
 **Senior Manager**
 
 <img src="/images/About/Our%20Team/Enterprise%20Team/estherlee.jpg" style="width:150px">
