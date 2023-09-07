@@ -35,8 +35,8 @@ These collaborations play to the strengths of each sector; NHIC would identify a
 		</tr>
 		<tr>
 			<td style="width:33%">
-				<a href="www.brinc.io">
-				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_bric.png">
+				<a href="www.medtechactuator.com">
+				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_medtech%20actuator.png">
 				</a>
 			</td>
 			<td style="width:33%">
@@ -48,3 +48,5 @@ These collaborations play to the strengths of each sector; NHIC would identify a
 				</a>
 			</td>
 		</tr></tbody></table>
+		
+		![](/images/Partners%20Icons/CADRE2/cadre%20logos_medtech%20actuator.png)
