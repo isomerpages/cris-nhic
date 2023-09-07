@@ -60,7 +60,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d1q0gwexbv4jw4.amplifyapp.com
 prod: https://master.d1q0gwexbv4jw4.amplifyapp.com
-shareicon: /images/isomer-logo.svg
+shareicon: /images/Zz   NHIC logo/nhic logo.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
