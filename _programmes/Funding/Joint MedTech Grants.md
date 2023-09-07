@@ -12,7 +12,7 @@ Joint MedTech Grants
 		<tr>
 			<td width="25%">
 				<a href="/funding/joint-medtech-grants/nuhs/">
-					<img src="/images/Clinical partners/NUHS logo.jpg">
+					<img src="/images/nuhslogo.jpg">
 				</a>
 			</td>
 				<td width="25%">
