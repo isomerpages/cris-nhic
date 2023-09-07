@@ -65,12 +65,12 @@ These collaborations play to the strengths of each sector; NHIC would identify a
 		</td>
 				</tr><tr>
 			<td style="width:33%">
-				<a href="www.medtechactuator.com">
+				<a href="www.trinity-fund.com.sg">
 				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_tibs.png">
 				</a>
 			</td>
 			<td style="width:33%">
-				<a href="https://mirxes.com">
+				<a href="www.trive.vc">
 				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_trive.png">
 			</a>
 			</td>
