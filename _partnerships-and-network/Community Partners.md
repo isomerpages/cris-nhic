@@ -35,4 +35,4 @@ description: ""
 
 
 
-For latest updates on events and happenings, follow us on **LinkedIn |[https://www.linkedin.com/company/nhic-sg-2020](https://www.linkedin.com/company/nhic-sg-2020/).
+For latest updates on events and happenings, follow us on LinkedIn [https://www.linkedin.com/company/nhic-sg-2020](https://www.linkedin.com/company/nhic-sg-2020/).
