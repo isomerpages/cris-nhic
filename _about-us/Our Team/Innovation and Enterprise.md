@@ -31,7 +31,7 @@ Prior to joining NHIC, Yon Jin was a Research Fellow in Nanyang Technological Un
 
 Yon Jin holds a Ph.D from the Nanyang Technological University (NTU) who specialized in biomaterials engineering, cell processing and tissue engineering, and has completed biomedical courses such as Singapore Stanford Biodesign Innovation Course and The Medical Device School. He also serves as an ad-hoc reviewer for numerous leading scientific journals and a member of the Biomedical Engineering Society.
 
-### **Zhang Hanzhong**  
+### **Zhang Hanzhong, Ph.D**  
 **Manager**
 
 <img src="/images/About/Our%20Team/Innovation%20Team/zhanghanzhong.jpg" style="width:150px">
@@ -40,7 +40,7 @@ Before joining NHIC, Hanzhong was a Biodesign Fellow with Singapore-Stanford Bio
 
 Hanzhong holds an MSc degree in Biomedical Engineering and a BEng degree in Electrical Engineering. He serves as an advisor in the Biomedical Engineering Society (Singapore), and a collaborator of the International Federation of Medical and Biological Engineering (IFMBE) Clinical Engineering Division.
 
- ### **Esther Lee**  
+ ### **Esther Lee, Ph.D**  
 **Senior Manager**
 
 <img src="/images/About/Our%20Team/Enterprise%20Team/estherlee.jpg" style="width:150px">
@@ -49,7 +49,7 @@ Prior to joining NHIC, Esther was in SingHealth (SHHQ) focusing on ground up inn
 
 Esther has a PhD. From the National University of Singapore and also completed the Lean Launchpad course by NUS Enterprise.
 
-### **Smitha Velayil**  
+### **Smitha Velayil, MSc-MBA**  
 **Manager**
 
 <img src="/images/About/Our%20Team/Enterprise%20Team/smitha%20velayil%20sunildeep.PNG" style="width:150px">
