@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Technology Domains.md
-      - Startups/Startups 1.md
+      - Startups/Startups.md
       - Startups/.keep
       - Success stories/.keep
       - Success stories/Early prototype design of the KLARO™ deep cavity
