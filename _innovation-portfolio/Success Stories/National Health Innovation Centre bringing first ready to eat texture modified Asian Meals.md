@@ -5,13 +5,13 @@ permalink: /innovation-portfolio/success-stories/national-health-innovation-cent
 description: ""
 third_nav_title: Success Stories
 ---
-Partnering National Health Innovation Centre in bringing first ready-to-eat texture modified Asian Meals for those with swallowing difficulties to market
+**Partnering National Health Innovation Centre in bringing first ready-to-eat texture modified Asian Meals for those with swallowing difficulties to market**
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-<img align="right" style="width:300px" src="/images/Innovation%20Portfolio/Success%20Stories/Ready%20To%20Eat%20Asian%20Meals/success_texturemodifiedmeals.jpg">
+<img src="/images/Innovation%20Portfolio/Success%20Stories/Ready%20To%20Eat%20Asian%20Meals/success_texturemodifiedmeals.jpg" style="width:300px" align="right">
 
 National Health Innovation Centre (NHIC) has played an instrumental role in commercialising an idea from the Department of Food Services (DFS) from Changi General Hospital (CGH) to introduce the first ready-to-eat texture modified Asian Meals for those with swallowing difficulties. With facilitation by NHIC, CGH and Health Food Matters (HFM) signed a licensing agreement in September 2016 to distribute the meals in Singapore and countries such as Australia, Japan and New Zealand.
 
-##### Background
+##### **Background**
 
 In light of the nutrition needs of people with swallowing difficulties (dysphagia) as well as the elderly who prefer soft meals, the team of dietitians from DFS at Changi General Hospital developed a range of ready-to-eat texture-modified meals in local flavours.
 
@@ -21,7 +21,7 @@ People with dysphagia must consume food prepared with specific textures to enabl
 
 There are fourteen recipes for texture-modified meals including familiar dishes such as seafood otah, five-spice chicken and kicap fish. These meals are nutritionally-balanced and ready-to-eat, thus enabling busy caregivers to attend to other tasks, or to seek brief respite from their caregiving duties.
 
-##### Partnering NHIC on the Journey to Commercialisation
+##### **Partnering NHIC on the Journey to Commercialisation**
 
 While CGH had developed the in-house technology, CGH was also keen to find a partner who could help them take the meals to a wider market. The opportunity for collaboration came at TechInnovation 2015, when CGH was introduced by the National Healthcare Innovation Centre (NHIC) to local food company Health Food Matters (HFM). Health Food Matters is a Singaporean company that focuses on nutrition and the enjoyment of food as key pillars of well-being.
 
