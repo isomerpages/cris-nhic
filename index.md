@@ -26,7 +26,7 @@ sections:
           description: Partnerships
           url: /partnerships-and-network/ventures-and-industry/
         - title: Talent Development
-          description: Develop Tri-competent Talent
+          description: Develop Tri-Competent Talent
           url: /programmes/talent-development
   - infopic:
       title: Accelerating clinical innovation journey
