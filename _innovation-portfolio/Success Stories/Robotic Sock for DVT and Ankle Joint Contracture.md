@@ -4,9 +4,6 @@ permalink: /innovation-portfolio/success-stories/robotic-sock-for-dvt-and-ankle-
 description: ""
 third_nav_title: Success Stories
 ---
-Robotic Sock for DVT and Ankle Joint Contracture
-------------------------------------------------
-
 <img src="/images/Innovation%20Portfolio/Success%20Stories/Robotic%20Sock%20for%20DVT/success_roboticsock.jpg" style="width:300px" align="right">
 
 The NUS-NUH team, comprising Asst/Prof Raye Yeow from NUS Biomedical Engineering, and Asst/Prof Lim Jeong Hoon from NUH Medicine, developed the 3rd generation clinical-grade soft robotic sock during the course of the NHIC grant.
