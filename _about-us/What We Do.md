@@ -3,7 +3,7 @@ title: What We Do
 permalink: /about/what-we-do/
 description: ""
 ---
-### National Health Innovation Centre Singapore
+### **National Health Innovation Centre Singapore**
 
 The **National Health Innovation Centre Singapore (NHIC)** is a nationally appointed programme office that works with Public Health Institutions across Singapore to identify and commercialise promising clinical innovations. NHIC funds the translation and development of medical innovations towards a market-ready product, and provides strategic guidance and connection to industry partners, accelerating the pathway to impact in healthcare.
 
@@ -11,7 +11,7 @@ Established since 2014, the office has supported several projects and companies 
 
 <img src="/images/Programmes/img-20230822-wa0032%20revised.jpg" style="width:500px">
 
-### How we work
+### **How we work**
 
 The NHIC team members have strong track records in the identification and commercialization of intellectual property from academic, clinical and commercial fields (see&nbsp;[Our Team](/about/our-team/senior-management/)). Our combined expertise and resources will be applied to the evaluation and nurturing of innovations along the commercialization pipeline.
 
