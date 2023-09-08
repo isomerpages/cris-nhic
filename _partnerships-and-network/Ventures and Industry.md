@@ -1,5 +1,5 @@
 ---
-title: Ventures & Industry
+title: Ventures and Industry
 permalink: /partnerships-and-network/ventures-and-industry/
 description: ""
 ---
