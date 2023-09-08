@@ -1,14 +1,13 @@
 ---
-title: NUHS
+title: National University Health System (NUHS)
 permalink: /funding/joint-medtech-grants/nuhs/
 description: ""
 third_nav_title: Joint MedTech Grants
 ---
 ### National University Health System (NUHS) – National Health Innovation Centre Singapore (NHIC) Joint Medical Technology (MedTech) Grant
 
-<img src="/images/Funding/nuhs%20icon.jpg" style="width:150px" align="right">
 
-NUHS and NHIC set up the&nbsp;**NUHS-NHIC Joint MedTech Grant**&nbsp;to support investigators in their efforts for early-stage development of a clinically significant and commercially-viable healthcare innovation which show potential for obtaining next stage National MedTech grants. The end deliverable should be a&nbsp;[medical device](https://www.hsa.gov.sg/content/hsa/en/Health_Products_Regulation/MEDICS_e-Services/Singapore_Medical_Device_Register_smdr_MEDICS.html),&nbsp;**in-vitro diagnostics or health services solution**.
+NUHS and NHIC set up the&nbsp;**NUHS-NHIC Joint MedTech Grant**&nbsp;to support investigators in their efforts for early-stage development of a clinically significant and commercially-viable healthcare innovation which show potential for obtaining next stage National MedTech grants. The end deliverable should be in-vitro diagnostics or health services solution.
 
 ##### Application Eligibility
 

@@ -1,5 +1,5 @@
 ---
-title: Objectives and Identity
+title: Vision & Mission
 permalink: /about/objectives-and-identity/
 description: ""
 ---

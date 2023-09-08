@@ -17,9 +17,4 @@ contacts:
       - email: enquiry@nhic.cris.sg
       - other: <strong>for more information</strong>
     title: "Email us at :"
-  - content:
-      - phone: ""
-      - email: ""
-      - other: form.sg
-    title: "Make an Online Enquiry :"
 ---

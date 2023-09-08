@@ -3,7 +3,7 @@ title: National Health Innovation Centre bringing first ready to eat texture
   modified Asian Meals
 permalink: /innovation-portfolio/success-stories/national-health-innovation-centre-bringing-ready-to-eat-meals/
 description: ""
-third_nav_title: Success stories
+third_nav_title: Success Stories
 ---
 Partnering National Health Innovation Centre in bringing first ready-to-eat texture modified Asian Meals for those with swallowing difficulties to market
 ---------------------------------------------------------------------------------------------------------------------------------------------------------

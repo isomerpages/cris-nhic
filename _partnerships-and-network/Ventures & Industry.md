@@ -34,6 +34,11 @@ These collaborations play to the strengths of each sector; NHIC would identify a
 			</td>
 		</tr>
 		<tr>
+					<td style="width:33%">
+				<a href="http://www.chuangcapital.cn">
+				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_innomed.png">
+				</a>
+			</td>
 			<td style="width:33%">
 				<a href="https://www.medtechactuator.com">
 				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_medtech%20actuator.png">
@@ -43,14 +48,14 @@ These collaborations play to the strengths of each sector; NHIC would identify a
 				<a href="https://mirxes.com">
 				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_mirxes.png">
 			</a></td>
+		</tr>
+	<tr>
 			<td style="width:33%">
 				<a href="https://www.origgin.com">
 				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_origgin.png">
 				</a>
 			</td>
-		</tr>
-	<tr>
-			<td style="width:33%">
+		<td style="width:33%">
 				<a href="https://www.outrambio.com">
 				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_outrambio.png">
 				</a>
@@ -58,13 +63,13 @@ These collaborations play to the strengths of each sector; NHIC would identify a
 			<td style="width:33%">
 				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_roche.png">
 			</td>
-			<td style="width:33%">
+				</tr><tr>
+		<td style="width:33%">
 				<a href="https://www.sdta.sg">
 				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_sdta.png">
 				</a>
-		</td>
-				</tr><tr>
-			<td style="width:33%">
+		</td>	
+		<td style="width:33%">
 				<a href="https://www.trinity-fund.com.sg">
 				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_tibs.png">
 				</a>

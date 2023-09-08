@@ -20,16 +20,16 @@ sections:
       background: /images/Homepage/homepage banner-min.jpeg
       key_highlights:
         - title: Funding
-          description: Collaboration and development
+          description: Impactful Health Innovations
           url: /funding/protect-i2p/
-        - title: Venture Partnerships
-          description: Ventures & Industry
+        - title: Ventures & Industry
+          description: Partnerships
           url: /partnerships-and-network/ventures-and-industry/
         - title: Talent Development
-          description: Nurturing our Talents
+          description: Develop Tri-Competent Talent
           url: /programmes/talent-development
   - infopic:
-      title: Accelerating The Translation
+      title: Accelerating clinical innovation journey
       description: How does NHIC accelerate the translation of clinical innovations
         into health and economic outcomes?
       button: Learn More
@@ -44,6 +44,6 @@ sections:
       image: /images/Homepage/stock image 3-min.jpeg
       url: /programmes/talent-development/
   - resources:
-      title: Latest New and Events
+      title: Latest News and Events
       button: Learn More
 ---

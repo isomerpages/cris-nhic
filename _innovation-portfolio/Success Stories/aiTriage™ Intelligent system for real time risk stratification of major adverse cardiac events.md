@@ -3,7 +3,7 @@ title: aiTriage™ Intelligent system for real time risk stratification of major
   adverse cardiac events
 permalink: /innovation-portfolio/success-stories/aitriage-intelligent-system/
 description: ""
-third_nav_title: Success stories
+third_nav_title: Success Stories
 ---
 aiTriage™ - Intelligent system for real-time risk stratification of major adverse cardiac events
 ------------------------------------------------------------------------------------------------

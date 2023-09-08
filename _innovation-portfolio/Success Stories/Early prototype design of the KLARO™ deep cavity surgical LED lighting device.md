@@ -2,7 +2,7 @@
 title: Early prototype design of the KLARO™ deep cavity surgical LED lighting device
 permalink: /innovation-portfolio/success-stories/early-prototype-design-of-the-klaro/
 description: ""
-third_nav_title: Success stories
+third_nav_title: Success Stories
 ---
 Early prototype design of the KLARO™ deep cavity surgical LED lighting device
 -----------------------------------------------------------------------------

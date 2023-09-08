@@ -3,7 +3,7 @@ title: "plano®: An Innovative Parental Monitoring App to better manage smart
   device use"
 permalink: /innovation-portfolio/success-stories/plano-an-innovative-parental-monitoring-app/
 description: ""
-third_nav_title: Success stories
+third_nav_title: Success Stories
 ---
 plano®: An Innovative Parental Monitoring App to better manage smart device use and myopia in children
 ------------------------------------------------------------------------------------------------------

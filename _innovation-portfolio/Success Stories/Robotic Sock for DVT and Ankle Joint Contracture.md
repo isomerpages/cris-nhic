@@ -2,7 +2,7 @@
 title: Robotic Sock for DVT and Ankle Joint Contracture
 permalink: /innovation-portfolio/success-stories/robotic-sock-for-dvt-and-ankle-joint-contracture/
 description: ""
-third_nav_title: Success stories
+third_nav_title: Success Stories
 ---
 Robotic Sock for DVT and Ankle Joint Contracture
 ------------------------------------------------
