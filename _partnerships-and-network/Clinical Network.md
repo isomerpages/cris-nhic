@@ -38,8 +38,6 @@ NHIC works closely with all three of the healthcare clusters in Singapore, cover
 	</tbody>
 </table>
 
-#### Academic Partners
-
 ---
 
 <table>
