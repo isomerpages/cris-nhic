@@ -1,5 +1,5 @@
 collections:
-  partnerships-and-networks:
+  partnerships-and-network:
     output: true
     order:
       - Clinical Network.md
