@@ -44,8 +44,8 @@ NHIC works closely with all three of the healthcare clusters in Singapore, cover
 	<tbody>
 		<tr>
 			<td width="20%">
-				<a href="https://www.ntu.edu.sg/medicine">
-					<img src="/images/lkclogo.jpg">
+				<a href="https://medicine.nus.edu.sg/">
+					<img src="/images/nusmedicine.jpg">
 				</a>
 			</td>
 			<td width="20%">
@@ -53,18 +53,18 @@ NHIC works closely with all three of the healthcare clusters in Singapore, cover
 					<img src="/images/nusfod.jpg">
 				</a>
 			</td>
-			<td width="30%">
+			<td width="20%">
 				<a href="https://sph.nus.edu.sg/">
 					<img src="/images/nussshsph.jpg">
 				</a>
 			</td>
-			<td width="30%">
-				<a href="https://medicine.nus.edu.sg/">
-					<img src="/images/nusmedicine.jpg">
-				</a>
-			</td>
 		</tr>
 		<tr>
+				<td width="20%">
+				<a href="https://www.ntu.edu.sg/medicine">
+					<img src="/images/lkclogo.jpg">
+				</a>
+			</td>
 			<td width="20%">
 				<a href="https://www.academic-medicine.edu.sg/ampartnership">
 					<img src="/images/shdnus.jpg">
