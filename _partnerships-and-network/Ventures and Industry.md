@@ -3,7 +3,7 @@ title: Ventures and Industry
 permalink: /partnerships-and-network/ventures-and-industry/
 description: ""
 ---
-### Clinical Advancement and Development for Research, Entrepreneurship and Enterprise (CADRE<sup>2</sup>)
+### **Clinical Advancement and Development for Research, Entrepreneurship and Enterprise (CADRE<sup>2</sup>)**
 
 NHIC recently established stronger public-private partnerships as it launched its Clinical Advancement and Development for Research, Entrepreneurship and Enterprise (CADRE<sup>2</sup>) scheme in 2022. 
 

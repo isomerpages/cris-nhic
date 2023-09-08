@@ -4,8 +4,6 @@ permalink: /programmes/funding/joint-medtech-grants/
 description: ""
 third_nav_title: Funding
 ---
-Joint MedTech Grants
---------------------
 
 <table>
 	<tbody>

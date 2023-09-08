@@ -4,16 +4,13 @@ permalink: /funding/protect-i2p/
 description: ""
 third_nav_title: Funding
 ---
-Innovation to Protect (I2P)
----------------------------
-
 <img src="/images/Funding/logo_i2p.jpg" style="width:300px" align="right">
 
-##### Aim
+##### **Aim**
 
 This scheme provides funding for patentable inventions with demonstrated proof of concept.
 
-##### Eligibility
+##### **Eligibility**
 
 The applicants for this scheme must be the Head/Deputy Director/Director of Designated Offices listed below.
 
@@ -42,7 +39,7 @@ Applications for this scheme can apply to this scheme for inventions in which on
 
 All applications are subject to due diligence by NHIC.
 
-##### Funding criteria
+##### **Funding criteria**
 
 This scheme provides funding for different stages of patent protection namely First Filing, PCT Filing, National Phase Filing, National Phase Prosecution, Grant and Maintenance. Funding for both solely owned and jointly owned inventions is considered if the invention satisfies the following criteria:
 
@@ -94,15 +91,15 @@ Depending on the stage of patent protection and ownership of intellectual proper
 
 \*Institutions are not allowed to claim Indirect Research Cost (IRC)
 
-##### Terms and Conditions
+##### **Terms and Conditions**
 
 For the&nbsp;[Terms and Conditions](http://www.nmrc.gov.sg/downloads)&nbsp;governing NHIC scheme.
 
-##### Grant call
+##### **Grant call**
 
 Applications to this scheme can be submitted to NHIC at any time.
 
-##### Submission Process
+##### **Submission Process**
 
 The&nbsp;[NHIC I2P Patent Support Scheme Application Form](https://for.sg/nhic-i2p)&nbsp;along with other supporting documents listed in the Application Form must be submitted to NHIC Grant Secretariat at&nbsp;[ip@nhic.cris.sg](mailto:ip@nhic.cris.sg). Only applications endorsed and submitted by the Designated Offices listed above are accepted by NHIC.
 

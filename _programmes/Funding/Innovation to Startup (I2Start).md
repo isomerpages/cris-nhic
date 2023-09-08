@@ -4,22 +4,19 @@ permalink: /funding/innovation-to-startup/
 description: ""
 third_nav_title: Funding
 ---
-Innovation to Startup (I2Start)
--------------------------------
-
-#### Development of clinician innovations towards Health and Biomedical Sciences Startups
+#### **Development of clinician innovations towards Health and Biomedical Sciences Startups**
 
 <img src="/images/Funding/i2s%20logos.PNG" style="width:150px" align="left">
 
 <img src="/images/Funding/logo_i2start.jpg" style="width:300px" align="right">
 
-##### Aim
+##### **Aim**
 
 I2Start program is a streamlined funding pathway which brings together three institutions: SMART, NHIC and Enterprise Singapore, in a manner to support company formation around health and biomedical science innovations.
 
 An I2Start application&nbsp;**must clearly illustrate**&nbsp;the&nbsp;**technical feasibility**&nbsp;of the technology, a defined&nbsp;**go-to-market strategy**, and demonstrate the&nbsp;**potential for translation**&nbsp;to a point where the technology would be&nbsp;**attractive for a start-up company formation**.
 
-##### Eligibility
+##### **Eligibility**
 
 The team&nbsp;**must**&nbsp;consist of&nbsp;**one Clinical Principal Investigator**&nbsp;and&nbsp;**one Technical Principal Investigator**&nbsp;from Singapore’s publicly-funded institutions. The team should have a&nbsp;**strong intention to start-up a company**.
 
@@ -29,7 +26,7 @@ The Technical PI must be employed by public-funded institution in Singapore (e.g
 
 For any queries concerning eligibility, please contact the joint I2Start Grant Secretariat at&nbsp;[grant@nhic.cris.sg](mailto:grant@nhic.cris.sg).
 
-##### Funding criteria
+##### **Funding criteria**
 
 Funding is considered if the application satisfies the following criteria:
 
@@ -54,7 +51,7 @@ The project should&nbsp;**preferably fall under one of the following areas**:
     
 *   Life science tools
 
-##### Funding Process
+##### **Funding Process**
 
 ![funding quantum i2s1a](/images/Funding/funding-quantum-i2s1a.jpg)
 
@@ -72,7 +69,7 @@ Upon meeting the approved Phase 2 milestones and the required requisites\*\*, th
 
 **^ Individual grant terms apply**
 
-##### Funding Quantum and Duration
+##### **Funding Quantum and Duration**
 
 **Phase 1:**&nbsp;SMART Innovation Grant funding quantum is capped at S$300,000 (inclusive of 30% indirect costs) awarded to the host institution. The SMART Innovation Grant funding support is up to 1 year.
 
@@ -84,11 +81,11 @@ Upon meeting the approved Phase 2 milestones and the required requisites\*\*, th
 
 For the Terms and Conditions governing NHIC grants, please see&nbsp;[Terms and Conditions](http://www.nmrc.gov.sg/downloads).
 
-##### Grant Call
+##### **Grant Call**
 
 [Letter of Intent](https://for.sg/nhic-i2start-loi)&nbsp;call for 2023 will be open for applications on 3rd April 2023. The closing date is on 02 June 2023.
 
-##### Submission details
+##### **Submission details**
 
 The&nbsp;[Letter of Intent](https://for.sg/nhic-i2start-loi)&nbsp;must be submitted by Lead PI to the I2Start Grant Secretariat at&nbsp;[grant@nhic.cris.sg](mailto:grant@nhic.cris.sg).
 
