@@ -35,7 +35,7 @@ These collaborations play to the strengths of each sector; NHIC would identify a
 		</tr>
 		<tr>
 					<td style="width:33%">
-				<a href="https://http://www.chuangcapital.cn">
+				<a href="http://www.chuangcapital.cn">
 				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_innomed.png">
 				</a>
 			</td>
