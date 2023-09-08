@@ -3,7 +3,7 @@ title: Vision & Mission
 permalink: /about/objectives-and-identity/
 description: ""
 ---
-Vision, Mission and Core Values
+**Vision, Mission and Core Values**
 -------------------------------
 <br><br>
 
