@@ -10,61 +10,14 @@ NHIC works closely with all three of the healthcare clusters in Singapore, cover
 
 #### Clinical Partners
 
----
+###### 1. Duke-NUS Medical School
+###### 2. National Healthcare Group
+###### 3. National University Health System
+###### 4. LKCMedicine
+###### 5. NUS Yong Loo Lin School of Medicine
+###### 6. NUS Faculty of Dentistry
+###### 7. NUS Saw Swee Hock School of Public Health
+###### 8. SingHealth
 
-<table>
-	<tbody>
-		<tr>
-			<td width="33%">
-				<a href="https://corp.nhg.com.sg/Pages/default.aspx">
-					<img src="/images/sglogo.jpg">
-				</a>
-			</td>
-			<td width="33%">
-				<a href="https://www.nuhs.edu.sg/Pages/Home.aspx">
-					<img src="/images/nuhslogo.png">
-				</a>
-			</td>
-			<td width="33%">
-				<a href="https://www.singhealth.com.sg/">
-					<img src="/images/nhglogo.PNG">
-				</a>
-			</td>
-		</tr>
-	</tbody>
-</table>
 
----
 
-<table>
-	<tbody>
-		<tr>
-			<td width="33%">
-				<a href="https://medicine.nus.edu.sg/">
-					<img src="/images/nusmedicine.jpg">
-				</a>
-			</td>
-			<td width="33%">
-				<a href="http://www.dentistry.nus.edu.sg/">
-					<img src="/images/nusfod.jpg">
-				</a>
-			</td>
-			<td width="33%">
-				<a href="https://sph.nus.edu.sg/">
-					<img src="/images/nussshsph.jpg">
-				</a>
-			</td>
-		</tr>
-		<tr>
-				<td width="33%">
-				<a href="https://www.ntu.edu.sg/medicine">
-					<img src="/images/lkclogo.jpg">
-				</a>
-			</td>
-			<td width="33%">
-				<a href="https://www.academic-medicine.edu.sg/ampartnership">
-					<img src="/images/shdnus.jpg">
-				</a>
-		</td></tr>
-	</tbody>
-</table>
