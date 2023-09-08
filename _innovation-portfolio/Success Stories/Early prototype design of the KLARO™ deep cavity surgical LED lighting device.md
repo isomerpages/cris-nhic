@@ -4,10 +4,6 @@ permalink: /innovation-portfolio/success-stories/early-prototype-design-of-the-k
 description: ""
 third_nav_title: Success Stories
 ---
-Early prototype design of the KLARO™ deep cavity surgical LED lighting device
------------------------------------------------------------------------------
-
-
 KLARO™ is a next-generation surgical LED lighting device specially developed for deep-cavity open surgery.
 
 During open surgery, overhead lights in the operating theatre currently result in difficulties obtaining proper visibility especially during open deep cavity procedures. This is primarily caused by shadows cast by surgical personnel blocking the overhead lighting whilst bending over the surgical cavity as well as the physical angle/slanted nature of the narrow surgical opening which makes it difficult for external light to enter.
