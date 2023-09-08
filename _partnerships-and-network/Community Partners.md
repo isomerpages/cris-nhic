@@ -3,7 +3,7 @@ title: Community Partners
 permalink: /partnerships-and-network/community-partners/
 description: ""
 ---
-#### NHIC works closely with our community partners to facilitate innovation and commercialization of healthtech.
+#### **NHIC works closely with our community partners to facilitate innovation and commercialisation of healthtech**
 
 ![](/images/Partnerships%20and%20Network/comm%20partnership%20(2).png)
 
@@ -35,4 +35,4 @@ description: ""
 
 
 
-For latest updates on events and happenings, follow us on LinkedIn [https://www.linkedin.com/company/nhic-sg-2020](https://www.linkedin.com/company/nhic-sg-2020/).
+For latest updates on events and happenings, follow us on [LinkedIn](https://www.linkedin.com/company/nhic-sg-2020/).
