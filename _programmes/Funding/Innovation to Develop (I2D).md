@@ -4,18 +4,15 @@ permalink: /funding/develop-i2d/
 description: ""
 third_nav_title: Funding
 ---
-Innovation to Develop (I2D)
----------------------------
-
-#### Funding for development of a healthcare innovation to a commercialisable endpoint
+#### **Funding for development of a healthcare innovation to a commercialisable endpoint**
 
 <img src="/images/Funding/logo_i2d.jpg" style="width:300px" align="right">
 
-##### Aim
+##### **Aim**
 
 This funding is for development of a clinically significant and commercially viable healthcare innovation. The grant application must clearly illustrate the scientific merit, competitive advantage and technical feasibility of the project. Additionally, it must demonstrate potential for translation to a point where the technology would be attractive to an industry partner or follow-on funder.
 
-##### Funding criteria
+##### **Funding criteria**
 
 Grant applications that emphasise on the following aspects of the project are considered for funding:
 
@@ -26,25 +23,25 @@ Grant applications that emphasise on the following aspects of the project are co
 *   Clear and achievable commercial plan outlining the proposed route to market, competing technologies and potential industry partners
 *   Potential to result in reduced healthcare costs, delivering cost-effective treatment or adoption by the healthcare system.
 
-##### Funding quantum
+##### **Funding quantum**
 
 A funding quantum capped at S$300,000 (inclusive of max. 30% indirect costs) will be awarded to the host institution on a reimbursement basis for expenses incurred by project teams towards the development of proposed technology.
 
-##### Funding Duration
+##### **Funding Duration**
 
 The funding support is up to 1 year with a maximum possible extension of 6 months (subject to approval by NHIC).
 
-##### Eligibility
+##### **Eligibility**
 
 The Principal Investigator must hold a primary appointment in and be under the employment of a public healthcare institution or academic medical school in Singapore. Project teams must have strong clinical representation. Collaborations with industry are encouraged if they strengthen the proposal. All applications are considered based on merit and eligibility is not limited to NMRC-funded research.
 
 Only one re-submission is allowed.
 
-##### Terms and Conditions
+##### **Terms and Conditions**
 
 Please see&nbsp;[Terms and Conditions](http://www.nmrc.gov.sg/downloads)&nbsp;governing NHIC grants.
 
-##### NHIC I2D Grant Call
+##### **NHIC I2D Grant Call**
 
 NHIC I2D grant application is open for submission three times a year.
 
@@ -91,7 +88,7 @@ Each form&nbsp;**MUST**&nbsp;be endorsed and submitted electronically by the des
    </tbody>
 </table>
 
-##### NHIC I2D Grant Process
+##### **NHIC I2D Grant Process**
 
 An overview of the grant process is as follows:
 
