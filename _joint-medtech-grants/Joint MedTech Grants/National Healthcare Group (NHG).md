@@ -6,7 +6,7 @@ third_nav_title: Joint MedTech Grants
 ---
 ### NHG Centre for Medical Technologies &amp; Innovations (CMTi) and National Health Innovation Centre Singapore (NHIC) Joint MedTech Grant Call
 
-<img src="/images/Funding/cmti_nhg-logo1.jpg" style="width:150px" align="right">
+<img src="/images/cmtilogo.jpg" style="width:150px" align="right">
 
 To encourage innovation in healthcare, the NHG Centre for Medical Technologies and Innovations (CMTi) and NHIC rolled out the NHG CMTi-NHIC Joint MedTech Grant, which provides internal seed funding for the development of innovative MedTech solutions. This grant aims to fund the early stage development of technological solutions that are commercially viable to resolve unmet needs in healthcare. Potential areas for MedTech innovation include, but are not limited to, medical devices, diagnostics, and digital applications.
 
