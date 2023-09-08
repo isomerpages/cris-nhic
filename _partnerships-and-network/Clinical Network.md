@@ -43,12 +43,12 @@ NHIC works closely with all three of the healthcare clusters in Singapore, cover
 <table>
 	<tbody>
 		<tr>
-			<td width="20%">
+			<td width="15%">
 				<a href="https://medicine.nus.edu.sg/">
 					<img src="/images/nusmedicine.jpg">
 				</a>
 			</td>
-			<td width="20%">
+			<td width="15%">
 				<a href="http://www.dentistry.nus.edu.sg/">
 					<img src="/images/nusfod.jpg">
 				</a>
