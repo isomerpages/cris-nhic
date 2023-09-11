@@ -26,16 +26,19 @@ Our partners are as follows:
 		<tr>
 			<td style="width:33%">
 				<a href="https://www.duke-nus.edu.sg/">
-				<img src="/images/Partners%20Icons/duke-nus.jpg">
+				<img src="/images/Partners%20Icons/Clinical%20Network/clinical%20network%20logos_amc.png">
 				</a>
 			</td>
 			<td style="width:33%">
 				<a href="https://www.duke-nus.edu.sg/">
-				<img src="/images/Partners%20Icons/duke-nus.jpg">
+				<img src="/images/Partners%20Icons/Clinical%20Network/clinical%20network%20logos_nhg.png">
 				</a>
 			</td>
 			<td style="width:33%">
 				<a href="https://www.duke-nus.edu.sg/">
-				<img src="/images/Partners%20Icons/duke-nus.jpg">
+				<img src="/images/Partners%20Icons/Clinical%20Network/clinical%20network%20logos_nuhs.png">
 				</a>
 			</td></tr></tbody></table>
+			
+
+			
