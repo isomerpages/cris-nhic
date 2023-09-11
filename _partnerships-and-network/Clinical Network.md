@@ -38,7 +38,36 @@ Our partners are as follows:
 				<a href="https://www.duke-nus.edu.sg/">
 				<img src="/images/Partners%20Icons/Clinical%20Network/clinical%20network%20logos_nuhs.png">
 				</a>
-			</td></tr></tbody></table>
-			
-
-			
+			</td>
+		</tr>
+		<tr>
+			<td style="width:33%">
+				<a href="https://www.duke-nus.edu.sg/">
+				<img src="/images/Partners%20Icons/Clinical%20Network/clinical%20network%20logos_lkc.png">
+				</a>
+			</td>
+			<td style="width:33%">
+				<a href="https://www.duke-nus.edu.sg/">
+				<img src="/images/Partners%20Icons/Clinical%20Network/clinical%20network%20logos_yll.png">
+				</a>
+			</td>
+			<td style="width:33%">
+				<a href="https://www.duke-nus.edu.sg/">
+				<img src="/images/Partners%20Icons/Clinical%20Network/clinical%20network%20logos_dentristry.png">
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:33%">
+				<a href="https://www.duke-nus.edu.sg/">
+				<img src="/images/Partners%20Icons/Clinical%20Network/clinical%20network%20logos_sshsps.png">
+				</a>
+			</td>
+			<td style="width:33%">
+				<a href="https://www.duke-nus.edu.sg/">
+				<img src="/images/Partners%20Icons/Clinical%20Network/clinical%20network%20logos_singhealth.png">
+				</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
