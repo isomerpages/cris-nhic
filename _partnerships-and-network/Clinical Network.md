@@ -11,17 +11,7 @@ In addition, NHIC also partners with the academic medical schools across Singapo
 
 Our partners are as follows:
 
-
-			
-
-1. Duke-NUS Medical School
-2. National Healthcare Group
-3. National University Health System
-4. Lee Kong Chian School of Medicine
-5. NUS Yong Loo Lin School of Medicine
-6. NUS Faculty of Dentistry
-7. NUS Saw Swee Hock School of Public Health**
-8. SingHealth<table>
+<table>
 	<tbody>
 		<tr>
 			<td style="width:33%">
