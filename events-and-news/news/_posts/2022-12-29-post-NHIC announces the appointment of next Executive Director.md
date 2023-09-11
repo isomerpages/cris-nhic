@@ -25,8 +25,8 @@ We warmly welcome Assoc Prof Ho and look forward to his leadership to power prod
 
 **Prof Tina Wong completes term of office as Executive Director, NHIC on 31 Dec 2022**  
   
-<img src="https://nhic.sg/web/images/NHIC/team/TinaWong1.jpg" style="width:150px"> 
-Professor Tina Wong, who is Executive Director of the National Health Innovation Centre Singapore (NHIC) will complete her term of office on 31 December 2022. Tina has served two terms at NHIC since 2017 and has led NHIC in launching several programmes that accelerated the development of innovative clinical technologies towards commercialisation and adoption.
+
+**Professor Tina Wong**, who is Executive Director of the National Health Innovation Centre Singapore (NHIC) will complete her term of office on 31 December 2022. Tina has served two terms at NHIC since 2017 and has led NHIC in launching several programmes that accelerated the development of innovative clinical technologies towards commercialisation and adoption.
 
 Under Prof Wong’s stewardship, NHIC led the&nbsp;[Innovation to Industry (I2I)](/funding/industry-i2i/)&nbsp;scheme and jointly started the&nbsp;[Innovation to Startup (I2START)](/funding/innovation-to-startup/)&nbsp;grant with Enterprise Singapore and the Singapore-MIT Alliance for Research and Technology (SMART).
 
