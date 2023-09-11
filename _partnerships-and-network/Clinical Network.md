@@ -44,8 +44,6 @@ Our partners are as follows:
 				<img src="/images/Partners%20Icons/Clinical%20Network/clinical%20network%20logos_sshsps.png">
 				</a>
 			</td>
-				
-			
 		</tr>
 		<tr>
 			<td style="width:33%">
