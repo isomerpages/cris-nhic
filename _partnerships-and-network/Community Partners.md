@@ -21,7 +21,7 @@ description: ""
 		</tr>
 		<tr>
 			<td>
-				<a href="https://www.a-star.edu.sg/Research/funding-opportunities/stdr">Agency for Science, Technology and Research (A\*STAR)
+				<a href="https://www.a-star.edu.sg/Research/funding-opportunities/stdr">Agency for Science, Technology and Research (A*STAR)
 				</a>
 				<br><br>
 				<a href="https://www.chi.sg">Centre for Healthcare Innovation (CHI)
