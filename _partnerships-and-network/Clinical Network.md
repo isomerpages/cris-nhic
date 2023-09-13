@@ -63,3 +63,4 @@ Our partners are as follows:
 </table>
 
 ![](/images/nusfod.jpg)
+![](/images/Partners%20Icons/Clinical%20Network/clinical%20network%20logos_dentristry.png)
