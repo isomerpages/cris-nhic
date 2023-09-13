@@ -50,7 +50,7 @@ Our partners are as follows:
       <tr>
          <td style="width:33%">
             <a href="https://www.duke-nus.edu.sg/">
-            <img src="/images/Partners%20Icons/Clinical%20Network/clinical%20network%20logos_amc.png">
+            <img src="/images/Partners%20Icons/Clinical%20Network/duke-nus%20logo.PNG">
             </a>
          </td>
          <td style="width:33%">
