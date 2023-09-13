@@ -19,14 +19,14 @@ Our partners are as follows:
             <img src="/images/Partners%20Icons/Clinical%20Network/clinical%20network%20logos_nhg.png">
             </a>
          </td>
-         <td style="width:33%">
-            <a href="https://www.singhealth.com.sg/">
-            <img src="/images/Partners%20Icons/Clinical%20Network/clinical%20network%20logos_singhealth.png">
+				<td style="width:33%">
+            <a href="https://www.nuhs.edu.sg/Pages/Home.aspx">
+            <img src="/images/Partners%20Icons/Clinical%20Network/clinical%20network%20logos_nuhs.png">
             </a>
          </td>
          <td style="width:33%">
-            <a href="https://www.nuhs.edu.sg/Pages/Home.aspx">
-            <img src="/images/Partners%20Icons/Clinical%20Network/clinical%20network%20logos_nuhs.png">
+            <a href="https://www.singhealth.com.sg/">
+            <img src="/images/Partners%20Icons/Clinical%20Network/clinical%20network%20logos_singhealth.png">
             </a>
          </td>
       </tr>
