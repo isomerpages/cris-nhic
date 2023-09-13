@@ -31,14 +31,19 @@ Our partners are as follows:
          </td>
       </tr>
       <tr>
-         <td style="width:50%">
+         <td style="width:33%">
             <a href="https://medicine.nus.edu.sg/">
             <img src="/images/Partners%20Icons/Clinical%20Network/clinical%20network%20logos_yll.png">
             </a>
          </td>
-         <td style="width:50%">
+         <td style="width:33%">
             <a href="https://www.dentistry.nus.edu.sg/">
             <img src="/images/Partners%20Icons/Clinical%20Network/clinical%20network%20logos_dentristry.png">
+            </a>
+         </td>
+				  <td style="width:33%">
+            <a href="https://sph.nus.edu.sg/">
+            <img src="/images/Partners%20Icons/Clinical%20Network/clinical%20network%20logos_sshsps.png">
             </a>
          </td>
       </tr>
