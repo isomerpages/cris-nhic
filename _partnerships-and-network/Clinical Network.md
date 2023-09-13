@@ -38,7 +38,7 @@ Our partners are as follows:
          </td>
          <td style="width:33%">
             <a href="https://www.dentistry.nus.edu.sg/">
-            <img src="/images/Partners%20Icons/Clinical%20Network/clinical%20network%20logos_dentristry.png">
+            <img src="/images/nusfod.jpg">
             </a>
          </td>
          <td style="width:33%">
@@ -61,3 +61,5 @@ Our partners are as follows:
       </tr>
    </tbody>
 </table>
+
+![](/images/nusfod.jpg)
