@@ -14,7 +14,7 @@ third_nav_title: Funding
 				</td>         
          <td width="25%">
             <a href="/funding/joint-medtech-grants/nhg/">
-            <img src="/images/nhglogo.PNG">
+            <img src="/images/Partners%20Icons/Clinical%20Network/clinical%20network%20logos_nhg.png">
             </a>
          </td>
          <td width="25%">
