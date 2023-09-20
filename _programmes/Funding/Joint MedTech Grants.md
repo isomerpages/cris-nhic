@@ -7,16 +7,16 @@ third_nav_title: Funding
 <table>
    <tbody>
       <tr>
+				<td width="25%">
+            <a href="/funding/joint-medtech-grants/nhg/">
+            <img src="/images/Funding/clinical%20network%20logos_nhg.png">
+            </a>
+         </td>
          <td width="25%">
             <a href="/funding/joint-medtech-grants/nuhs/">
             <img src="/images/nuhslogo.png">
             </a>
 				</td>         
-         <td width="25%">
-            <a href="/funding/joint-medtech-grants/nhg/">
-            <img src="/images/Funding/clinical%20network%20logos_nhg.png">
-            </a>
-         </td>
          <td width="25%">
             <a href="/funding/joint-medtech-grants/singhealth/">
             <img src="/images/sglogo.jpg">
