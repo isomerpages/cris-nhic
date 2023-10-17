@@ -4,12 +4,13 @@ permalink: /about/our-team/innovation-and-enterprise/
 description: ""
 third_nav_title: Our Team
 ---
-[Michael Ho (Head,Operations)](#MichaelHo)
-[Tan Ee Lim (Senior Manager - Medtech)](#TanEeLim)
-[Chuah Yon Jin (Manager - Biomed)](#ChuahYonJin)
-[Zhang Hanzhong (Manager - Medtech)](#ZhangHanZhong)
-[Esther Lee (Senior Manager - Biomed)](#EstherLee)
-[Smitha Velayil (Manager - Biomed)](#SmithaVelayil)
+##### **Name List**  
+* [Michael Ho (Head,Operations)](#MichaelHo)
+* [Tan Ee Lim (Senior Manager - Medtech)](#TanEeLim)
+* [Chuah Yon Jin (Manager - Biomed)](#ChuahYonJin)
+* [Zhang Hanzhong (Manager - Medtech)](#ZhangHanZhong)
+* [Esther Lee (Senior Manager - Biomed)](#EstherLee)
+* [Smitha Velayil (Manager - Biomed)](#SmithaVelayil)
 
 ### **Michael Ho, Ph.D**  
 **Head, Operations**
