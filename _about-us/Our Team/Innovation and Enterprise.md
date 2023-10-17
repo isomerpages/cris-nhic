@@ -4,10 +4,17 @@ permalink: /about/our-team/innovation-and-enterprise/
 description: ""
 third_nav_title: Our Team
 ---
+[Michael Ho (Head,Operations)](#MichaelHo)
+[Tan Ee Lim (Senior Manager - Medtech)](#MichaelHo)
+[Chuah Yon Jin (Manager - Biomed)](#MichaelHo)
+[Zhang Hanzhong (Manager - Medtech)](#MichaelHo)
+[Esther Lee (Senior Manager - Biomed)](#MichaelHo)
+[Smitha Velayil (Manager - Biomed)](#MichaelHo)
+
 ### **Michael Ho, Ph.D**  
 **Head, Operations**
 
-<img src="/images/About/Our%20Team/Innovation%20Team/michaelho.jpg" style="width:150px">
+<img src="/images/About/Our%20Team/Innovation%20Team/michaelho.jpg" style="width:150px" name="MichaelHo">
 
 Prior to joining NHIC, Michael was a Scientist with A\*STAR’s IME for five years. As a scientist in the Biomedical Integrated Circuit group, his primary focus was on Medtech innovation, working closely with clinical partners in areas of miniaturised medical device innovation and development. Michael has led and developed close to ten implantable and wearable medical devices, in areas of diagnostic and interventional solutions. He was involved extensively throughout the Medtech development cycle, from identifying the clinical needs through to clinical trials. He was awarded two research grants, and has authored/co-authored more than 30 peer reviewed papers, one book chapter, and filed two patents.
 
