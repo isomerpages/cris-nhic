@@ -57,6 +57,7 @@ Prior to joining NHIC, Esther was in SingHealth (SHHQ) focusing on ground up inn
 
 Esther has a PhD. From the National University of Singapore and also completed the Lean Launchpad course by NUS Enterprise.
 
+<a name="SmithaVelayil"></a>
 ### **Smitha Velayil, MSc-MBA**  
 **Manager (Biomed)**
 
