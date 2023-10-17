@@ -61,7 +61,7 @@ Esther has a PhD. From the National University of Singapore and also completed t
 ### **Smitha Velayil, MSc-MBA**  
 **Manager (Biomed)**
 
-<img src="/images/About/Our%20Team/Enterprise%20Team/smitha%20velayil%20sunildeep.PNG" style="width:150px" name="SmithaVelayil">
+<img src="/images/About/Our%20Team/Enterprise%20Team/smitha%20velayil%20sunildeep.PNG" style="width:150px">
 
 Smitha started her career as a clinical research coordinator before moving onto pursue business development and strategy roles at the Nanyang Technological University (NTU) and Singapore Centre for Environmental Life Sciences Engineering (SCELSE). She was involved in establishing strategic initiatives and partnerships with local ministries, agencies, industry, clinical community and international players. She facilitated the establishment of the Singapore National Biofilm Consortium (SNBC) and also actively participated in the commercialization activities associated with biofilm and microbiome technologies. In parallel, she held the position of the lead administrator of a company limited by guarantee (CLG) associated with genomics. 
 
