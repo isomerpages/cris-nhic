@@ -26,4 +26,5 @@ This category will provide a funding quantum capped at S$300,000 (inclusive of m
 
 ##### **Funding duration**
 
-The funding support is up to 12 months.
+The funding support is up to 12 months
+.

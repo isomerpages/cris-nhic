@@ -4,6 +4,15 @@ permalink: /about/our-team/innovation-and-enterprise/
 description: ""
 third_nav_title: Our Team
 ---
+##### **Name List**  
+* [Michael Ho (Head,Operations)](#MichaelHo)
+* [Tan Ee Lim (Senior Manager - Medtech)](#TanEeLim)
+* [Chuah Yon Jin (Manager - Biomed)](#ChuahYonJin)
+* [Zhang Hanzhong (Manager - Medtech)](#ZhangHanZhong)
+* [Esther Lee (Senior Manager - Biomed)](#EstherLee)
+* [Smitha Velayil (Manager - Biomed)](#SmithaVelayil)
+
+<a name="MichaelHo"></a>
 ### **Michael Ho, Ph.D**  
 **Head, Operations**
 
@@ -13,6 +22,7 @@ Prior to joining NHIC, Michael was a Scientist with A\*STAR’s IME for five yea
 
 Michael holds a Ph.D from the University of Newcastle, Australia and completed the postgraduate course from Singapore Stanford Biodesign Innovation Class in 2014.
 
+<a name="TanEeLim"></a>
 ### **Tan Ee Lim, Ph.D**  
 **Senior Manager (Medtech)**
 
@@ -22,6 +32,7 @@ Before joining NHIC, Ee Lim was a Biodesign Fellow with Singapore-Stanford Biode
 
 Ee Lim holds a Ph.D. from the Michigan Technological University, USA and a recipient of Singapore-Stanford Biodesign Fellowship. He has also completed the Lean Launchpad course by NUS Enterprise and trained in medical device design control.
 
+<a name="ChuahYonJin"></a>
 ### **Chuah Yon Jin, Ph. D**  
 **Manager (Biomed)**
 
@@ -31,6 +42,7 @@ Prior to joining NHIC, Yon Jin was a Research Fellow in Nanyang Technological Un
 
 Yon Jin holds a Ph.D from the Nanyang Technological University (NTU) who specialized in biomaterials engineering, cell processing and tissue engineering, and has completed biomedical courses such as Singapore Stanford Biodesign Innovation Course and The Medical Device School. He also serves as an ad-hoc reviewer for numerous leading scientific journals and a member of the Biomedical Engineering Society.
 
+<a name="ZhangHanZhong"></a>
 ### **Zhang Hanzhong, Ph.D**  
 **Manager (Medtech)**
 
@@ -40,6 +52,7 @@ Before joining NHIC, Hanzhong was a Biodesign Fellow with Singapore-Stanford Bio
 
 Hanzhong holds an MSc degree in Biomedical Engineering and a BEng degree in Electrical Engineering. He serves as an advisor in the Biomedical Engineering Society (Singapore), and a collaborator of the International Federation of Medical and Biological Engineering (IFMBE) Clinical Engineering Division.
 
+<a name="EstherLee"></a>
 ### **Esther Lee, Ph.D** 
 **Senior Manager (Biomed)**
 
@@ -49,6 +62,7 @@ Prior to joining NHIC, Esther was in SingHealth (SHHQ) focusing on ground up inn
 
 Esther has a PhD. From the National University of Singapore and also completed the Lean Launchpad course by NUS Enterprise.
 
+<a name="SmithaVelayil"></a>
 ### **Smitha Velayil, MSc-MBA**  
 **Manager (Biomed)**
 
