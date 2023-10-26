@@ -2,8 +2,8 @@ collections:
   joint-medtech-grants:
     output: true
     order:
-      - Joint MedTech Grants/LKCMed NHIC Exploratory Translational Grant.md
       - Joint MedTech Grants/.keep
+      - Joint MedTech Grants/National Healthcare Group (NHG).md
       - Joint MedTech Grants/National University Health System (NUHS).md
       - Joint MedTech Grants/SingHealth.md
-      - Joint MedTech Grants/National Healthcare Group (NHG).md
+      - Joint MedTech Grants/LKCMed NHIC Exploratory Translational Grant.md
