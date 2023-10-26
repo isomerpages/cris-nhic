@@ -51,7 +51,7 @@ description: ""
       </tr>
       <tr>
          <td>NHIC-I2D-FORM-21</td>
-         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://for.sg/nhic-jointgrant-statusx">NHIC Joint MedTech Grant Project Status Form</a></td>
+         <td><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" target="_blank" href="https://for.sg/nhic-jointgrant-status">NHIC Joint MedTech Grant Project Status Form</a></td>
          <td>17 Oct 2022</td>
       </tr>
    </tbody>
