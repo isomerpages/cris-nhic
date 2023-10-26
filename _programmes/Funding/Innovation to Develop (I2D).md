@@ -142,3 +142,6 @@ Only shortlisted applicants are allowed to provide written rebuttal on reviewer 
 The maximum timeline from grant application submission to funding decision is 16 weeks per grant call.
 
 For further queries on NHIC I2D grant, please contact NHIC I2D Grant Secretariat at&nbsp;[grant@nhic.cris.sg](mailto:grant@nhic.cris.sg).
+
+##### **List of Awarded Projects**
+For the list of awarded Innovation to Adopt (I2A) projects, please click [here](https://for.sg/awardedi2d).
