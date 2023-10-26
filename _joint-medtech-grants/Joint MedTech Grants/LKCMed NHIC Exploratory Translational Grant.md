@@ -13,9 +13,6 @@ The LKCMedicine OIE together with the National Health Innovation Centre (NHIC) h
 
 ##### **Application Eligibility**
 
-Awarded through a competitive grant call process, this grant is applicable for LKCMed full-time faculty or 
-
-
 *   The lead Principal Investigator (PI) must hold a primary appointment in LKCMed, or LKCMed/NHG joint appointments with at least 0.2 FTE with LKCMedicine.
 *   Only one lead PI is allowed per application.
 *   Only one application per lead PI can be submitted per grant call.
