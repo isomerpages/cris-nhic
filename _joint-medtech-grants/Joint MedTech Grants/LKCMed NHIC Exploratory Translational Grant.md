@@ -26,7 +26,7 @@ The funding quantum and duration for each project is:
 <table style="max-width: 100%; background-color: transparent; border-collapse: collapse; border-spacing: 0px; padding: 0px; margin: 10px 0px; width: 513.062px; border-color: rgb(229, 229, 229);" cellpadding="5" border="1"><tbody><tr><td style="background-color: rgb(229, 244, 244); text-align: center;"><strong style="font-weight: bold;">Capped Amount</strong></td><td style="background-color: rgb(229, 244, 244); text-align: center;"><strong style="font-weight: bold;">Maximum Duration</strong></td></tr><tr><td style="text-align: center;"><strong style="font-weight: bold;">S$100,000</strong><br>(Co-funded by LKCMed and NHIC; No IRC provided)</td><td style="text-align: center;"><strong style="font-weight: bold;">12 months</strong></td></tr></tbody></table>
 
 ##### **List of Awarded Projects**
-For the list of awarded NUHS-NHIC Joint Medical Technology (MedTech) Grant projects, please click [here]( https://for.sg/awardedlkcjoint)
+For the list of awarded LKCMed-NHIC Exploratory Translational Grant projects, please click [here]( https://for.sg/awardedlkcjoint)
 
 For more information about this grant, please contact your Host Institution’s Research Office:
 
