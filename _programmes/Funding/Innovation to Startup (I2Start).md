@@ -94,3 +94,6 @@ Applicants are required to include the project scope, milestones and budget for 
 Shortlisted applicants will be invited to submit a formal grant application through the respective research office.
 
 For detailed information, please refer to the&nbsp;[I2START grant information sheet](https://for.sg/nhic-i2start-info)
+
+##### **List of Awarded Projects**
+For the list of awarded Innovation to Startup (I2Start) projects, please click [here]( https://for.sg/awardedi2start)

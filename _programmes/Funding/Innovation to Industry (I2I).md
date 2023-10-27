@@ -28,3 +28,5 @@ This category will provide a funding quantum capped at S$300,000 (inclusive of m
 
 The funding support is up to 12 months
 .
+##### **List of Awarded Projects**
+For the list of awarded Innovation to Industry (I2I) projects, please click [here]( https://for.sg/awardedi2i)
