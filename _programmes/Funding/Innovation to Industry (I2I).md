@@ -3,6 +3,7 @@ title: Innovation to Industry (I2I)
 permalink: /funding/industry-i2i/
 description: ""
 third_nav_title: Funding
+variant: markdown
 ---
 #### **Co-development of a healthcare innovation with an industry partner**
 
@@ -14,7 +15,7 @@ The scheme is for projects which have successfully completed I2D funding (or equ
 
 Application to this fund is by&nbsp;**NHIC invitation only**. Please contact your respective NHIC Cluster Manager for initial assessment of the feasibility of your proposal.
 
-<table style="max-width: 100%; background-color: transparent; border-collapse: collapse; border-spacing: 0px; padding: 0px; margin: 10px 0px; width: 855.125px; border-width: 1px; border-color: rgb(222, 222, 222);" cellpadding="10" border="1"><tbody><tr><td><strong style="font-weight: bold;">Healthcare Cluster</strong></td><td><strong style="font-weight: bold;">NHIC Cluster Manager</strong></td></tr><tr><td>SingHealth</td><td>Dr Tan Ee Lim</td></tr><tr><td>NHG</td><td>Dr Michael Ho, Dr Chuah Yon Jin</td></tr><tr><td>NUHS</td><td>Dr Yeow Siang Lin</td></tr></tbody></table>
+<table style="max-width: 100%; background-color: transparent; border-collapse: collapse; border-spacing: 0px; padding: 0px; margin: 10px 0px; width: 855.125px; border-width: 1px; border-color: rgb(222, 222, 222);" cellpadding="10" border="1"><tbody><tr><td><strong style="font-weight: bold;">Healthcare Cluster</strong></td><td><strong style="font-weight: bold;">NHIC Cluster Manager</strong></td></tr><tr><td>SingHealth</td><td>Dr Esther Lee, Dr Zhang Hanzhong</td></tr><tr><td>NHG</td><td>Dr Michael Ho, Dr Chuah Yon Jin</td></tr><tr><td>NUHS</td><td>Dr Tan Ee Lim, Ms Smitha Velayil</td></tr></tbody></table>
 
 ##### **Eligibility**
 
