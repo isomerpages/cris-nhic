@@ -3,6 +3,7 @@ title: Administrative Team
 permalink: /about-us/our-team/administrative-team/
 description: ""
 third_nav_title: Our Team
+variant: markdown
 ---
 ### **Shermaine Kwan**  
 **Manager, Grants and Administration**
@@ -22,3 +23,11 @@ Having been trained financially with a Diploma from Association of Chartered Cer
 Prior to NHIC, San San enjoyed all things administrative and operational during her stints at Ministry of Communications and Information (MCI) and United Overseas Bank (UOB). During which, planning VIP visits and co-ordinating events never failed to get her adrenaline pumping.
 
 Outside work, you will find her eagerly tasking herself with home improvement projects and working out ways to increase efficiency of cleaning back home.
+
+### **Wendy Yep**
+**Senior Executive, Grants Administration**
+<img src="/images/About/Our%20Team/Administrative%20Team/wendyyep.jpg" style="width:150px">
+
+Wendy graduated from Ngee Ann Polytechnic with a Diploma in Building and Real Estate Management. Prior to NHIC, she was with Frasers Property and the National Healthcare Group Polyclinics (Clinical Research Unit). At NHGP, she was responsible for supporting the fund management of NMRC Centre Grant, including raising of purchase requisitions, tracking of grant expenditures, claim submissions and other administrative duties. Wendy has also gained experience working with the Leukemia &amp; Lymphoma Foundation (LLF), a Non-Profit Organization where she handled applications on financial assistance and supported in fund-raising activities - LLF Walkathons, Scribble Books.&nbsp;&nbsp;&nbsp;
+
+Outside work, Wendy enjoys walking, hiking and started practicing yoga on a weekly basis.
