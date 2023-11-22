@@ -3,6 +3,7 @@ title: Innovation to Develop (I2D)
 permalink: /funding/develop-i2d/
 description: ""
 third_nav_title: Funding
+variant: markdown
 ---
 #### **Funding for development of a healthcare innovation to a commercialisable endpoint**
 
@@ -47,9 +48,9 @@ NHIC I2D grant application is open for submission three times a year.
 
 Submission deadlines for&nbsp;**2023**&nbsp;are:
 
-*   3 February 2023, Friday, 5pm
-*   2 June 2023, Friday, 5pm
-*   6 October 2023, Friday, 5pm
+*   2 February 2024, Friday, 5pm
+*   7 June 2024, Friday, 5pm
+*   4 October 2024, Friday, 5pm
 
 **Important**:&nbsp;_Applicants are advised to refer to institutional internal deadlines for submission of grant applications._
 
