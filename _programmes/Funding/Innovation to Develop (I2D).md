@@ -46,7 +46,7 @@ Please see&nbsp;[Terms and Conditions](http://www.nmrc.gov.sg/downloads)&nbsp;go
 
 NHIC I2D grant application is open for submission three times a year.
 
-Submission deadlines for&nbsp;**2023**&nbsp;are:
+Submission deadlines for&nbsp;**2024**&nbsp;are:
 
 *   2 February 2024, Friday, 5pm
 *   7 June 2024, Friday, 5pm
