@@ -2,12 +2,14 @@
 title: FAQs
 permalink: /programmes/faqs/
 description: ""
+variant: markdown
 ---
 #### **Overview**
 * [NRF Central Gap Fund Questions](#NRF)
-* [I2Adopt Questions](#I2Adopt)
 * [Pre-award Questions](#Pre-award)
 * [Post-award Questions](#Post-award)
+* [I2Start Questions](https://for.sg/i2startfaq)
+* [I2Adopt Questions](#I2Adopt)
 
 ### **Grant Administration**
 
