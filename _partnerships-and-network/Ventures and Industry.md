@@ -2,6 +2,7 @@
 title: Ventures and Industry
 permalink: /partnerships-and-network/ventures-and-industry/
 description: ""
+variant: markdown
 ---
 ### **Clinical Advancement and Development for Research, Entrepreneurship and Enterprise (CADRE<sup>2</sup>)**
 
@@ -63,13 +64,14 @@ These collaborations play to the strengths of each sector; NHIC would identify a
 			<td style="width:33%">
 				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_roche.png">
 			</td>
-				</tr><tr>
-		<td style="width:33%">
-				<a href="https://www.sdta.sg">
-				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_sdta.png">
-				</a>
-		</td>	
-		<td style="width:33%">
+				</tr>
+		<tr>
+			<td style="width:33%">
+					<a href="https://www.sdta.sg">
+					<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_sdta.png">
+					</a>
+			</td>	
+			<td style="width:33%">
 				<a href="https://www.trinity-fund.com.sg">
 				<img src="/images/Partners%20Icons/CADRE2/cadre%20logos_tibs.png">
 				</a>
@@ -80,4 +82,19 @@ These collaborations play to the strengths of each sector; NHIC would identify a
 			</a>
 			</td>
 		</tr>
-	</tbody></table>
+		<tr>
+			<td style="width:33%">
+				<a href="https://www.origgin.com">
+				<img src="/images/Partnerships%20and%20Network/Ventures%20&amp;%20Industry/East_Ventures_logo_color.png">
+				</a>
+			</td>
+		<td style="width:33%">
+				<a href="https://www.outrambio.com">
+				<img src="/images/Partnerships%20and%20Network/Ventures%20&amp;%20Industry/Polaris_Partners_Vector_File_300_dpi__Print_Quality_.png">
+				</a>
+			</td>
+			<td>
+			</td>
+				</tr>
+	</tbody>
+</table>
