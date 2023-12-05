@@ -86,7 +86,7 @@ These collaborations play to the strengths of each sector; NHIC would identify a
 			<td style="width:33% text-align: center;">
 				<img src="/images/Partnerships%20and%20Network/Ventures%20&amp;%20Industry/East_Ventures_logo_color.png">
 			</td>
-		<td style="width:33%">
+		<td style="width:33% text-align: center;">
 				<img src="/images/Partnerships%20and%20Network/Ventures%20&amp;%20Industry/Polaris_Partners_Vector_File_300_dpi__Print_Quality_.png">
 			</td>
 			<td>
