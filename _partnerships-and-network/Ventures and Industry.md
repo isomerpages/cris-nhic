@@ -101,8 +101,8 @@ These collaborations play to the strengths of each sector; NHIC would identify a
 			</tr>
 		<tr>
 			<td style="width:33%">
-				<a href="https://tla.com.sg/">
-					<img src="/images/Partnerships%20and%20Network/Ventures%20&amp;%20Industry/TLA_Logo.png">
+				<a href="https://www.22healthventures.com/">
+					<img src="/images/Partnerships%20and%20Network/Ventures%20&amp;%20Industry/22_Health_Ventures.png">
 				</a>
 			</td>
 			<td>
