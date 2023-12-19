@@ -99,5 +99,16 @@ These collaborations play to the strengths of each sector; NHIC would identify a
 				</a>
 				</td>
 			</tr>
+		<tr>
+			<td style="width:33%">
+				<a href="https://tla.com.sg/">
+					<img src="/images/Partnerships%20and%20Network/Ventures%20&amp;%20Industry/TLA_Logo.png">
+				</a>
+			</td>
+			<td>
+			</td>
+			<td>
+			</td>
+		</tr>
 	</tbody>
 </table>
