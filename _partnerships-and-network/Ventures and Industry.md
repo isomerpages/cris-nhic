@@ -21,7 +21,7 @@ These collaborations play to the strengths of each sector; NHIC would identify a
    <tbody>
       <tr>
          <td style="width:33%">
-            <a href="https://www.brinc.io" target="_blank">
+            <a href="https://www.brinc.io">
             <img src="/images/Partners%20Icons/CADRE2/cadre%20logos_bric.png">
             </a>
          </td>
@@ -29,36 +29,36 @@ These collaborations play to the strengths of each sector; NHIC would identify a
             <img src="/images/Partners%20Icons/CADRE2/cadre%20logos_coronet.png">
          </td>
          <td style="width:33%">
-            <a href="https://www.evx.ventures" target="_blank">
+            <a href="https://www.evx.ventures">
             <img src="/images/Partners%20Icons/CADRE2/cadre%20logos_evx.png">
             </a>
          </td>
       </tr>
       <tr>
          <td style="width:33%">
-            <a href="http://www.chuangcapital.cn" target="_blank">
+            <a href="http://www.chuangcapital.cn">
             <img src="/images/Partners%20Icons/CADRE2/cadre%20logos_innomed.png">
             </a>
          </td>
          <td style="width:33%">
-            <a href="https://www.medtechactuator.com" target="_blank">
+            <a href="https://www.medtechactuator.com">
             <img src="/images/Partners%20Icons/CADRE2/cadre%20logos_medtech%20actuator.png">
             </a>
          </td>
          <td style="width:33%">
-            <a href="https://mirxes.com" target="_blank">
+            <a href="https://mirxes.com">
             <img src="/images/Partners%20Icons/CADRE2/cadre%20logos_mirxes.png">
             </a>
          </td>
       </tr>
       <tr>
          <td style="width:33%">
-            <a href="https://www.origgin.com" target="_blank">
+            <a href="https://www.origgin.com">
             <img src="/images/Partners%20Icons/CADRE2/cadre%20logos_origgin.png">
             </a>
          </td>
          <td style="width:33%">
-            <a href="https://www.outrambio.com" target="_blank">
+            <a href="https://www.outrambio.com">
             <img src="/images/Partners%20Icons/CADRE2/cadre%20logos_outrambio.png">
             </a>
          </td>
@@ -68,41 +68,41 @@ These collaborations play to the strengths of each sector; NHIC would identify a
       </tr>
       <tr>
          <td style="width:33%">
-            <a href="https://www.sdta.sg" target="_blank">
+            <a href="https://www.sdta.sg">
             <img src="/images/Partners%20Icons/CADRE2/cadre%20logos_sdta.png">
             </a>
          </td>
          <td style="width:33%">
-            <a href="https://www.trinity-fund.com.sg" target="_blank">
+            <a href="https://www.trinity-fund.com.sg">
             <img src="/images/Partners%20Icons/CADRE2/cadre%20logos_tibs.png">
             </a>
          </td>
          <td style="width:33%">
-            <a href="https://www.trive.vc" target="_blank">
+            <a href="https://www.trive.vc">
             <img src="/images/Partners%20Icons/CADRE2/cadre%20logos_trive.png">
             </a>
          </td>
       </tr>
       <tr>
          <td style="width:33%">
-            <a href="https://east.vc/" target="_blank">
+            <a href="https://east.vc/">
             <img src="/images/Partnerships%20and%20Network/Ventures%20&amp;%20Industry/east_ventures_logo_color.png">
             </a>
          </td>
          <td style="width:33%">
-            <a href="https://polarispartners.com/" target="_blank">
+            <a href="https://polarispartners.com/">
             <img src="/images/Partnerships%20and%20Network/Ventures%20&amp;%20Industry/polaris_partners_icon.png">
             </a>
          </td>
          <td style="width:33%">
-            <a href="https://tla.com.sg/" target="_blank">
+            <a href="https://tla.com.sg/">
             <img src="/images/Partnerships%20and%20Network/Ventures%20&amp;%20Industry/TLA_Logo.png">
             </a>
          </td>
       </tr>
       <tr>
          <td style="width:33%">
-            <a href="https://www.22healthventures.com/" target="_blank">
+            <a href="https://www.22healthventures.com/">
             <img src="/images/Partnerships%20and%20Network/Ventures%20&amp;%20Industry/22_Health_Ventures.png">
             </a>
          </td>
