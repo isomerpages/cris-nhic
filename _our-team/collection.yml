@@ -2,6 +2,5 @@ collections:
   our-team:
     output: true
     order:
-      - Innovation and Enterprise.md
       - Senior Management/Associate Professor Henry Ho.md
       - Senior Management/.keep
