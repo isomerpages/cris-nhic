@@ -2,12 +2,9 @@ collections:
   our-team:
     output: true
     order:
-      - Administrative/.keep
-      - Administrative/Shermaine Kwan.md
-      - Administrative/Ng San San.md
-      - Administrative/Wendy Yep.md
-      - I&E Placement Programme/Ng Yi Zhen.md
-      - I&E Placement Programme/.keep
+      - Senior Management/.keep
+      - Senior Management/Associate Professor Henry Ho.md
+      - Senior Management/Pauline Tay, PhD.md
       - Innovation & Enterprise/.keep
       - Innovation & Enterprise/Michael Ho, PhD.md
       - Innovation & Enterprise/Tan Ee Lim, PhD.md
@@ -16,6 +13,9 @@ collections:
       - Innovation & Enterprise/Smitha Velayil, MSc MBA.md
       - Innovation & Enterprise/Zhang Hanzhong, PhD.md
       - Innovation & Enterprise/Innovation and Enterprise.md
-      - Senior Management/.keep
-      - Senior Management/Associate Professor Henry Ho.md
-      - Senior Management/Pauline Tay, PhD.md
+      - I&E Placement Programme/.keep
+      - I&E Placement Programme/Ng Yi Zhen.md
+      - Administrative/.keep
+      - Administrative/Shermaine Kwan.md
+      - Administrative/Ng San San.md
+      - Administrative/Wendy Yep.md
