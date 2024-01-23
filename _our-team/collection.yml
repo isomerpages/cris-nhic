@@ -2,6 +2,7 @@ collections:
   our-team:
     output: true
     order:
+      - Administrative/.keep
       - I&E Placement Programme/Ng Yi Zhen.md
       - I&E Placement Programme/.keep
       - Innovation & Enterprise/Innovation and Enterprise.md
