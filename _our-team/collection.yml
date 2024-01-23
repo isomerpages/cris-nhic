@@ -2,6 +2,7 @@ collections:
   our-team:
     output: true
     order:
+      - Administrative/Ng San San.md
       - Administrative/Shermaine Kwan.md
       - Administrative/.keep
       - I&E Placement Programme/Ng Yi Zhen.md
