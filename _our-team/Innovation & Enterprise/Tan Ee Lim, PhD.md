@@ -1,0 +1,8 @@
+---
+title: Tan Ee Lim, PhD
+permalink: /our-team/innovation-and-enterprise/tan-ee-lim/
+variant: tiptap
+description: Tan Ee Lim
+third_nav_title: Innovation & Enterprise
+---
+<h4><strong>Senior Manager (Medtech)</strong></h4><p></p><div class="isomer-image-wrapper"><img style="width: 40%;" height="auto" width="100%" alt="Tan Ee Lim" src="/images/About/Our Team/Innovation and Enterprise/TanEeLim_Bio.jpg"></div><p>Before joining NHIC, Ee Lim was a Biodesign Fellow with Singapore-Stanford Biodesign Program established between the Agency for Science, Technology and Research (A*STAR), the Economic Development Board (EDB), and Stanford University. Under this role, he engaged closely with healthcare professionals in Asia and United States to identify unmet clinical needs and developed a solution towards a commercially viable model. During that period, he was concurrently mentoring aspiring medical technology innovators from Singapore and regional countries in the Biodesign Innovation process. Prior to this, Ee Lim was a Scientist at A*STAR. Under this role, he worked with national and overseas stakeholders to develop medical device solution using semiconductor processes.</p><p>Ee Lim holds a Ph.D. from the Michigan Technological University, USA and a recipient of Singapore-Stanford Biodesign Fellowship. He has also completed the Lean Launchpad course by NUS Enterprise and trained in medical device design control.</p><p></p>
