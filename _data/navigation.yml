@@ -1,0 +1,14 @@
+logo: /images/Zz   NHIC logo/nhic logo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Programmes
+    collection: programmes
+  - title: Partnerships and Networks
+    collection: partnerships-and-network
+  - title: Innovation Portfolio
+    collection: innovation-portfolio
+  - title: Latest News
+    resource_room: true
+  - title: Contact Us
+    url: /contact-us/

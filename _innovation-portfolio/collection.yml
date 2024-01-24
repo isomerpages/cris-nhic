@@ -1,0 +1,17 @@
+collections:
+  innovation-portfolio:
+    output: true
+    order:
+      - Technology Domains.md
+      - Startups/Startups.md
+      - Startups/.keep
+      - Success Stories/.keep
+      - Success Stories/Early prototype design of the KLARO™ deep cavity
+        surgical LED lighting device.md
+      - Success Stories/aiTriage™ Intelligent system for real time risk
+        stratification of major adverse cardiac events.md
+      - "Success Stories/plano®: An Innovative Parental Monitoring App to better
+        manage smart device use.md"
+      - Success Stories/National Health Innovation Centre bringing first ready
+        to eat texture modified Asian Meals.md
+      - Success Stories/Robotic Sock for DVT and Ankle Joint Contracture.md

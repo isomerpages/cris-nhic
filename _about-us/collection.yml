@@ -1,0 +1,11 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - What We Do.md
+      - Board Oversight Committee.md
+      - Our Team/.keep
+      - Our Team/Senior Management.md
+      - Our Team/Innovation and Enterprise.md
+      - Our Team/Administrative Team.md
+      - Our Team/I&E Placement Programme.md
