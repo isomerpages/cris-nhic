@@ -7,7 +7,7 @@ third_nav_title: Innovation & Enterprise
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/Our Team/Innovation and Enterprise/StephanieLee_Bio.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/About/Our Team/Innovation and Enterprise/StephanieLee_Bio.jpg">
 </div>
 <p>Stephanie's journey began at the Ministry of Health's Health Regulation
 Group. Her diverse portfolio included legislative policy development, process
