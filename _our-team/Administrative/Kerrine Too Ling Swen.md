@@ -17,6 +17,8 @@ Implementation Workgroup. She also developed and optimized processes for
 the inaugural Research, Education &amp; Innovation Board Committee. Additionally,
 she reviewed the research department's annual workplan, risk management
 plan, and key performance indicators.</p>
+<p>Outside of work, Kerrine enjoys listening to music and diligently attends
+weekly dance classes to stay active.</p>
 <p>
 <br>
 </p>
