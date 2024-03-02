@@ -25,4 +25,4 @@ scientific, technological, and innovation partnerships between Singapore
 and China. These experiences have helped Stephanie navigate the various
 facets of a complex healthcare and biomedical ecosystem.</p>
 <p>Stephanie holds a Bachelor of Science (Honours) in Biological Sciences
-from Nanyang Technological University (NTU)."</p>
+from Nanyang Technological University (NTU).</p>
