@@ -8,7 +8,7 @@ variant: tiptap
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-team/https://www.nhic.sg/our-team/administrative/shermaine-kwan/"><img style="width: 100%" height="auto" width="100%" alt="Shermaine Kwan" src="/images/About/Our Team/Administrative Team/ShermaineKwan.jpg"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-team/administrative/shermaine-kwan/"><img style="width: 100%" height="auto" width="100%" alt="Shermaine Kwan" src="/images/About/Our Team/Administrative Team/ShermaineKwan.jpg"></a>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-team/administrative/ng-san-san/"><img style="width: 100%" height="auto" width="100%" alt="Ng San San" src="/images/About/Our Team/Administrative Team/NgSanSan.jpg"></a>
 </th>
