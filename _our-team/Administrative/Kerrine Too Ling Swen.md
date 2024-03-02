@@ -5,7 +5,7 @@ variant: tiptap
 description: Kerrine Too
 third_nav_title: Administrative
 ---
-<h4>Senior Executive</h4>
+<h4><strong>Senior Executive</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="Kerrine Too" src="/images/About/Our Team/Administrative Team/KerrineToo_Bio.jpg">
 </div>
