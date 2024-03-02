@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Innovation & Enterprise
 ---
-<p></p>
+<h4>Manager (Biomed)</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/About/Our Team/Innovation and Enterprise/StephanieLee_Bio.jpg">
 </div>
