@@ -5,3 +5,18 @@ variant: tiptap
 description: Kerrine Too
 third_nav_title: Administrative
 ---
+<h4>Senior Executive</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="Kerrine Too" src="/images/About/Our Team/Administrative Team/KerrineToo_Bio.jpg">
+</div>
+<p>After graduating from NUS with a Bachelor's in Life Sciences, specializing
+in Biomedical Sciences, Kerrine commenced her career at SingHealth in the
+Research domain. There, she supported and coordinated governance meetings
+related to research, including the Research Council and Research Administrators
+Implementation Workgroup. She also developed and optimized processes for
+the inaugural Research, Education &amp; Innovation Board Committee. Additionally,
+she reviewed the research department's annual workplan, risk management
+plan, and key performance indicators.</p>
+<p>
+<br>
+</p>
