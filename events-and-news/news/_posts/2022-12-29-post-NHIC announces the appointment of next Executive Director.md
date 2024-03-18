@@ -39,7 +39,7 @@ To further strengthen these schemes, talent development programmes were also inc
 
 During the COVID-19 pandemic, NHIC was instrumental in supporting MOH with quick turnaround technology assessments and swift administration of COVID-19 grants.
 
-Recently in 2022, Prof Wong&nbsp;[led the rebranding of NHIC](events-and-news/news/launch-of-a-new-initiative-to-accelerate-the-adoption-of-healthtech/)&nbsp;to offer a holistic suite of programmes to power healthtech innovations in Singapore. These include a&nbsp;[Clinical Innovation and Adoption Initiative (I2Adopt)](/funding/innovation-to-adopt/), to enable the adoption of cost-effective clinical innovations across the local public health clusters, building venture co-creation and technology development partnerships and nurturing tri-competent healthtech talent.
+Recently in 2022, Prof Wong&nbsp;[led the rebranding of NHIC](https://www.nhic.sg/events-and-news/news/launch-of-a-new-initiative-to-accelerate-the-adoption-of-healthtech/)&nbsp;to offer a holistic suite of programmes to power healthtech innovations in Singapore. These include a&nbsp;[Clinical Innovation and Adoption Initiative (I2Adopt)](/funding/innovation-to-adopt/), to enable the adoption of cost-effective clinical innovations across the local public health clusters, building venture co-creation and technology development partnerships and nurturing tri-competent healthtech talent.
 
 Under her leadership, NHIC facilitated the transaction of 49 commercial licences, generating S$3.4 million of licensing revenue, and catalysed the formation of 16 spin-offs, raising a total investment amount of more than S$32 million.
 
