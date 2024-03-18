@@ -11,9 +11,9 @@ variant: markdown
 
 2.       [Advanced Ophthalmic Innovations (AOI)](https://aoi.sg/)
 
-3.       [CellWave Technologies]([https://cellwavetechnologies.com](https://cellwavetechnologies.com/)
+3.       [CellWave Technologies](https://cellwavetechnologies.com/)
 
-4.       [Enleofen]([https://www.enleofen.com](https://www.enleofen.com/)
+4.       [Enleofen](https://www.enleofen.com/)
 
 5.       [EyRis](https://eyris.io/)
 
