@@ -3,6 +3,7 @@ title: Startups
 permalink: /innovation-portfolio/startups/startups-1/
 description: ""
 third_nav_title: Startups
+variant: markdown
 ---
 [](https://www.albatroztherapeutics.com/)
 
@@ -10,9 +11,9 @@ third_nav_title: Startups
 
 2.       [Advanced Ophthalmic Innovations (AOI)](https://aoi.sg/)
 
-3.       [CellWave Technologies](https://www.bing.com/search?q=cellwave+technologies&qs=SC&pq=cell+wave+tech&sc=9-14&cvid=F04051A5FD7947F185D0B959EC1E1918&FORM=QBRE&sp=1&ghc=1&lq=0)
+3.       [CellWave Technologies]([https://cellwavetechnologies.com](https://cellwavetechnologies.com/)
 
-4.       [Enleofen](https://aoi.sg/)
+4.       [Enleofen]([https://www.enleofen.com](https://www.enleofen.com/)
 
 5.       [EyRis](https://eyris.io/)
 
