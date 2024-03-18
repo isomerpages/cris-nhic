@@ -9,9 +9,6 @@ third_nav_title: Administrative
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="Ng San San" src="/images/About/Our Team/Administrative Team/NgSanSan_Bio.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" src="/images/About/Our%20Team/Administrative%20Team/ngsansan.jpg">
-</div>
 <p>Having been trained financially with a Diploma from Association of Chartered
 Certified Accountants, San San has always been grateful for the opportunities
 she had, to have experienced working systems spanning across various spaces,
