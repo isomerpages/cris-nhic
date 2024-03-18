@@ -12,7 +12,9 @@ NHIC announces the appointment of next Executive Director
 
 **Appointment of Associate Professor Henry Ho as Executive Director, NHIC from 1 January 2023**  
  
-<img src="/images/About/Our%20Team/Senior%20Management/HenryHo_Bio.jpg" style="width:150px"> Associate Professor Henry Ho will be appointed as the Executive Director, NHIC from 1 January 2023 for a term of three years. Assoc Prof Ho is currently a senior consultant with the Department of Urology and Chairman, Division of Surgery &amp; Surgical Oncology, Singapore General Hospital (SGH) and the National Cancer Centre Singapore (NCCS). He completed his surgical fellowship in robotic surgery in 2007 and was also the first doctor in SGH/SingHealth to be awarded the Singapore Stanford Biodesign Fellowship Award by A\*STAR in 2011.
+<img src="/images/About/Our%20Team/Senior%20Management/HenryHo_Bio.jpg" style="width:150px">
+
+Associate Professor Henry Ho will be appointed as the Executive Director, NHIC from 1 January 2023 for a term of three years. Assoc Prof Ho is currently a senior consultant with the Department of Urology and Chairman, Division of Surgery &amp; Surgical Oncology, Singapore General Hospital (SGH) and the National Cancer Centre Singapore (NCCS). He completed his surgical fellowship in robotic surgery in 2007 and was also the first doctor in SGH/SingHealth to be awarded the Singapore Stanford Biodesign Fellowship Award by A\*STAR in 2011.
 
 As an accomplished medical device innovator, Assoc Prof Ho has brought a research idea to a commercial product Mona Lisa (Biobot Surgicals Pte Ltd) Ltd) which has been deployed in SGH, Changi General Hospital (CGH), Sengkang General Hospital (SKH) and National University Hospital (NUH). Mona Lisa was also sold in Australia, China and Germany.
 
