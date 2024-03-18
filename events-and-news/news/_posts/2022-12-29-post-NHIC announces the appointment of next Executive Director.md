@@ -5,13 +5,14 @@ date: 2022-12-29
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 NHIC announces the appointment of next Executive Director
 ---------------------------------------------------------
 
 **Appointment of Associate Professor Henry Ho as Executive Director, NHIC from 1 January 2023**  
  
-<img src="/images/About/Our%20Team/Senior%20Management/henryho.jpg" style="width:150px"> Associate Professor Henry Ho will be appointed as the Executive Director, NHIC from 1 January 2023 for a term of three years. Assoc Prof Ho is currently a senior consultant with the Department of Urology and Chairman, Division of Surgery &amp; Surgical Oncology, Singapore General Hospital (SGH) and the National Cancer Centre Singapore (NCCS). He completed his surgical fellowship in robotic surgery in 2007 and was also the first doctor in SGH/SingHealth to be awarded the Singapore Stanford Biodesign Fellowship Award by A\*STAR in 2011.
+<img src="/images/About/Our%20Team/Senior%20Management/HenryHo_Bio.jpg" style="width:150px"> Associate Professor Henry Ho will be appointed as the Executive Director, NHIC from 1 January 2023 for a term of three years. Assoc Prof Ho is currently a senior consultant with the Department of Urology and Chairman, Division of Surgery &amp; Surgical Oncology, Singapore General Hospital (SGH) and the National Cancer Centre Singapore (NCCS). He completed his surgical fellowship in robotic surgery in 2007 and was also the first doctor in SGH/SingHealth to be awarded the Singapore Stanford Biodesign Fellowship Award by A\*STAR in 2011.
 
 As an accomplished medical device innovator, Assoc Prof Ho has brought a research idea to a commercial product Mona Lisa (Biobot Surgicals Pte Ltd) Ltd) which has been deployed in SGH, Changi General Hospital (CGH), Sengkang General Hospital (SKH) and National University Hospital (NUH). Mona Lisa was also sold in Australia, China and Germany.
 
@@ -36,7 +37,7 @@ To further strengthen these schemes, talent development programmes were also inc
 
 During the COVID-19 pandemic, NHIC was instrumental in supporting MOH with quick turnaround technology assessments and swift administration of COVID-19 grants.
 
-Recently in 2022, Prof Wong&nbsp;[led the rebranding of NHIC](/about/objectives-and-identity/)&nbsp;to offer a holistic suite of programmes to power healthtech innovations in Singapore. These include a&nbsp;[Clinical Innovation and Adoption Initiative (I2Adopt)](/funding/innovation-to-adopt/), to enable the adoption of cost-effective clinical innovations across the local public health clusters, building venture co-creation and technology development partnerships and nurturing tri-competent healthtech talent.
+Recently in 2022, Prof Wong&nbsp;[led the rebranding of NHIC](events-and-news/news/launch-of-a-new-initiative-to-accelerate-the-adoption-of-healthtech/)&nbsp;to offer a holistic suite of programmes to power healthtech innovations in Singapore. These include a&nbsp;[Clinical Innovation and Adoption Initiative (I2Adopt)](/funding/innovation-to-adopt/), to enable the adoption of cost-effective clinical innovations across the local public health clusters, building venture co-creation and technology development partnerships and nurturing tri-competent healthtech talent.
 
 Under her leadership, NHIC facilitated the transaction of 49 commercial licences, generating S$3.4 million of licensing revenue, and catalysed the formation of 16 spin-offs, raising a total investment amount of more than S$32 million.
 
