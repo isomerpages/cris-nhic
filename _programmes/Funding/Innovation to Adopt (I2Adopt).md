@@ -3,6 +3,7 @@ title: Innovation to Adopt (I2Adopt)
 permalink: /funding/innovation-to-adopt/
 description: ""
 third_nav_title: Funding
+variant: markdown
 ---
 #### **Funding which supports commercially viable innovation for implementation, adoption**
 
@@ -64,7 +65,6 @@ Submission through designated Healthcare Cluster Office
 ![](/images/Funding/i2a_clinicalinnovation.png)
 
 *   All grant applications are evaluated based on the criteria detailed below.
-*   LOI template can be downloaded&nbsp;[here](https://nhic.sg/web/index.php/downloads)
 *   Only shortlisted applicants will be invited to submit full proposal and pitch to the Evaluation Panel
 *   For further queries on this grant, please contact NHIC at&nbsp;[grant@nhic.cris.sg](mailto:grant@nhic.cris.sg)
 
