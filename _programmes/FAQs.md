@@ -16,12 +16,12 @@ variant: markdown
 <a name="NRF"></a>
 ##### **NRF Central Gap Fund**
 
-**1. Which innovation and enterprise office (ieo) manages the submission of the national research foundation (nrf) central gap applications for the public healthcare institutions?**
+**1. Which Innovation and Enterprise Office (IEO) manages the submission of the National Research Foundation (NRF) Central Gap applications for the Public Healthcare Institutions?**
 
 * NHIC is the designated Innovation and Enterprise Office (IEO) for public hospitals, public health institutions, and National Specialty Centres. Please send your Central Gap related inquiries to&nbsp;[enquiry@nhic.cris.sg.](mailto:enquiry@nhic.cris.sg)
 
 
-**2. How do i apply for the national research foundation (nrf) central gap fund?**
+**2. How do I apply for the National Research Foundation (NRF) Central Gap Fund?**
 
 * All Central Gap applications from the public healthcare institutions must be endorsed by NHIC. Please speak to the respective NHIC Cluster manager if you are interested in applying for the Central Gap Fund.
 
@@ -37,7 +37,7 @@ variant: markdown
 	* Study design to measure impact and/or value of the innovation being trial-ed or implemented.
 	* State scope and contributions of Public Healthcare Institution (PHI) vs private sector/international partners (if any) in the test-bedding and implementation plan
 
-**2. What does a letter of interest (loi) from the healthcare cluster typically include and who should issue it?**
+**2. What does a Letter of Interest (LOI) from the healthcare cluster typically include and who should issue it?**
 
 * This is a written document typically detailing a buyer’s desire to purchase a seller’s product, assets, or services.
 	* It’s used to establish and indicate an understanding between the parties which provides the basis for a future or proposed agreement, typically supported by senior management eg. Head of Department/Division or C-suite management
@@ -80,7 +80,7 @@ Solutions that have currently secured an implementation partner (e.g. healthcare
 
 This grant focuses on implementation and eventual adoption of a technology into the healthcare system which provides patient impact, economical benefit for Singapore’s healthcare system. Thus, this grant is not suitable for proposals that are looking to seek funding for early research studies, research evaluation, productivity enhancements in regular care delivery workflows (fundable if the resulting workflows are a necessity and directly associated with the adoption of proposed technology in the application), training programmes and pedagogies not associated with the new technology.
 
-**8. What stage of technology will i2adopt support?**
+**8. What stage of technology will I2Adopt support?**
 
 We are seeking for solutions at a stage of conducting an implementation trial within the healthcare system i.e. likelihood Technology Readiness Level (TRL) 7 and above, to translate said technology to adoption/implementation at nesting institution with eventual aim to scale to another cluster (TRL 7 and above preferred but TRL 6 can be considered if there are strong merits and clear healthcare/economic benefits to Singapore). Those that have attained regulatory approvals from globally recognised regulatory authorities would have an advantage. Earlier-stage projects will be redirected to other suitable grants such as I2D/I2I or other sources.
 
@@ -97,7 +97,7 @@ The test-bedded/piloted solution should bring about both health and economic out
 
 Applicants are invited to submit proposals for the above themes (there is no further categorisation of sub-specialty or disease areas). The grant aims to support disease areas with high-prevalence in Singapore, and also areas for which participating/partnering PHIs deem as critical and would procure/adopt the proposed solution after the test-bedding/piloting period.
 
-**11. How will background ip and foreground ip ownership be managed?**
+**11. How will background IP and foreground IP ownership be managed?**
 
 As the I2Adopt is focusing on providing an opportunity for technology in translation/mature stage we understand that it is unlikely for new foreground IP to be created. If there are new FIPs created, we encourage that t the industry partner and PHI to discuss and agree on mutually amicable IP management and commercial terms.
 
@@ -113,20 +113,20 @@ Reach us at:&nbsp;[grant@nhic.cris.sg](mailto:grant@nhic.cris.sg)&nbsp;if you ha
 <a name="Pre-award"></a>
 ##### **Pre-award**
 
-**1. What types of grant schemes does nhic provide?**
+**1. What types of grant schemes does NHIC provide?**
 
 There are three types of Grant Schemes available from NHIC.
 
 <table style="max-width: 100%; background-color: rgb(255, 255, 255); border-collapse: collapse; border-spacing: 0px; padding: 0px; margin: 10px 0px 0px; color: rgb(54, 54, 54); font-family: Arimo, Verdana, Geneva, sans-serif; font-size: 15.2px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 823.125px; border-width: 1px; border-color: rgb(229, 229, 229);" cellpadding="5" border="1"><tbody><tr><td style="width: 263.031px; vertical-align: top;"><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" href="https://nhic.sg/web/index.php/our-funding/develop-i2d">Innovation to Develop (I2D)</a></td><td style="width: 263.031px; vertical-align: top;"><a style="color: rgb(68, 68, 68); text-decoration: none; outline: none;" href="https://nhic.sg/web/index.php/our-funding/protect-i2p">Innovation to Protect (I2P)</a></td><td style="width: 263.062px; vertical-align: top;"><a style="color: rgb(211, 38, 42); text-decoration: none; outline: none;" href="https://nhic.sg/web/index.php/our-funding/industry-i2i">Innovation to Industry (I2I)</a></td></tr><tr><td style="width: 263.031px; vertical-align: top;">This scheme supports the development of a healthcare innovation towards commercialisation.</td><td style="width: 263.031px; vertical-align: top;">This scheme funds healthcare-related patentable innovations with a commercialisation potential.</td><td style="width: 263.062px; vertical-align: top;">This scheme, by NHIC invitation only, funds healthcare-related projects which have successfully completed I2D funding.</td></tr></tbody></table>
 
-**2. Who is eligible to apply for nhic grants?**
+**2. Who is eligible to apply for NHIC grants?**
 
 **I2D Grant:**&nbsp;The Principal Investigator must hold a primary appointment and be salaried by one of the following local institutions:  
 **I2P Grant:**&nbsp;One of the Inventors must hold a primary appointment and be salaried by one of the below local institutions:
 
 <table style="max-width: 100%; background-color: rgb(255, 255, 255); border-collapse: collapse; border-spacing: 0px; padding: 0px; margin: 10px 0px 0px; color: rgb(54, 54, 54); font-family: Arimo, Verdana, Geneva, sans-serif; font-size: 15.2px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 823.125px; border-width: 1px; border-color: rgb(229, 229, 229);" cellpadding="5" border="1"><tbody><tr><td style="width: 210.969px; vertical-align: top;"><strong style="font-weight: bold;">Public Hospital</strong></td><td style="vertical-align: top;">Singapore General Hospital, Changi General Hospital, National University Hospital, Tan Tock Seng Hospital, Ng Teng Fong General Hospital, Khoo Teck Puat Hospital, KK Woman’s and Children’s Hospital, Seng Kang Health, Alexandra Hospital</td></tr><tr><td style="vertical-align: top;"><strong style="font-weight: bold;">Public Health Institution</strong></td><td style="vertical-align: top;">Singapore Eye Research Institution, NUS Saw Swee Hock School of Public Health, Institute of Mental Health</td></tr><tr><td style="vertical-align: top;"><strong style="font-weight: bold;">National Speciality Centre</strong></td><td style="vertical-align: top;">National Skin Centre Singapore, National Heart Centre Singapore, National Cancer Centre Singapore, National Neuroscience Institute Singapore, National Dental Centre Singapore, National University Cancer Institute Singapore, National University Heart Centre Singapore, Singapore National Eye Centre</td></tr><tr><td style="vertical-align: top;"><strong style="font-weight: bold;">Academic Medical Centre/Medical School</strong></td><td style="vertical-align: top;">Duke-NUS Medical School, NTU Lee Kong Chian School of Medicine, NUS Yong Loo Lin School of Medicine</td></tr></tbody></table>
 
-**3. How do i apply for a grant?**
+**3. How do I apply for a grant?**
 
 **I2D Grant:**&nbsp;Interested applicants must submit a NHIC I2D Grant Application Form (NHIC-I2D-FORM-1) through your Healthcare Cluster Research/Innovation Office to NHIC. Consult your respective Healthcare Cluster Research/Innovation Office for their internal deadline submission date.
 
@@ -150,32 +150,32 @@ Yes, a maximum of 30% Indirect Research Costs are allowable under the I2D and I2
 
 A maximum of 30% Indirect Research Cost is allowable during NHIC Phase in the I2Start Program.
 
-**6. How can i check the outcome of my i2d grant application?**
+**6. How can i check the outcome of my I2D grant application?**
 
 You will receive an email notification on the outcome of your I2D grant application from the NHIC Grant Secretariat within six (6) weeks of the submission date.
 
 <a name="Post-award"></a>
 ##### **Post-Award**
 
-**1. How do i request a budget variation? (applicable only to the i2d/i2i grant)**
+**1. How do I request a budget variation? (applicable only to the I2D/I2I grant)**
 
 The Grant Variation request and justification must be submitted to NHIC at least three (3) months prior to the grant completion date. Refer to&nbsp;[Guidelines for Management of NMRC Funding Programmes (Updated January 2020)](https://www.nmrc.gov.sg/docs/default-source/policies-and-guidelines-library/guidelines-for-the-management-of-nmrc-programmes.pdf?sfvrsn=69ad48fb_0)&nbsp;for more details of fundable and non-fundable direct costs and virement within or between votes.
 
 Download the Grant Variation Form (NHIC-GEN-FORM-17) and submit the completed form to NHIC for approval.
 
-**2. How do i request a grant extension?**
+**2. How do I request a grant extension?**
 
 The Principal Investigator can request a grant extension of up to six (6) months. The Grant Extension Form and justification must be submitted to NHIC at least three (3) months prior to the grant completion date.
 
 Download the Grant Extension Form (NHIC-GEN-FORM-18 or NHIC-I2P-FORM-7) and submit the completed form to NHIC for approval.
 
-**3. How do i request a change of principal investigator/research team member?**
+**3. How do I request a change of principal investigator/research team member?**
 
 For changes of Principal Investigator, Co-Investigator, Collaborator, download the Request for Changes to Team form (NHIC-GEN-FORM-11) and submit completed form through your Research/Innovation Office to NHIC for approval.
 
 You will receive an email notification on the approval outcome of your request by NHIC Grant Secretariat. Please note that a revised of the Letter of Award to a new Principal Investigator will not be issued.
 
-**4. How do i request a variation of the project?**
+**4. How do I request a variation of the project?**
 
 Project variation may encompass a variety of changes, including, but not limited to the following changes:
 
@@ -187,7 +187,7 @@ Project variation may encompass a variety of changes, including, but not limited
 
 For changes to research scopes, milestones/deliverables, equipment relocation and grant deferral/suspension/termination of your project, download the Grant Amendment Form (NHIC-GEN-FORM-27) and submit the completed form through your Research/Innovation Office to NHIC for approval.
 
-**5. When and how do i submit my progress report?**
+**5. When and how do I submit my progress report?**
 
 The Principal Investigator of the awarded I2D project is required to submit a Quarterly Progress Report (NHIC-GEN-FORM-20) to NHIC Grant Secretariat. The Progress Report is due on a quarterly basis, within thirty (30) days after the close of the quarter.
 
@@ -195,13 +195,13 @@ The submission of a Quarterly Progress Report is waived if the project commencem
 
 Submit the Progress Report to your Host Institution Research Office or Healthcare Cluster Research/Innovation Office. Your Research/Innovation Office will collate the report and submit to NHIC Grant Secretariat.
 
-**6. When and how do i submit my final project report?**
+**6. When and how do I submit my final project report?**
 
 The Principal Investigator of the awarded I2D project is required to submit a Final Project Report (NHIC-GEN-FORM-21) to NHIC Grant Secretariat after grant completion date. The final report is due two (2) months from the grant completion date.
 
 Submit the Final Project Report to your Host Institution Research Office or Healthcare Cluster Research/Innovation Office. Your Research Office will collate the report and submit to NHIC Grant Secretariat.
 
-**7. When and how do i submit a reimbursement claim?**
+**7. When and how do I submit a reimbursement claim?**
 
 The Principal Investigator (PI) may utilize the approved budget after the project commencement date and expenditure should be incurred before the grant completion date.
 
@@ -215,16 +215,16 @@ The reimbursement to the Host Institutions will be made three (3) months from th
 
 <table style="max-width: 100%; background-color: rgb(255, 255, 255); border-collapse: collapse; border-spacing: 0px; padding: 0px; margin: 10px 0px 0px; color: rgb(54, 54, 54); font-family: Arimo, Verdana, Geneva, sans-serif; font-size: 15.2px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 493.875px; border-width: 1px; border-color: rgb(229, 229, 229);" cellpadding="5" border="1"><tbody><tr><td><strong style="font-weight: bold;">Submission Deadline</strong></td><td><strong style="font-weight: bold;">Payment to Host Institution</strong></td></tr><tr><td>15th Feb</td><td>June</td></tr><tr><td>15th May</td><td>September</td></tr><tr><td>15th Aug</td><td>December</td></tr><tr><td>15th Nov</td><td>March</td></tr></tbody></table>
 
-**9. How do i check the status of the project claim?**
+**9. How do I check the status of the project claim?**
 
 An email notification will be sent by the bank (eg: DBS eadvice) to your Finance-in-charge’s email address stated in your reimbursement claim form to confirm the disbursement of your Project claim. For more information or any clarifications, you may contact NHIC Grant Administrator directly.
 
-**10. How do i know if my grant has closed?**
+**10. How do I know if my grant has closed?**
 
 **I2D Grant:**&nbsp;The I2D grant is officially closed once the Final Progress Report, Final Statement of Accounts and Final Claim have been submitted to NHIC and the Host Institution has received the final reimbursement.
 
 **I2P Scheme:**&nbsp;The I2P grant is officially closed once the Final Claim and Filed Patent Application has been submitted to NHIC and the Host Institution has received the final reimbursement. No further notification will be sent by NHIC.
 
-**11. May i know the terms and conditions that governs nhic grants?**
+**11. May I know the terms and conditions that governs NHIC grants?**
 
-NHIC adheres closely to NMRC Terms &amp; Conditions.
+NHIC adheres closely to [NMRC Terms &amp; Conditions.](https://www.nmrc.gov.sg/policy-guideline/research-grant-terms-conditions)

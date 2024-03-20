@@ -4,6 +4,7 @@ title: National Health Innovation Centre bringing first ready to eat texture
 permalink: /innovation-portfolio/success-stories/national-health-innovation-centre-bringing-ready-to-eat-meals/
 description: ""
 third_nav_title: Success Stories
+variant: markdown
 ---
 **Partnering National Health Innovation Centre in bringing first ready-to-eat texture modified Asian Meals for those with swallowing difficulties to market**
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -43,6 +44,4 @@ For information on business or investment opportunities, please contact&nbsp;[en
 
 **Press release:**
 
-[http://www.todayonline.com/singapore/texture-modified-meals-developed-patients-swallowing-difficulties](http://www.todayonline.com/singapore/texture-modified-meals-developed-patients-swallowing-difficulties)
-
-[http://www.channelnewsasia.com/news/singapore/changi-general-hospital-ties-up-with-food-firm-for-ready-to-eat--7810306](http://www.channelnewsasia.com/news/singapore/changi-general-hospital-ties-up-with-food-firm-for-ready-to-eat--7810306)
+[Textured modified meals developed for patients with swallowing difficulties (TODAY, 20 Sep 2016)](http://www.todayonline.com/singapore/texture-modified-meals-developed-patients-swallowing-difficulties)
