@@ -1,6 +1,6 @@
 ---
 title: Alison Cheng Yi Hui, BSc
-permalink: /alison-cheng-yi-hui/
+permalink: /our-team/innovation-and-enterprise/alison-cheng-yi-hui/
 variant: tiptap
 description: ""
 third_nav_title: Innovation & Enterprise
