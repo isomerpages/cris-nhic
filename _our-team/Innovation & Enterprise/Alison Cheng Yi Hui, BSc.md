@@ -1,5 +1,5 @@
 ---
-title: Alison Cheng Yi Hui
+title: Alison Cheng Yi Hui, BSc
 permalink: /alison-cheng-yi-hui/
 variant: tiptap
 description: ""
