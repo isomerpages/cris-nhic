@@ -23,6 +23,9 @@ job. Back then, most of her peers were going into roles such as marketing
 and sales. She attributed the choice to her quiet personality, acknowledging
 that roles which demanded the “gift of the gab” were not the ideal fit
 for her.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Admin Professionals' Day/Ng_San_San_1.jpg">
+</div>
 <p>Yet, after two decades, San San seamlessly navigates her role as an administrative
 professional, having worked across various industries — education, healthcare
 and banking. As the Assistant Manager (Grants and Administration) at NHIC,
@@ -73,6 +76,9 @@ on the team's calendars at NHIC. This enables her to arrange meetings like
 team retreats and board meetings, reducing the risk of miscommunication
 and keep things running along smoothly for the entire team. Her attention
 to detail ensures she can readily provide assistance whenever required.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Admin Professionals' Day/Ng_San_San_2.jpg">
+</div>
 <p>Indeed, coordinating meetings starts with “finding the right slot”, everything
 else falls into place. After confirming a date, San San sends the visitors
 a comprehensive information kit. This includes a step-by-step directory
@@ -102,7 +108,11 @@ assistance beyond her expertise, she directs them to the appropriate individuals
 such as the specific IT staff for login issues. Even when additional help
 is needed to man the booths at trade shows, San San would already be there
 taking down queries from prospective industry partners and directing them
-to her colleagues.
+to her colleagues.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Admin Professionals' Day/Ng_San_San_3.jpg">
+</div>
+<p>
 <br>“Unlike most of my colleagues, I do not have formal scientific training,
 but I want them to feel assured in relying on me,” she added.</p>
 <p>Hence, this “human help desk” seldom remains deskbound. At NHIC events
