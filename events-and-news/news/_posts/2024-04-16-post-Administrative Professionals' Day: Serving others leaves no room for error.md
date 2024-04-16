@@ -116,8 +116,7 @@ energised with a beverage or pastry of their choice before the meeting.</p>
 <blockquote>
 <p>“When you set out to serve others, there is no room for error,” she emphasised.</p>
 </blockquote>
-<p>
-<br>This commitment was evident during <a href="https://www.cris.sg/newsroom/media-releases/221017-NHIC-media-release/" rel="noopener noreferrer nofollow" target="_blank"><u>the launch event of NHIC’s new Clinical Innovation and Adoption Initiative</u></a> to
+<p>This commitment was evident during <a href="https://www.cris.sg/newsroom/media-releases/221017-NHIC-media-release/" rel="noopener noreferrer nofollow" target="_blank"><u>the launch event of NHIC’s new Clinical Innovation and Adoption Initiative</u></a> to
 nurture promising healthtech projects for adoption and scaling across healthcare
 clusters in Singapore in October 2022.&nbsp;</p>
 <p>Then only two months into her new role, San San was already like a fish
