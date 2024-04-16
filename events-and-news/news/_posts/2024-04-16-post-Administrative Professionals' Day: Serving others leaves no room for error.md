@@ -29,9 +29,9 @@ for her.</p>
 <p>Yet, after two decades, San San seamlessly navigates her role as an administrative
 professional, having worked across various industries — education, healthcare
 and banking. As the Assistant Manager (Grants and Administration) at NHIC,
-a role she assumed in 2022, San San oversees various administrative tasks,
-including managing logistics and providing support to colleagues during
-events.</p>
+a role she assumed in 2022, San San oversees various corporate administrative
+roles, including managing senior management schedules, meeting logistics
+and providing support to colleagues during events.</p>
 <p>How did this self-proclaimed introvert thrive in a role which demands
 constant communication with people from various backgrounds and the ability
 to anticipate their needs? What fuels her passion? The joy of service and
@@ -69,13 +69,13 @@ the evolving nature of the job. "It's about being a jack of all trades,"
 she explained. As the main liaison of NHIC, she takes a proactive approach,
 always ready for any unexpected tasks which may fall outside the defined
 job scopes.</p>
-<p>In addition to assisting NHIC Director, Dr Pauline Tay, on managing her
-busy schedule and working closely with event organisers to manage her speaking
-engagements and industry event invitations, San San diligently checks in
-on the team's calendars at NHIC. This enables her to arrange meetings like
-team retreats and board meetings, reducing the risk of miscommunication
-and keep things running along smoothly for the entire team. Her attention
-to detail ensures she can readily provide assistance whenever required.</p>
+<p>In addition to assisting in planning key Board and Senior Management meetings,
+San San assists NHIC Director, Dr Pauline Tay, on managing engagements
+with healthcare ecosystem stakeholders and events. San San also diligently
+checks in on the team's calendars at NHIC, enabling her to arrange team
+retreats and meetings, reducing the risk of miscommunication and keeping
+things running along smoothly for the entire team. Her attention to detail
+ensures she can readily provide assistance whenever required.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Admin Professionals' Day/Ng_San_San_2.jpg">
 </div>
