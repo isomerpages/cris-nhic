@@ -135,6 +135,9 @@ the various processes, while still paying attention to the most minute
 details. With over 100 guests in attendance for the milestone event, San
 San meticulously gathered their dietary preferences, reviewed menus consistently
 and liaised with caterers to label all allergens accurately.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Admin Professionals' Day/Ng_San_San_5.jpg">
+</div>
 <p>When asked about the laborious nature of the process, San San highlighted
 the importance of thoroughness and added with a smile, “Although food is
 just one aspect of the event, our guests and VIPs should still feel reassured
@@ -146,6 +149,9 @@ gold crossbody strap, she uses apps such as Microsoft 365 and OneDrive
 to access information seamlessly. These tools allow her to check time-sensitive
 emails or retrieve necessary details on the fly”, free from the confines
 of her desk.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Admin Professionals' Day/Ng_San_San_6.jpg">
+</div>
 <p>Understanding the importance of keeping her skills relevant, San San regularly
 reads up on technologies that could enhance the efficiency of her work,
 such as apps which automate the mundane task of appointment scheduling
@@ -175,6 +181,9 @@ the number of grant schemes increased, so did her responsibilities. San
 San took up corporate support roles in procurement and secretariat duties
 for board meetings. However, she left a year and a half later due to family
 commitments.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Admin Professionals' Day/Ng_San_San_4.jpg">
+</div>
 <p>“NHIC is a different form of patient care. It provided me with opportunities
 to engage with the clinical community, collaborate with partners in the
 government sector and perhaps, play a part in advancing our local healthcare
@@ -195,6 +204,9 @@ portrayed lead heroes like Loki or Thor, San San chose to be a Dora Milaje,
 a supporting role in the movie but the loyal bodyguard of Black Panther;
 a character that reflected her comfort in providing support behind the
 scenes while having the competency to hold her own.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Admin Professionals' Day/Ng_San_San_7.jpg">
+</div>
 <p>Being an administrative professional is no longer a traditional deskbound
 job. Over decades, it has evolved into a multifaceted role today. On her
 LinkedIn, San San proudly wrote, “Service is in my blood and I find joy
@@ -206,7 +218,6 @@ grateful to him for recognising her potential.&nbsp;</p>
 <p>“He showed me that my reserved nature was not a limitation but rather
 a valuable asset I could use to support others,” San San reflects with
 a smile, as she calmly strides off to set up a meeting.
-<br>
 <br>
 </p>
 <p>
