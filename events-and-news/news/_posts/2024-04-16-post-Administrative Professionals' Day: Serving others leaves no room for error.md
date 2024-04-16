@@ -79,6 +79,8 @@ to detail ensures she can readily provide assistance whenever required.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Admin Professionals' Day/Ng_San_San_2.jpg">
 </div>
+<p><em>Checking in on calendars and arranging meetings without a hitch</em>
+</p>
 <p>Indeed, coordinating meetings starts with “finding the right slot”, everything
 else falls into place. After confirming a date, San San sends the visitors
 a comprehensive information kit. This includes a step-by-step directory
@@ -112,8 +114,9 @@ to her colleagues.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Admin Professionals' Day/Ng_San_San_3.jpg">
 </div>
-<p>
-<br>“Unlike most of my colleagues, I do not have formal scientific training,
+<p><em>San San (2<sup>nd</sup> from left) with her NHIC team at the Singapore Week of Innovation and Technology (SWITCH) tradeshow in 2023</em>
+</p>
+<p>“Unlike most of my colleagues, I do not have formal scientific training,
 but I want them to feel assured in relying on me,” she added.</p>
 <p>Hence, this “human help desk” seldom remains deskbound. At NHIC events
 or meetings, you’ll often find San San striding around, ensuring meeting
@@ -138,6 +141,8 @@ and liaised with caterers to label all allergens accurately.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Admin Professionals' Day/Ng_San_San_5.jpg">
 </div>
+<p><em>Ensuring catering stations were properly set up at the event</em>
+</p>
 <p>When asked about the laborious nature of the process, San San highlighted
 the importance of thoroughness and added with a smile, “Although food is
 just one aspect of the event, our guests and VIPs should still feel reassured
@@ -152,6 +157,8 @@ of her desk.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Admin Professionals' Day/Ng_San_San_6.jpg">
 </div>
+<p><em>San San’s crossbody strap and phone — a staple in getting her work done anywhere</em>
+</p>
 <p>Understanding the importance of keeping her skills relevant, San San regularly
 reads up on technologies that could enhance the efficiency of her work,
 such as apps which automate the mundane task of appointment scheduling
@@ -184,6 +191,8 @@ commitments.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Admin Professionals' Day/Ng_San_San_4.jpg">
 </div>
+<p><em>San San (4<sup>th</sup> from right) with the NHIC team at the SCRI Scientific Symposium in 2017</em>
+</p>
 <p>“NHIC is a different form of patient care. It provided me with opportunities
 to engage with the clinical community, collaborate with partners in the
 government sector and perhaps, play a part in advancing our local healthcare
@@ -207,6 +216,8 @@ scenes while having the competency to hold her own.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Admin Professionals' Day/Ng_San_San_7.jpg">
 </div>
+<p><em>The Marvel-lous NHIC team (San San 1<sup>st</sup> from left) at CRIS’ Dinner &amp; Dance</em>
+</p>
 <p>Being an administrative professional is no longer a traditional deskbound
 job. Over decades, it has evolved into a multifaceted role today. On her
 LinkedIn, San San proudly wrote, “Service is in my blood and I find joy
