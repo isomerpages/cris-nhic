@@ -217,18 +217,4 @@ always attribute to her mentor. Although he has since passed on, she remains
 grateful to him for recognising her potential.&nbsp;</p>
 <p>“He showed me that my reserved nature was not a limitation but rather
 a valuable asset I could use to support others,” San San reflects with
-a smile, as she calmly strides off to set up a meeting.
-<br>
-</p>
-<p>
-<br>
-<br>
-</p>
-<p>
-<br>
-<br>
-</p>
-<p>
-<br>
-</p>
-<p></p>
+a smile, as she calmly strides off to set up a meeting.</p>
