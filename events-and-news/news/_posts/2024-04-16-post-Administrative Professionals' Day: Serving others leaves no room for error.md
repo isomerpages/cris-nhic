@@ -10,7 +10,7 @@ variant: tiptap
 <h4><strong>Service at the heart of what she does – this administrative professional believes that serving others leaves no room for error</strong></h4>
 <p><em>Being an administrative professional is no longer a deskbound job, it has since evolved into a multifaceted role today. Administrative professionals now embrace a broader spectrum of responsibilities — from deconflicting schedules to events liaison to strategic stakeholder management; extending beyond traditional notions.</em>
 </p>
-<p><em>This Administrative Professionals' Day, we speak with </em><strong><em>Ng San San, Assistant Manager (Grants and Administration), National Innovation Healthcare Centre Singapore (NHIC)</em></strong><em>, as she shares her passion for the work it takes to support her team and remain ahead of the curve.</em>
+<p><em>This Administrative Professionals' Day, we speak with </em><strong><em>Ng San San, Assistant Manager (Grants and Administration), National Health Innovation Centre Singapore (NHIC)</em></strong><em>, as she shares her passion for the work it takes to support her team and remain ahead of the curve.</em>
 </p>
 <p>Growing up, San San preferred to listen, observe, and do her work quietly.
 While she usually knew the answers to questions, she didn’t feel the need
