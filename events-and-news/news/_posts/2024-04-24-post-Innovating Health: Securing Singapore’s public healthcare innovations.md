@@ -211,9 +211,8 @@ which can lead to increased treatment duration or even treatment failure.</p>
 <p>While studies have shown that such devices do relieve pain for cosmetic,
 non-medical procedures, there was no clinical-grade device that had been
 approved for use in a clinical setting. Hence, the research team sought
-to develop a device that can be used in a clinical setting. In the early
-days, this innovation received funding support from the NHG CMTi-NHIC JMT
-grant.</p>
+to develop a device that could meet this clinical need. In the early days,
+this innovation received funding support from the NHG CMTi-NHIC JMT grant.</p>
 <p>“We are also thankful for opportunities to be <a href="https://www.linkedin.com/posts/nhg-cmti_a-great-start-to-day-2-of-singapore-week-activity-7125298850168246272-4BMY" rel="noopener noreferrer nofollow" target="_blank">invited by NHIC to co-exhibit at trade events</a>.
 Interestingly, at last year’s Singapore Week of Innovation and Technology,
 this device’s commercialisation partner received its first overseas order
