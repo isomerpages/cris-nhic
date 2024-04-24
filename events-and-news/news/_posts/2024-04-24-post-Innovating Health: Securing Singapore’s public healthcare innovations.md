@@ -28,7 +28,7 @@ include:</p>
 </p>
 <p><em>In our conversations with representatives from each healthcare cluster, they share insights into the importance of protecting the IPs, success stories, and the ongoing collaborative efforts with NHIC to foster an ecosystem conducive to healthcare innovation.</em>
 </p>
-<h4><strong>Enabling collaborative innovation together with NHIC</strong> </h4>
+<h4><strong>Enabling collaborative innovation together with NHIC</strong></h4>
 <p>NHIC supports clinical innovations from ideation through development to
 commercialisation and adoption, powering the next generation of healthcare
 innovation. In particular, the <a href="https://www.nhic.sg/funding/protect-i2p/" rel="noopener noreferrer nofollow" target="_blank">Innovation to Protect (I2P) support scheme</a> provides
@@ -95,7 +95,7 @@ products with an eye for commercialisation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="CMTi support NHG’s clinician innovators to transform good ideas into an eventual product." src="/images/Resources/IP Day/3_NHG_CMTi.jpg">
 </div>
-<p><em>Hannah Chong, Assistant Manager (left) and Evangeline Ng, Manager (right) at CMTi support NHG’s clinician innovators to transform good ideas into an eventual product.</em> 
+<p><em>Hannah Chong, Assistant Manager (left) and Evangeline Ng, Manager (right) at CMTi support NHG’s clinician innovators to transform good ideas into an eventual product.</em>
 </p>
 <p></p>
 <p>“Over the years, the innovation culture in Singapore has shifted to steer
