@@ -3,10 +3,10 @@ title: "Innovating Health: Securing Singapore’s public healthcare innovations"
 permalink: /innovating-health-securing-singapores-public-healthcare-innovations/
 date: 2024-04-24
 layout: post
-description: "This World Intellectual Property Day, we shine a spotlight on how
+description: This World Intellectual Property Day, we shine a spotlight on how
   the National Health Innovation Centre (NHIC) partners with the three public
   healthcare clusters to ensure that clinician innovators have the means to
-  protect their original ideas and maintain a competitive edge. "
+  protect their original ideas and maintain a competitive edge.
 image: /images/Programmes/img-20230822-wa0032 revised.jpg
 variant: tiptap
 ---
