@@ -44,7 +44,7 @@ support to navigate the process of commercialisation and market access
 including applying for IP rights effectively.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="NUHS Research Office provides support to researchers and investigators in their innovation journey" src="/images/Resources/IP Day/1_NUHS.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="NUHS Research Office provides support to researchers and investigators in their innovation journey" src="/images/Resources/IP Day/1_NUHS.jpg">
 </div>
 <p><em>Dr Alfred Chia, Senior Assistant Director (left) and Zhang Bo, Senior Executive (right) at NUHS Research Office provide support to researchers and investigators across NUHS at every step of the innovation journey to help them stay at the forefront of innovation in healthcare.</em>
 </p>
@@ -71,7 +71,7 @@ it should be filed before the researcher publishes or publicly discloses
 their invention. As such, education of researchers is of pivotal importance.”</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="SHIP guides clinicians and researchers towards protecting their inventions" src="/images/Resources/IP Day/2_SHIP.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="SHIP guides clinicians and researchers towards protecting their inventions" src="/images/Resources/IP Day/2_SHIP.jpg">
 </div>
 <p><em>Dr Erin Teo, Assistant Director (left) and Chole Chu, Assistant Manager (right) at SHIP guide clinicians and researchers towards protecting their inventions and moving it along commercialisation pathways that will improve the lives of patients and deliver better healthcare.</em>
 </p>
@@ -96,7 +96,7 @@ collaborations, and the development of clinicians’ ideas into tangible
 products with an eye for commercialisation.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="CMTi support NHG’s clinician innovators to transform good ideas into an eventual product." src="/images/Resources/IP Day/3_NHG_CMTi.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="CMTi support NHG’s clinician innovators to transform good ideas into an eventual product." src="/images/Resources/IP Day/3_NHG_CMTi.jpg">
 </div>
 <p><em>Hannah Chong, Assistant Manager (left) and Evangeline Ng, Manager (right) at CMTi support NHG’s clinician innovators to transform good ideas into an eventual product.</em>
 </p>
