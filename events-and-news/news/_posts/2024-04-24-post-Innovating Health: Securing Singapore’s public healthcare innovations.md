@@ -10,7 +10,7 @@ description: This World Intellectual Property Day, we shine a spotlight on how
 image: /images/Programmes/img-20230822-wa0032 revised.jpg
 variant: tiptap
 ---
-<p><em>The journey from healthcare innovation to commercialisation is multi-faceted, requiring funding, strategic planning and partnerships, along with robust IP protection strategies.  IP rights, patents, and licensing are essential components of an effective IP strategy, which allows the protection and scaling of innovative ideas with the potential for wide-reaching impact.</em>
+<p><em>The journey from healthcare innovation to commercialisation is multi-faceted, requiring funding, strategic planning and partnerships, along with robust IP protection strategies. IP rights, patents, and licensing are essential components of an effective IP strategy, which allows the protection and scaling of innovative ideas with the potential for wide-reaching impact.</em>
 </p>
 <p><em>This </em><strong><em>World Intellectual Property Day</em></strong><em>, we shine a spotlight on how the National Health Innovation Centre (NHIC) partners with the three public healthcare clusters to ensure that clinician innovators have the means to protect their original ideas and maintain a competitive edge. </em>These
 include:</p>
@@ -91,9 +91,9 @@ trials, and coordinate their implementation and adoption. Additionally,
 CMTi provides NHG PIs access to venture building networks, where budding
 start-ups and spin-offs are formed and supported, contributing to a conducive
 ecosystem for innovation.&nbsp;</p>
-<p>Oiling the I&amp;E ecosystem would be through IP management, cross-institution
-collaborations, and the development of clinicians’ ideas into tangible
-products with an eye for commercialisation.</p>
+<p>In this way, the NHG CMTi I&amp;E ecosystem is well-oiled to oversee IP
+management, cross-institution collaborations, and drive the development
+of clinicians’ ideas towards tangible products with an eye for commercialisation.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="CMTi support NHG’s clinician innovators to transform good ideas into an eventual product." src="/images/Resources/IP Day/3_NHG_CMTi.jpg">
@@ -201,10 +201,9 @@ PIs and researchers are successful in their grant applications for their
 IP, it motivates other innovators to get their IP applications backed by
 a national programme office such as NHIC,” he added.</p>
 </blockquote>
-<p>Hannah from NHG also highlighted another memorable innovation from the
-National Skin Centre (NSC), which developed a clinical-grade pain alleviation
-device that provides vibrational stimulus to relief discomfort on the skin
-and offer pain management during cryotherapy.</p>
+<p>Hannah from NHG also highlighted another memorable innovation, a clinical-grade
+pain alleviation device that provides vibrational stimulus to relief discomfort
+on the skin and offer pain management during cryotherapy.</p>
 <p>Cryotherapy uses liquid nitrogen at extremely cold temperatures to freeze
 and remove warts and other benign skin lesions.&nbsp; It is a common outpatient
 procedure, however, it can cause pre-procedural anxiety in pediatric patients
