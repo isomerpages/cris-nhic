@@ -10,7 +10,7 @@ description: This World Intellectual Property Day, we shine a spotlight on how
 image: /images/Programmes/img-20230822-wa0032 revised.jpg
 variant: tiptap
 ---
-<p><em>The journey from healthcare innovation to commercialisation is multi-faceted, requiring funding, strategic planning and partnerships, along with robust IP protection and strategies. IP rights, patents, and licensing are essential components of an effective IP strategy, which allows the protection and scaling of innovative ideas with the potential for wide-reaching impact.</em>
+<p><em>The journey from healthcare innovation to commercialisation is multi-faceted, requiring collaboration, strategic planning and partnerships, along with robust IP protection and strategies. IP rights, patents, and licensing are essential components of an effective IP strategy, which allows the protection and scaling of innovative ideas with the potential for wide-reaching impact.</em>
 </p>
 <p><em>This </em><strong><em>World Intellectual Property Day</em></strong><em>, we shine a spotlight on how the National Health Innovation Centre (NHIC) partners with the three public healthcare clusters to assist clinician innovators in protecting their original ideas and maintain a competitive edge. </em>These
 include:</p>
