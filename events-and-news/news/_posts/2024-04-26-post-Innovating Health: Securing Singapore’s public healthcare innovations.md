@@ -206,7 +206,7 @@ National Skin Centre (NSC), which developed a clinical-grade pain alleviation
 device that provides vibrational stimulus to relief discomfort on the skin
 and offer pain management during dermatological procedures such as cryotherapy.</p>
 <p>This pain alleviation device addresses a gap in the clinical setting,
-and presentations about its technology and how it works been well received
+and presentations about its technology and how it works has been well received
 by dermatologists at both local and international conferences.</p>
 <p>In the early days, this innovation received funding support from the NHG
 CMTi-NHIC JMT grant. Along the development pathway, this device was also
