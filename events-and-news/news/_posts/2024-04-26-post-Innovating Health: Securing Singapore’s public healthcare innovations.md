@@ -205,17 +205,9 @@ a national programme office such as NHIC,” he added.</p>
 National Skin Centre (NSC), which developed a clinical-grade pain alleviation
 device that provides vibrational stimulus to relief discomfort on the skin
 and offer pain management during dermatological procedures such as cryotherapy.</p>
-<p>Cryotherapy uses liquid nitrogen at extremely cold temperatures to freeze
-and remove warts and other benign skin lesions.&nbsp; It is a common outpatient
-procedure, however, it can cause pre-procedural anxiety in pediatric patients
-which can lead to increased treatment duration or even treatment failure.</p>
 <p>The pain alleviation device addresses a gap in the clinical setting and
 has been well received by dermatologists at both local and international
 conferences. It was also licensed to an industry partner for further commercialisation.</p>
-<p>While studies have shown that such devices do relieve pain for cosmetic,
-non-medical procedures, there was no clinical-grade device that had been
-approved for use in a clinical setting. Hence, the research team sought
-to develop a device that could meet this clinical need.</p>
 <p>In the early days, this innovation received funding support from the NHG
 CMTi-NHIC JMT grant.</p>
 <p>“We are also thankful for opportunities to be invited by NHIC to co-exhibit
