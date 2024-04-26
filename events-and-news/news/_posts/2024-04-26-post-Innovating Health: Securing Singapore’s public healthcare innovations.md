@@ -127,7 +127,7 @@ technology transfer stage would take a relatively longer runway,” said <strong
 <p></p>
 <p>To alleviate some of these challenges, NHIC jointly collaborates with
 each of the public healthcare clusters in setting up <a href="https://www.nhic.sg/programmes/funding/joint-medtech-grants/" rel="noopener noreferrer nofollow" target="_blank">Joint MedTech Grant (JMT)</a> to
-support and propel the technology readiness level of the early-stage innovation.</p>
+support and propel the technology readiness level of early-stage innovations.</p>
 <p></p>
 <blockquote>
 <p>Both Evangeline and Hannah shared that the synergy between CMTi and NHIC
