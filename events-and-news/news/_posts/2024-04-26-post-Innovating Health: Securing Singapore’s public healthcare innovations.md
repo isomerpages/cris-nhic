@@ -147,11 +147,10 @@ analyse skin images from consumer-grade cameras. The software provides
 a fast and accurate method to detect high risk or malignant skin lesions.
 It eliminates the need for bulky or multiple devices to capture and transfer
 skin images for analysis, allowing for prompt follow-up care for patients.</p>
-<p>Another innovation that Evangeline highlighted is an ongoing project where
-the PI is developing a first-of-its-kind non-invasive device that uses
-magnets and blood flow sensing technology to assess patients’ blood vessels
-for signs of inflammation and detect potential vascular complications in
-people with diabetes.</p>
+<p>Evangeline also highlighted an ongoing project where the PI is developing
+a first-of-its-kind non-invasive device that uses magnets and blood flow
+sensing technology to assess patients’ blood vessels for signs of inflammation
+and detect potential vascular complications in people with diabetes.</p>
 <p>With NHIC’s support, the patent was filed together with a local polytechnic.
 The project has also garnered funding support from NHIC’s <a href="https://www.nhic.sg/funding/develop-i2d/" rel="noopener noreferrer nofollow" target="_blank">Innovation to Develop (I2D)</a> grant
 and progressed to receive the <a href="https://www.nhic.sg/funding/industry-i2i/" rel="noopener noreferrer nofollow" target="_blank">Innovation to Industry (I2I)</a> grant
@@ -201,10 +200,10 @@ PIs and researchers are successful in their grant applications for their
 IP, it motivates other innovators to get their IP applications backed by
 a national programme office such as NHIC,” he added.</p>
 </blockquote>
-<p>Hannah from NHG also highlighted another memorable innovation from the
-National Skin Centre (NSC), which developed a clinical-grade pain alleviation
-device that provides vibrational stimulus to relief discomfort on the skin
-and offer pain management during dermatological procedures such as cryotherapy.</p>
+<p>Hannah from NHG also highlighted a memorable innovation from the National
+Skin Centre (NSC), which developed a clinical-grade pain alleviation device
+that provides vibrational stimulus to relief discomfort on the skin and
+offer pain management during dermatological procedures such as cryotherapy.</p>
 <p>This pain alleviation device addresses a gap in the clinical setting,
 and presentations about its technology and how it works has been well received
 by dermatologists at both local and international conferences.</p>
