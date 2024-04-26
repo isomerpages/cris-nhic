@@ -205,13 +205,14 @@ a national programme office such as NHIC,” he added.</p>
 National Skin Centre (NSC), which developed a clinical-grade pain alleviation
 device that provides vibrational stimulus to relief discomfort on the skin
 and offer pain management during dermatological procedures such as cryotherapy.</p>
-<p>The pain alleviation device addresses a gap in the clinical setting and
-has been well received by dermatologists at both local and international
-conferences. It was also licensed to an industry partner for further commercialisation.</p>
+<p>This pain alleviation device addresses a gap in the clinical setting,
+and presentations about its technology and how it works been well received
+by dermatologists at both local and international conferences.</p>
 <p>In the early days, this innovation received funding support from the NHG
-CMTi-NHIC JMT grant.</p>
+CMTi-NHIC JMT grant. Along the development pathway, this device was also
+licensed to an industry partner for further commercialisation.</p>
 <p>“We are also thankful for opportunities to be invited by NHIC to co-exhibit
-at trad events. Interestingly, at the Singapore Week of Innovation and
+at trade events. Interestingly, at the Singapore Week of Innovation and
 Technology (SWITCH) 2022, the device was showcased within NHIC's booth
 and this innovation's commercialisation partner received its first overseas
 order at the event,” said Hannah.</p>
