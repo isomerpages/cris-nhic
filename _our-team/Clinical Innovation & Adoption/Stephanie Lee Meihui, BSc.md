@@ -6,8 +6,9 @@ description: ""
 third_nav_title: Clinical Innovation & Adoption
 ---
 <h4><strong>Manager (Biomed)</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/About/Our Team/Innovation and Enterprise/StephanieLee_Bio.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Stephanie Lee" src="/images/About/Our Team/Clinical Innovation &amp; Adoption/StephanieLee_Bio.jpg">
 </div>
 <p>Stephanie's journey began at the Ministry of Health's Health Regulation
 Group. Her diverse portfolio included legislative policy development, process
