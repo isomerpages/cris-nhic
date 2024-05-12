@@ -6,8 +6,9 @@ description: Wendy Yep
 third_nav_title: Clinical Innovation & Adoption
 ---
 <h4><strong>Senior Executive, Grants and Administration</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="Wendy Yep" src="/images/About/Our Team/Administrative Team/WendyYep_Bio.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Wendy Yep" src="/images/About/Our Team/Clinical Innovation &amp; Adoption/WendyYep_Bio.jpg">
 </div>
 <p>Wendy graduated from Ngee Ann Polytechnic with a Diploma in Building and
 Real Estate Management. Prior to NHIC, she was with Frasers Property and
