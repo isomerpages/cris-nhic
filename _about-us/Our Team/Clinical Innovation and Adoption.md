@@ -18,7 +18,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-team/clinical-innovation-adoption/alison-cheng"><img style="width: 100%" height="auto" width="100%" alt="Alison Cheng" src="/images/About/Our Team/Clinical Innovation &amp; Adoption/AlisonCheng.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-team/clinical-innovation-adoption/alison-cheng-yi-hui/"><img style="width: 100%" height="auto" width="100%" alt="Alison Cheng" src="/images/About/Our Team/Clinical Innovation &amp; Adoption/AlisonCheng.jpg"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-team/clinical-innovation-adoption/wendy-yep"><img style="width: 100%" height="auto" width="100%" alt="Wendy Yep" src="/images/About/Our Team/Clinical Innovation &amp; Adoption/WendyYep.jpg"></a>
 </td>
