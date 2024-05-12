@@ -31,7 +31,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Shermaine Kwan" src="/images/About/Our Team/Innovation and Enterprise/ShermaineKwan.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ng San San" src="/images/About/Our Team/Innovation and Enterprise/NgSanSan.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Kerrine Too" src="/images/About/Our Team/Innovation and Enterprise/KerrineToo.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
