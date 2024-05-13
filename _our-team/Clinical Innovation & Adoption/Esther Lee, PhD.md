@@ -1,9 +1,9 @@
 ---
 title: Esther Lee, PhD
-permalink: /our-team/innovation-and-enterprise/esther-lee/
+permalink: /our-team/clinical-innovation-adoption/esther-lee/
 variant: tiptap
-description: Esther Lee
-third_nav_title: Innovation & Enterprise
+description: ""
+third_nav_title: Clinical Innovation & Adoption
 ---
 <h4><strong>Senior Manager (Biomed)</strong></h4>
 <div class="isomer-image-wrapper">

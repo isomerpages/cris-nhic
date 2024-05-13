@@ -1,13 +1,14 @@
 ---
 title: Ng San San
-permalink: /our-team/administrative/ng-san-san/
+permalink: /our-team/innovation-and-enterprise/ng-san-san/
 variant: tiptap
 description: Ng San San
-third_nav_title: Administrative
+third_nav_title: Innovation & Enterprise
 ---
 <h4><strong>Assistant Manager, Grants and Administration</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="Ng San San" src="/images/About/Our Team/Administrative Team/NgSanSan_Bio.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Ng San San" src="/images/About/Our Team/Innovation and Enterprise/NgSanSan_Bio.jpg">
 </div>
 <p>Having been trained financially with a Diploma from Association of Chartered
 Certified Accountants, San San has always been grateful for the opportunities

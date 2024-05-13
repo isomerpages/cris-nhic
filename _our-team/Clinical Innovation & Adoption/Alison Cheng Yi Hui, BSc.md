@@ -1,14 +1,14 @@
 ---
 title: Alison Cheng Yi Hui, BSc
-permalink: /our-team/innovation-and-enterprise/alison-cheng-yi-hui/
+permalink: /our-team/clinical-innovation-adoption/alison-cheng-yi-hui/
 variant: tiptap
 description: ""
-third_nav_title: Innovation & Enterprise
+third_nav_title: Clinical Innovation & Adoption
 ---
 <h4><strong>Manager (Biomed)</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="Alison Cheng" src="/images/About/Our Team/Innovation and Enterprise/AlisonCheng_Bio.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Alison Cheng" src="/images/About/Our Team/Clinical Innovation &amp; Adoption/AlisonCheng_Bio.jpg">
 </div>
 <p>Alison has nearly 17 years of healthcare experience spanning both the
 private and public sectors. Her healthcare journey began at Eagle Eye Centre
