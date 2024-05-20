@@ -125,6 +125,26 @@ projects to be market-ready and investable. NHIC has established more than
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Openspace" src="/images/Partners Icons/CADRE2/cadre_logos_openspace.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Heritas Capital" src="/images/Partners Icons/CADRE2/cadre_logos_heritascaptial.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="elev8.vc" src="/images/Partners Icons/CADRE2/cadre_logos_elev8vc.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

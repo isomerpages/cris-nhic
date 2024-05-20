@@ -1,6 +1,6 @@
 ---
 title: Ng Yi Zhen
-permalink: /our-team/iande-placement-programme/ng-yi-zhen/
+permalink: /our-team/ie-placement-programme/ng-yi-zhen/
 variant: tiptap
 description: Ng Yi Zhen
 third_nav_title: I&E Placement Programme
