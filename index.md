@@ -7,17 +7,23 @@ description: >-
   Singapore to identify and commercialise promising clinical innovations.
 
 
-  It funds the translation and development of medical innovations from Singapore’s clinical sector, and provide strategic guidance and connection to industry partners, accelerating the pathway to impact in healthcare. NHIC programmes catalyse the translation of clinical innovations towards commercially viable products that benefit patients and healthcare.
+  It funds the translation and development of medical innovations from
+  Singapore’s clinical sector, and provide strategic guidance and connection to
+  industry partners, accelerating the pathway to impact in healthcare. NHIC
+  programmes catalyse the translation of clinical innovations towards
+  commercially viable products that benefit patients and healthcare.
 
 
-  Established since 2014, it has supported many projects and companies in the development and implementation of innovative medical technologies and services, improving the standard of healthcare in Singapore and beyond.
+  Established since 2014, it has supported many projects and companies in the
+  development and implementation of innovative medical technologies and
+  services, improving the standard of healthcare in Singapore and beyond.
 image: /images/Zz   NHIC logo/nhic logo.png
 permalink: /
 notification: ""
 sections:
   - hero:
       title: Powering the Next Generation of Healthcare Innovation
-      background: /images/Homepage/homepage banner-min.jpeg
+      background: /images/Homepage/nhic10_web_banner_v1.jpg
       key_highlights:
         - title: Funding
           description: Impactful Health Innovations
@@ -28,6 +34,7 @@ sections:
         - title: Talent Development
           description: Develop Tri-Competent Talent
           url: /programmes/talent-development
+      variant: image
   - infopic:
       title: Accelerating clinical innovation journey
       description: How does NHIC accelerate the translation of clinical innovations
