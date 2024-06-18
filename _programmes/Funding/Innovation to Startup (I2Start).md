@@ -113,8 +113,8 @@ respectively.</p>
 <a href="http://www.nmrc.gov.sg/downloads" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions</a>.</p>
 <h5><strong>Grant Call</strong></h5>
 <p><a href="https://for.sg/nhic-i2start-loi" rel="noopener noreferrer nofollow" target="_blank">Letter of Intent</a>&nbsp;call
-for 2023 will be open for applications on 3rd April 2023. The closing date
-is on 02 June 2023.</p>
+for 2024 is now open for applications. The closing date is on 02 September
+2024.</p>
 <h5><strong>Submission details</strong></h5>
 <p>The&nbsp;<a href="https://for.sg/nhic-i2start-loi" rel="noopener noreferrer nofollow" target="_blank">Letter of Intent</a>&nbsp;must
 be submitted by Lead PI to the I2Start Grant Secretariat at&nbsp;<a href="mailto:grant@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">grant@nhic.cris.sg</a>.</p>
