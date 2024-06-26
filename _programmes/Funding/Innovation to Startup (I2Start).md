@@ -81,12 +81,12 @@ agencies.</p>
 into Phase 2, where it will be funded under NHIC I2D grant^. In parallel,
 ENTERPRISE SINGAPORE will provide a Letter of Intent to support the continuation
 of the project through the formation of a startup company.</p>
-<p>Upon meeting the approved Phase 2 milestones and the required requisites**,
+<p>Upon meeting the approved Phase 2 milestones and the required requisites*,
 the project will transit into Phase 3, whereby the startup company will
 be supported under Startup SG Tech POC/POV grant^. (To find out more general
 information about the ENTERPRISE SINGAPORE Startup SG Tech grant, please
 visit&nbsp;<a href="https://www.startupsg.gov.sg/programmes/4897/startup-sg-tech/frequently-asked-questions" rel="noopener noreferrer nofollow" target="_blank">Startup SG Tech</a>).</p>
-<p><strong>** Requisites:</strong>
+<p><strong>* Requisites:</strong>
 <br>(1) Incorporate a company (start-up) with key members hired full-time
 with at least 30% local shareholding, and
 <br>(2) License the IPs developed at SMART/ NHIC phase (Licensing agreement)</p>
