@@ -101,7 +101,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17 Oct 2022</p>
+<p>20 August 2024</p>
 </td>
 </tr>
 <tr>
