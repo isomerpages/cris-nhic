@@ -24,7 +24,8 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-team/innovation-and-enterprise/zhang-hanzhong/"><img style="width: 100%;" height="auto" width="100%" alt="Zhang Hanzhong" src="/images/About/Our Team/Innovation and Enterprise/ZhangHanzhong.JPG"></a>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-team/innovation-and-enterprise/smitha-velayil/"><img style="width: 100%;" height="auto" width="100%" alt="Smitha Velayil" src="/images/About/Our Team/Innovation and Enterprise/SmithaVelayil.JPG"></a>
 </td>
