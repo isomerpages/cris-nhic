@@ -1,8 +1,0 @@
----
-title: Zhang Hanzhong, PhD
-permalink: /our-team/innovation-and-enterprise/zhang-hanzhong/
-variant: tiptap
-description: Zhang Han Zhong
-third_nav_title: Innovation & Enterprise
----
-<h4><strong>Manager (Medtech)</strong></h4><p></p><div class="isomer-image-wrapper"><img style="width: 40%;" height="auto" width="100%" alt="Zhang Hanzhong" src="/images/About/Our Team/Innovation and Enterprise/ZhangHanzhong_Bio.jpg"></div><p>Before joining NHIC, Hanzhong was a Biodesign Fellow with Singapore-Stanford Biodesign Program established between the Agency for Science, Technology and Research (A*STAR), the Economic Development Board (EDB), and Stanford University, where he received intensive trainings on the entire value chain of medtech innovation. During his fellowship, Hanzhong immersed himself into the clinical practices in hospitals in Asia and United States, worked closely with healthcare professionals to identify clinical needs, develop novel solutions and analyse business strategies beyond technologies. Prior to his SSB fellowship, Hanzhong has worked in Singapore healthcare and medtech industries, taking charge to evaluate and apply novel technologies in clinical settings, as well as to develop technical solutions and lead projects for medical device enhancement and maintenance.</p><p>Hanzhong holds an MSc degree in Biomedical Engineering and a BEng degree in Electrical Engineering. He serves as an advisor in the Biomedical Engineering Society (Singapore), and a collaborator of the International Federation of Medical and Biological Engineering (IFMBE) Clinical Engineering Division.</p><p></p>
