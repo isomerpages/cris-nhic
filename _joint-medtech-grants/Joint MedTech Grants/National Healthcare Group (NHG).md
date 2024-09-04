@@ -56,5 +56,5 @@ projects, please click <a href="https://for.sg/awardednhg" rel="noopener norefer
 <p>For more information about this grant, please visit this link and contact
 your Host Institution’s Research Office:</p>
 <p>Ms Evangeline Ng
-<br>Email:&nbsp;<a href="mailto:Evangeline_Yy_NG@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">Evangeline_Yy_NG@nhg.com.sg</a>
+<br>Email:&nbsp;<a href="mailto:TRO@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">TRO@nhg.com.sg</a>
 </p>
