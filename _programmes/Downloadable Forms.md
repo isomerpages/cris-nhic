@@ -227,7 +227,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27 June 2024</p>
+<p>05 September 2024</p>
 </td>
 </tr>
 <tr>
@@ -239,7 +239,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11 Apr 2024</p>
+<p>05 September 2024</p>
 </td>
 </tr>
 </tbody>
