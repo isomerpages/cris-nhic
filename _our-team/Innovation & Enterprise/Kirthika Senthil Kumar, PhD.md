@@ -6,6 +6,9 @@ description: Kirthika Senthil Kumar
 third_nav_title: Innovation & Enterprise
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="Kirthika Senthil Kumar" src="/images/About/Our Team/Innovation and Enterprise/Kirthika_Bio.jpg">
+</div>
 <p></p>
 <p>Dr. Kirthika Kumar holds a Ph.D from the National University of Singapore
 and has over seven years of research and engineering experience resulting
