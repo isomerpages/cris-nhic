@@ -1,0 +1,7 @@
+collections:
+  archive:
+    output: true
+    order:
+      - Ng Yi Zhen.md
+      - Alison Cheng Yi Hui, BSc.md
+      - Zhang Hanzhong, PhD.md

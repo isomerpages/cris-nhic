@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h4></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -30,11 +34,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Kenneth Kwek" src="/images/About/Oversight Committee/KennethKwek.JPG">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Irene Chong" src="/images/About/Oversight Committee/IreneChong.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="Irene Cheong" src="/images/About/Oversight Committee/IreneCheong.jpg">
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ng Choon Peng" src="/images/About/Oversight Committee/NgChoonPeng.JPG">
@@ -54,11 +56,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Soh Leng Wan" src="/images/About/Oversight Committee/SohLengWan.JPG">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Lim Jui" src="/images/About/Oversight Committee/LimJui.JPG">
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sidney Yee" src="/images/About/Oversight Committee/SidneyYee.JPG">

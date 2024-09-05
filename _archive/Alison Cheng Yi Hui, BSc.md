@@ -3,7 +3,6 @@ title: Alison Cheng Yi Hui, BSc
 permalink: /our-team/clinical-innovation-adoption/alison-cheng-yi-hui/
 variant: tiptap
 description: ""
-third_nav_title: Clinical Innovation & Adoption
 ---
 <h4><strong>Manager (Biomed)</strong></h4>
 <p></p>
