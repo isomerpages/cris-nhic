@@ -37,16 +37,16 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p><strong>Which Innovation and Enterprise Office (IEO) manages the submission of the National Research Foundation (NRF) Central Gap applications for the Public Healthcare Institutions?</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>NHIC is the designated Innovation and Enterprise Office (IEO) for public
 hospitals, public health institutions, and National Specialty Centres.
 Please send your Central Gap related inquiries to&nbsp;<a href="mailto:enquiry@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">enquiry@nhic.cris.sg.</a>
 </p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -54,15 +54,9 @@ Please send your Central Gap related inquiries to&nbsp;<a href="mailto:enquiry@n
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>All Central Gap applications from the public healthcare institutions must
+be endorsed by NHIC. Please speak to the respective NHIC Cluster manager
+if you are interested in applying for the Central Gap Fund.</p>
 </td>
 </tr>
 </tbody>
@@ -73,13 +67,11 @@ Please send your Central Gap related inquiries to&nbsp;<a href="mailto:enquiry@n
 <p></p>
 </li>
 </ul>
-<p><strong>2. </strong>
+<p><strong>2.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>All Central Gap applications from the public healthcare institutions must
-be endorsed by NHIC. Please speak to the respective NHIC Cluster manager
-if you are interested in applying for the Central Gap Fund.</p>
+<p></p>
 </li>
 </ul>
 <table style="minWidth: 50px">
@@ -101,7 +93,7 @@ if you are interested in applying for the Central Gap Fund.</p>
 <p>SingHealth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Esther Lee, Dr Zhang Hanzhong</p>
+<p>Dr Esther Lee, Dr Stephanie Lee</p>
 </td>
 </tr>
 <tr>
