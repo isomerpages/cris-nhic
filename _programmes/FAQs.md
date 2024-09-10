@@ -64,6 +64,46 @@ Please send your Central Gap related inquiries to&nbsp;<a href="mailto:enquiry@n
 <p>All Central Gap applications from the public healthcare institutions must
 be endorsed by NHIC. Please speak to the respective NHIC Cluster manager
 if you are interested in applying for the Central Gap Fund.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Healthcare Cluster</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NHIC Cluster Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SingHealth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Esther Lee, Dr Stephanie Lee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NHG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Michael Ho, Dr Chuah Yon Jin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUHS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Tan Ee Lim, Dr Smitha Velayil</p>
+</td>
+</tr>
+</tbody>
+</table>
 </td>
 </tr>
 </tbody>
