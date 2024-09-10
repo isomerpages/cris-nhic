@@ -30,13 +30,17 @@ variant: tiptap
 <h3><strong>Grant Administration</strong></h3>
 <p></p>
 <h5><strong>NRF Central Gap Fund</strong></h5>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p>1.</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><strong>Which Innovation and Enterprise Office (IEO) manages the submission of the National Research Foundation (NRF) Central Gap applications for the Public Healthcare Institutions?</strong>
 </p>
@@ -49,6 +53,9 @@ Please send your Central Gap related inquiries to&nbsp;<a href="mailto:enquiry@n
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>2.</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><strong>How do I apply for the National Research Foundation (NRF) Central Gap Fund?</strong>
 </p>
