@@ -243,16 +243,6 @@ where relevant?
 </tr>
 </tbody>
 </table>
-<p>All applicants, regardless of shortlisted or non-shortlisted will be provided
-feedback.</p>
-<p>Only shortlisted applicants are allowed to provide written rebuttal on
-reviewer feedback and present a 15 minutes’ slide presentation to NHIC
-Evaluation Panel, comprising of experts from academic, clinical, industry,
-investments, regulatory and commercial backgrounds. Funding for projects
-recommended by Evaluation Panel is then subject to approval by the NHIC
-Oversight Committee.</p>
-<p>The maximum timeline from grant application submission to funding decision
-is 16 weeks per grant call.</p>
 <p>For further queries on NHIC I2D grant, please contact NHIC I2D Grant Secretariat
 at&nbsp;<a href="mailto:grant@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">grant@nhic.cris.sg</a>.</p>
 <h5><strong>List of Awarded Projects</strong></h5>
