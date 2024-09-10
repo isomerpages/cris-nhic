@@ -48,7 +48,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>NHIC is the designated Innovation and Enterprise Office (IEO) for public
 hospitals, public health institutions, and National Specialty Centres.
-Please send your Central Gap related inquiries to&nbsp;<a href="mailto:enquiry@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">enquiry@nhic.cris.sg.</a>
+Please send your Central Gap related inquiries to <a href="mailto:grant@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">grant@nhic.cris.sg</a>
 </p>
 </td>
 </tr>
@@ -85,7 +85,7 @@ if you are interested in applying for the Central Gap Fund.</p>
 <p>SingHealth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Esther Lee, Dr Stephanie Lee</p>
+<p>Dr Esther Lee, Stephanie Lee</p>
 </td>
 </tr>
 <tr>
@@ -101,7 +101,8 @@ if you are interested in applying for the Central Gap Fund.</p>
 <p>NUHS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Tan Ee Lim, Dr Smitha Velayil</p>
+<p>Dr Tan Ee Lim, Smitha Velayil,
+<br>Dr Kirthika Senthil Kumar</p>
 </td>
 </tr>
 </tbody>
@@ -330,15 +331,15 @@ training programmes and pedagogies not associated with the new technology.</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>4. </strong>
+<p><strong>4.</strong>
 </p>
 <p></p>
-<p><strong>5. </strong>
+<p><strong>5.</strong>
 </p>
 <p></p>
-<p><strong>6. </strong>
+<p><strong>6.</strong>
 </p>
-<p><strong>7. </strong>
+<p><strong>7.</strong>
 </p>
 <p></p>
 <p><strong>8. What stage of technology will I2Adopt support?</strong>
@@ -454,7 +455,8 @@ potential.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This scheme, by NHIC invitation only, funds healthcare-related projects
-which have successfully completed I2D funding.</p>
+which have successfully completed I2D funding (or equivalent as deemed
+appropriate by NHIC).</p>
 </td>
 </tr>
 </tbody>
@@ -536,13 +538,12 @@ must speak with your NHIC Innovation Manager for more details.</p>
 <p><strong>4. When are the deadlines for application submission?</strong>
 </p>
 <p><strong>I2D Grant:</strong>&nbsp;The due date for grant application submission
-falls on the first Friday, 5pm of each April, August, and December. If
+falls on the first Friday, 5pm of each February, June, and October. If
 the due date falls on a public holiday, the submission deadline is next
 business day. For confirmation of dates and application forms, see nhic.sg.</p>
-<p><strong>I2Start Program</strong>: There is no deadline for the submission
-of I2S Letter of Intent. The Letter of Intent (LOI) will be accepted on
-a rolling basis throughout the year and will be batch processed by the
-I2S Program Team.</p>
+<p><strong>I2Start Program</strong>: The Letter of Intent (LOI) must be submitted
+by Lead PI to the I2Start Grant Secretariat at <a href="mailto:grant@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">grant@nhic.cris.sg</a>. For I2S LOI submission
+date, see nhic.sg.</p>
 <p><strong>I2P Scheme:</strong>&nbsp;There is no deadline for I2P applications;
 the application should be lodged before the respective patent action is
 undertaken.</p>
@@ -552,11 +553,10 @@ undertaken.</p>
 I2D and I2I grants.</p>
 <p>A maximum of 30% Indirect Research Cost is allowable during NHIC Phase
 in the I2Start Program.</p>
-<p><strong>6. How can i check the outcome of my I2D grant application?</strong>
+<p><strong>6. How can I check the outcome of my I2D grant application?</strong>
 </p>
 <p>You will receive an email notification on the outcome of your I2D grant
-application from the NHIC Grant Secretariat within six (6) weeks of the
-submission date.</p>
+application from the NHIC Grant Secretariat.</p>
 <p></p>
 <h5><strong>Post-Award</strong></h5>
 <p><strong>1. How do I request a budget variation? (applicable only to the I2D/I2I grant)</strong>
@@ -611,14 +611,9 @@ your Research/Innovation Office to NHIC for approval.</p>
 <p><strong>5. When and how do I submit my progress report?</strong>
 </p>
 <p>The Principal Investigator of the awarded I2D project is required to submit
-a Quarterly Progress Report (NHIC-GEN-FORM-20) to NHIC Grant Secretariat.
-The Progress Report is due on a quarterly basis, within thirty (30) days
-after the close of the quarter.</p>
-<p>The submission of a Quarterly Progress Report is waived if the project
-commencement date is less than three (3) months from the progress report
-reporting period. For example, if the project commencement date is 01 July
-2017, the first progress report reporting period will be Oct – Dec 2017.
-A Quarterly Progress Report is not required for the final quarter.</p>
+a Half-Yearly Progress Report (NHIC-GEN-FORM-20) to NHIC Grant Secretariat.
+The Progress Report is due on half-yearly basis, within thirty (30) days
+after the end of each reporting period.</p>
 <p>Submit the Progress Report to your Host Institution Research Office or
 Healthcare Cluster Research/Innovation Office. Your Research/Innovation
 Office will collate the report and submit to NHIC Grant Secretariat.</p>
@@ -626,7 +621,7 @@ Office will collate the report and submit to NHIC Grant Secretariat.</p>
 </p>
 <p>The Principal Investigator of the awarded I2D project is required to submit
 a Final Project Report (NHIC-GEN-FORM-21) to NHIC Grant Secretariat after
-grant completion date. The final report is due two (2) months from the
+grant completion date. The final report is due three (3) months from the
 grant completion date.</p>
 <p>Submit the Final Project Report to your Host Institution Research Office
 or Healthcare Cluster Research/Innovation Office. Your Research Office
