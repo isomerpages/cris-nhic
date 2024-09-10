@@ -93,7 +93,8 @@ if you are interested in applying for the Central Gap Fund.</p>
 <p>NHG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Michael Ho, Dr Chuah Yon Jin</p>
+<p>Dr Michael Ho,
+<br>Dr Chuah Yon Jin</p>
 </td>
 </tr>
 <tr>
