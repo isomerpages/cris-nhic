@@ -221,23 +221,45 @@ settings.</p>
 </ul>
 </td>
 </tr>
-</tbody>
-</table>
-<p></p>
-<p><strong>4. If the solution involves patient data collection, what level of compliance with data security regulations is expected for the demo/test-bedding?</strong>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>If the solution involves patient data collection, what level of compliance with data security regulations is expected for the demo/test-bedding?</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Projects will have to be performed in accordance to local and hospital
 regulations and guidelines. Depending on the solution, some projects will
 need to engage the local IT agency for public healthcare, which will be
 done with the partner hospital’s IT offices.</p>
-<p><strong>5. Can private sector companies apply for this grant?</strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Can private sector companies apply for this grant?</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Private sector companies must partner a PHI that is keen to adopt the
 proposed solution after the test-bedding/piloting period. The PHI partner
 is the lead party to apply for the I2A grant, and the Principal Lead of
 the proposal must hold a primary appointment within one of the PHIs.</p>
-<p><strong>6. What is the funding quantum, funding period, fund flow mechanism and what does the grant cover?</strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>What is the funding quantum, funding period, fund flow mechanism and what does the grant cover?</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>Funding quantum: up to $1Mil, reviewed on a project by project basis</p>
@@ -279,8 +301,17 @@ of the technology.</p>
 </ul>
 </li>
 </ul>
-<p><strong>7. What areas of healthcare ops/plans does this grant fund?</strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>What areas of healthcare ops/plans does this grant fund?</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Solutions that have currently secured an implementation partner (e.g.
 healthcare clusters, community hospitals and nursing homes) in one healthcare
 cluster, are economically sustainable, with compelling operational cost
@@ -294,6 +325,22 @@ research evaluation, productivity enhancements in regular care delivery
 workflows (fundable if the resulting workflows are a necessity and directly
 associated with the adoption of proposed technology in the application),
 training programmes and pedagogies not associated with the new technology.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>4. </strong>
+</p>
+<p></p>
+<p><strong>5. </strong>
+</p>
+<p></p>
+<p><strong>6. </strong>
+</p>
+<p><strong>7. </strong>
+</p>
+<p></p>
 <p><strong>8. What stage of technology will I2Adopt support?</strong>
 </p>
 <p>We are seeking for solutions at a stage of conducting an implementation
