@@ -542,9 +542,7 @@ must speak with your NHIC Innovation Manager for more details.</p>
 falls on the first Friday, 5pm of each February, June, and October. If
 the due date falls on a public holiday, the submission deadline is next
 business day. For confirmation of dates and application forms, see nhic.sg.</p>
-<p><strong>I2Start Program</strong>: The Letter of Intent (LOI) must be submitted
-by Lead PI to the I2Start Grant Secretariat at <a href="mailto:grant@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">grant@nhic.cris.sg</a>. For I2S LOI submission
-date, see nhic.sg.</p>
+<p><strong>I2Start Program</strong>: For I2S LOI submission date, see nhic.sg.</p>
 <p><strong>I2P Scheme:</strong>&nbsp;There is no deadline for I2P applications;
 the application should be lodged before the respective patent action is
 undertaken.</p>
