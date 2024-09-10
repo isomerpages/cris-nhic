@@ -14,7 +14,8 @@ processes that are closer to market, with the aim of attracting private
 sector investments and/or commercialisation receptacles to bring the technologies
 to full commercialisation or use. The quantum of funding is 2M SGD (inclusive
 of 30% overhead costs) and the project term is up to 24 months. For detailed
-information on the grant scheme ad eligibility, please visit the <a href="https://www.nrf.gov.sg/funding-grants/central-gap-fund" rel="noopener noreferrer nofollow" target="_blank">https://www.nrf.gov.sg/funding-grants/central-gap-fund</a>&nbsp;</p>
+information on the grant scheme ad eligibility, please visit the <a href="https://www.nrf.gov.sg/grants/cgf/" rel="noopener noreferrer nofollow" target="_blank">Central Gap Fund (nrf.gov.sg)</a>
+</p>
 <p>The National Healthcare Innovation centre (NHIC) is the designated Innovation
 and Enterprise Office (IEO) for public hospitals, public health institutions,
 and National Specialty Centres. All Central Gap applications from the public
