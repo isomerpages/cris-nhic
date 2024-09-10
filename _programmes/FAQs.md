@@ -188,12 +188,15 @@ parties</p>
 </ul>
 </td>
 </tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
-<p><strong>3. Is commercialisation a critical consideration in this grant, given that it’s looking to fund mature technology?</strong>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Is commercialisation a critical consideration in this grant, given that it’s looking to fund mature technology?</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>In order to truly enable better patient outcomes and healthcare impact,
@@ -216,6 +219,11 @@ into clinical work flows that can subsequently be adopted/scaled in real-world
 settings.</p>
 </li>
 </ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>4. If the solution involves patient data collection, what level of compliance with data security regulations is expected for the demo/test-bedding?</strong>
 </p>
 <p>Projects will have to be performed in accordance to local and hospital
