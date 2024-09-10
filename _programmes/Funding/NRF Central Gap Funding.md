@@ -43,9 +43,10 @@ interested in applying for the Central Gap Fund.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Esther Lee <a href="mailto:esther.lee@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">esther.lee@nhic.cris.sg</a> 
-<br>Stephanie Lee</p>
-<p><a href="mailto:stephanie.lee@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">stephanie.lee@nhic.cris.sg</a>
+<p>Esther Lee
+<br><a href="mailto:esther.lee@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">esther.lee@nhic.cris.sg</a> 
+<br>Stephanie Lee
+<br><a href="mailto:stephanie.lee@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">stephanie.lee@nhic.cris.sg</a>
 </p>
 </td>
 </tr>
@@ -55,9 +56,10 @@ interested in applying for the Central Gap Fund.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Michael Ho <a href="mailto:Michael.ho@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">Michael.ho@nhic.cris.sg</a>
-<br>Chuah Yon Jin</p>
-<p><a href="mailto:Yonjin.chuah@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">Yonjin.chuah@nhic.cris.sg</a>
+<p>Michael Ho
+<br><a href="mailto:Michael.ho@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">Michael.ho@nhic.cris.sg</a>
+<br>Chuah Yon Jin
+<br><a href="mailto:Yonjin.chuah@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">Yonjin.chuah@nhic.cris.sg</a>
 </p>
 </td>
 </tr>
@@ -67,11 +69,11 @@ interested in applying for the Central Gap Fund.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Ee Lim <a href="mailto:Eelim.tan@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">Eelim.tan@nhic.cris.sg</a> 
-<br>Smitha Velayil <a href="mailto:smitha.velayil@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">smitha.velayil@nhic.cris.sg</a>
-</p>
-<p>Kirthika Senthil Kumar</p>
-<p><a href="mailto:kirthika.senthil@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">kirthika.senthil@nhic.cris.sg</a>
+<p>Tan Ee Lim <a href="mailto:Eelim.tan@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">Eelim.tan@nhic.cris.sg</a>
+<br>Smitha Velayil
+<br><a href="mailto:smitha.velayil@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">smitha.velayil@nhic.cris.sg</a>
+<br>Kirthika Senthil Kumar
+<br><a href="mailto:kirthika.senthil@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">kirthika.senthil@nhic.cris.sg</a>
 </p>
 </td>
 </tr>
