@@ -72,67 +72,12 @@ if you are interested in applying for the Central Gap Fund.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Healthcare Cluster</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NHIC Cluster Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SingHealth</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dr Esther Lee, Dr Stephanie Lee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NHG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dr Michael Ho, Dr Chuah Yon Jin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NUHS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dr Tan Ee Lim, Dr Smitha Velayil</p>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-</ul>
-<p><strong>2.</strong>
+<p><strong>Healthcare Cluster</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-</ul>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Healthcare Cluster</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NHIC Cluster Manager</p>
+<p><strong>NHIC Cluster Manager</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -157,16 +102,32 @@ if you are interested in applying for the Central Gap Fund.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Tan Ee Lim, Dr Smitha Velayil</p>
+</td>
+</tr>
+</tbody>
+</table>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
 <h5><strong>I2Adopt</strong></h5>
-<p><strong>1. What does a typical deployment plan include?</strong>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>What does a typical deployment plan include?</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
+</td>
+<td rowspan="1" colspan="1">
 <p>It should include:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -183,12 +144,17 @@ private sector/international partners (if any) in the test-bedding and
 implementation plan</p>
 </li>
 </ul>
-</li>
-</ul>
-<p><strong>2. What does a Letter of Interest (LOI) from the healthcare cluster typically include and who should issue it?</strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>What does a Letter of Interest (LOI) from the healthcare cluster typically include and who should issue it?</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
+</td>
+<td rowspan="1" colspan="1">
 <p>This is a written document typically detailing a buyer’s desire to purchase
 a seller’s product, assets, or services.</p>
 <ul data-tight="true" class="tight">
@@ -220,8 +186,12 @@ parties</p>
 </ul>
 </li>
 </ul>
-</li>
-</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <p><strong>3. Is commercialisation a critical consideration in this grant, given that it’s looking to fund mature technology?</strong>
 </p>
 <ul data-tight="true" class="tight">
