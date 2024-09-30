@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - A decade of forging healthcare innovation and beyond.md
       - What We Do.md
       - Board Oversight Committee.md
       - Our Team/.keep
