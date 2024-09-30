@@ -10,8 +10,8 @@ description: ""
 Singapore, check out our key activities aimed at celebrating the achievements
 of our local healthcare ecosystem!</p>
 <p>We have an exceptional line-up of features for this celebratory occasion
-from 📙an e-book encapsulating features across Singapore's healthcare innovation
-and enterprise ecosystem to 🏆recognising the achievements of our ecosystem
+from an e-book encapsulating features across Singapore's healthcare innovation
+and enterprise ecosystem to recognising the achievements of our ecosystem
 partners.</p>
 <p>Additionally, we have also embarked on an engagement survey to shape our
 strategy moving forward to further strengthen our support for the healthcare
