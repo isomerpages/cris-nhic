@@ -18,12 +18,11 @@ strategy moving forward to further strengthen our support for the healthcare
 community as we step into the next decade!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/10 year anniversary/Logo_.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/10 year anniversary/Logo_.jpg">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/10 year anniversary/Ebook.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/10 year anniversary/Ebook.jpg">
 </div>
 <p><strong>Book Trailers</strong>
 </p>
@@ -33,11 +32,11 @@ community as we step into the next decade!</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/10 year anniversary/Tribute.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/10 year anniversary/Tribute.jpg">
 </div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/10 year anniversary/Survey.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/10 year anniversary/Survey.jpg">
 </div>
 <p></p>
