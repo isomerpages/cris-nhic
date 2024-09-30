@@ -35,6 +35,8 @@ community as we step into the next decade!</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/10 year anniversary/Survey.jpg">
 </div>
 <p></p>
+<p><strong>NHIC 10-YEAR ANNIVERSARY DINNER</strong>
+</p>
 <p>Our 10-yr anniversary celebrations will culminate in a special evening
 in November.</p>
 <p>This appreciation dinner will bring together key players from the healthcare
