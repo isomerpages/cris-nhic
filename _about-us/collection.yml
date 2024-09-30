@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - A decade of forging healthcare innovation and beyond.md
       - What We Do.md
       - Board Oversight Committee.md
       - Our Team/.keep
@@ -10,3 +9,4 @@ collections:
       - Our Team/Innovation and Enterprise.md
       - Our Team/Clinical Innovation and Adoption.md
       - Our Team/I&E Placement Programme.md
+      - A decade of forging healthcare innovation and beyond.md
