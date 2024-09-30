@@ -27,12 +27,13 @@ sections:
         - title: Ventures & Industry
           description: Partnerships
           url: /partnerships-and-network/ventures-and-industry/
+        - title: NHIC TURNS 10!
+          description: Learn more
+          url: /a-decade-of-forging-healthcare-innovation-and-beyond/
         - title: Talent Development
           description: Develop Tri-Competent Talent
           url: /programmes/talent-development
       variant: image
-      url: /a-decade-of-forging-healthcare-innovation-and-beyond/
-      button: FIND OUT MORE
   - infopic:
       title: Accelerating clinical innovation journey
       description: How does NHIC accelerate the translation of clinical innovations
