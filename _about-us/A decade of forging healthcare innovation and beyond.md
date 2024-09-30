@@ -29,6 +29,7 @@ community as we step into the next decade!</p>
 <p>1. ArrowBiome – The future of microbiome care</p>
 <p>2. QuantumTX – Magnetic pulse therapy for muscle training</p>
 <p>3. HiCura – Using AI to guide spinal injections</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/10 year anniversary/Tribute.jpg">
 </div>
@@ -37,4 +38,5 @@ community as we step into the next decade!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/10 year anniversary/Survey.jpg">
 </div>
+<p></p>
 <p></p>
