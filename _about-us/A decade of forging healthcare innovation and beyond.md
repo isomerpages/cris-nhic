@@ -38,4 +38,18 @@ community as we step into the next decade!</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/10 year anniversary/Survey.jpg">
 </div>
 <p></p>
+<p>Our 10-yr anniversary celebrations will culminate in a special evening
+in November.</p>
+<p>This appreciation dinner will bring together key players from the healthcare
+ecosystem to honour the remarkable advancements in healthcare innovation
+and commercialisation that have transformed the landscape of healthcare
+in Singapore. The evening will feature innovation tributes to groundbreaking
+projects that have made significant impact on patient care and healthcare
+delivery.</p>
+<p>Heartfelt thanks to our corporate and startup sponsors, whose support
+is invaluable in making this milestone event possible. Their commitment
+to fostering innovation in healthcare continues to pave the way for a healthier
+future.</p>
+<p>Join us in celebrating a decade of progress and collaboration in health
+innovation!</p>
 <p></p>
