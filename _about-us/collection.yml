@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Trial/.keep
       - What We Do.md
       - Board Oversight Committee.md
       - Our Team/.keep
