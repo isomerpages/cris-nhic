@@ -16,3 +16,8 @@ partners.</p>
 <p>Additionally, we have also embarked on an engagement survey to shape our
 strategy moving forward to further strengthen our support for the healthcare
 community as we step into the next decade!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/10 year anniversary/Logo_.jpg">
+</div>
+<p></p>
