@@ -50,8 +50,7 @@ delivery.</p>
 is invaluable in making this milestone event possible. Their commitment
 to fostering innovation in healthcare continues to pave the way for a healthier
 future.</p>
-<p>Join us in celebrating a decade of progress and collaboration in health
-innovation!</p>
+<p></p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
