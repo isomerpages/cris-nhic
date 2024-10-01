@@ -1,22 +1,18 @@
 ---
 layout: homepage
 title: National Health Innovation Centre Singapore (NHIC)
-description: >-
-  The National Health Innovation Centre Singapore (NHIC), is a nationally
-  appointed programme office that works with Public Health Institutions across
-  Singapore to identify and commercialise promising clinical innovations.
-
-
-  It funds the translation and development of medical innovations from
-  Singapore’s clinical sector, and provide strategic guidance and connection to
-  industry partners, accelerating the pathway to impact in healthcare. NHIC
-  programmes catalyse the translation of clinical innovations towards
-  commercially viable products that benefit patients and healthcare.
-
-
-  Established since 2014, it has supported many projects and companies in the
-  development and implementation of innovative medical technologies and
-  services, improving the standard of healthcare in Singapore and beyond.
+description: The National Health Innovation Centre Singapore (NHIC), is a
+  nationally appointed programme office that works with Public Health
+  Institutions across Singapore to identify and commercialise promising clinical
+  innovations.  It funds the translation and development of medical innovations
+  from Singapore’s clinical sector, and provide strategic guidance and
+  connection to industry partners, accelerating the pathway to impact in
+  healthcare. NHIC programmes catalyse the translation of clinical innovations
+  towards commercially viable products that benefit patients and
+  healthcare.  Established since 2014, it has supported many projects and
+  companies in the development and implementation of innovative medical
+  technologies and services, improving the standard of healthcare in Singapore
+  and beyond.
 image: /images/Zz   NHIC logo/nhic logo.png
 permalink: /
 notification: ""
@@ -31,6 +27,9 @@ sections:
         - title: Ventures & Industry
           description: Partnerships
           url: /partnerships-and-network/ventures-and-industry/
+        - title: NHIC TURNS 10!
+          description: Learn more
+          url: /a-decade-of-forging-healthcare-innovation-and-beyond/
         - title: Talent Development
           description: Develop Tri-Competent Talent
           url: /programmes/talent-development
