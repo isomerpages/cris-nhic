@@ -50,6 +50,7 @@ is invaluable in making this milestone event possible. Their commitment
 to fostering innovation in healthcare continues to pave the way for a healthier
 future.</p>
 <p></p>
+<p></p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -61,6 +62,7 @@ future.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
 <p>Corporate sponsors</p>
 </th>
 <th rowspan="1" colspan="1">
@@ -87,10 +89,13 @@ future.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><strong>Startup sponsors</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
