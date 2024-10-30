@@ -77,6 +77,7 @@ future.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <p>Corporate sponsors</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -106,6 +107,7 @@ future.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <p>Startup sponsors</p>
 </td>
 <td rowspan="1" colspan="1">
