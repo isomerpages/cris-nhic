@@ -49,7 +49,6 @@ delivery.</p>
 is invaluable in making this milestone event possible. Their commitment
 to fostering innovation in healthcare continues to pave the way for a healthier
 future.</p>
-<p></p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -61,25 +60,16 @@ future.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Corporate sponsors</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/10 year anniversary/Coronet.jpg">
-</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/10 year anniversary/Medra.jpg">
-</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/10 year anniversary/Roche.jpg">
-</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -87,8 +77,38 @@ future.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Startup sponsors</strong>
-</p>
+<p></p>
+<p>Corporate sponsors</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/10 year anniversary/Roche.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/10 year anniversary/Coronet.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/10 year anniversary/Medra.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/10 year anniversary/GenIP.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>Startup sponsors</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -107,23 +127,6 @@ future.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/10 year anniversary/MeshBio.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
