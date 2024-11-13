@@ -16,7 +16,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><em>Enhanced support for healthcare institutions partners by translating project-level innovation and tech support, enabling systems-level healthcare transformation to steer more cost-effective implementation of innovations in clinical settings. </em>
+<p><em>Enhanced support for healthcare institutions partners by translating project-level innovation and tech support, enabling systems-level healthcare transformation to steer more cost-effective implementation of innovations in clinical settings.</em>
 </p>
 </li>
 <li>
@@ -38,7 +38,9 @@ transformation to ensure that innovations developed can be implemented
 and scalable to bring benefits across the whole healthcare ecosystem. NHIC
 will also intensify its efforts to address complex healthcare challenges
 through comprehensive and integrated strategies, leveraging its decade
-of expertise in pioneering advancements in medical technologies and solutions.&nbsp;</p>
+of expertise in pioneering advancements in medical technologies and solutions.&nbsp;
+<br>
+</p>
 <h4><strong>Uplifting Singapore’s healthcare clusters for healthcare innovation&nbsp;</strong></h4>
 <p>Over the past ten years, NHIC has played a pivotal role in guiding healthcare
 innovators through the process of translating early-stage ideas into market-ready
@@ -47,9 +49,7 @@ meet regulatory requirements, align with clinical workflows, and are applicable
 in real-world settings, NHIC has enabled more than 100 innovation projects
 across public healthcare institutions (PHIs), leading to enhanced healthcare
 outcomes and close to $90 million of investments from private capital poured
-into developing these innovations.&nbsp;
-<br>
-</p>
+into developing these innovations.&nbsp;</p>
 <p>NHIC’s commitment to nurturing a vibrant healthcare innovation ecosystem
 is evident in its comprehensive support through robust funding schemes,
 strategic guidance, talent development, and accelerating these clinical
@@ -61,15 +61,11 @@ the ecosystem.</p>
 of several high-impact technologies, including novel medical devices, breakthroughs
 in therapeutics, and advanced diagnostic tools, resulting in 72 licenses
 facilitated, $4.38 million in licensing revenue, the creation of 25 start-up
-companies, and the launch of 16 products. Global benchmarking analysis
-of Innovation &amp; Enterprise (I&amp;E) activities indicate that Singapore's
-healthcare clusters demonstrate strong performance in start-up creation
-and investment raised, placing them in the forefront among top healthcare
-institutions in Asia and Europe.</p>
+companies, and the launch of 16 products. <a href="https://www.enterprisesg.gov.sg/resources/media-centre/news/2024/september/singapore-rises-to-4th-place-in-global-innovation-index-its-best-rank-in-more-than-a-decade" rel="noopener nofollow" target="_blank">Global benchmarking analysis of Innovation &amp; Enterprise (I&amp;E) activities indicate that Singapore's healthcare clusters demonstrate strong performance in start-up creation and investment raised, placing them in the forefront among top healthcare institutions in Asia and Europe</a>.</p>
 <h4><strong>NHIC offers full spectrum support to uplift promising innovations that address unmet clinical needs</strong></h4>
 <p><strong><u>Improving skin health for individuals who are struggling with acne</u></strong>
 </p>
-<p>For instance, a grant by NHIC's Innovation to Develop (I2D) scheme was
+<p>For instance, a grant by NHIC's <a href="https://www.nhic.sg/funding/develop-i2d/" rel="noopener nofollow" target="_blank">Innovation to Develop (I2D) scheme</a> was
 awarded to Nanyang Technological University’s (NTU) Lee Kong Chian School
 of Medicine, that led to the start-up company, ArrowBiome. With the grant,
 along with holistic support in areas such as regulatory and commercial
@@ -102,14 +98,13 @@ Pte Ltd, a National University of Singapore (NUS) spin-off company. Throughout
 the process, NHIC provided valuable guidance on key aspects such as insights
 into navigating regulatory guidelines, commercial viability, and considerations
 for public procurement. HiCura Medical Pte Ltd co-developed the technology’s
-clinical application with KKH, supported by NHIC’s Innovation to Industry
-(I2I) scheme.&nbsp;</p>
+clinical application with KKH, supported by NHIC’s <a href="https://www.nhic.sg/funding/industry-i2i/" rel="noopener nofollow" target="_blank">Innovation to Industry (I2I) scheme</a>.&nbsp;</p>
 <p>uSINE® was eventually implemented in KKH in May 2023 and has also secured
 approval from the Health Sciences Authority for use in other healthcare
 institutions in Singapore. With support from NHIC’s Clinical Innovation
 &amp; Adoption Initiative (I2Adopt), the team is currently implementing
 uSINE® in selected PHIs.</p>
-<h4><strong>Enhanced support for healthcare innovations: NHIC’s I2Adopt spurs innovative healthcare solutions to implement and scale across healthcare clusters </strong></h4>
+<h4><strong>Enhanced support for healthcare innovations: NHIC’s I2Adopt spurs innovative healthcare solutions to implement and scale across healthcare clusters</strong></h4>
 <p>NHIC's I2Adopt, an enhanced support initiative for healthcare clusters
 and innovators, launched in October 2022, was developed to foster stronger
 collaborations with respective local healthcare cluster partners, agencies
@@ -165,16 +160,14 @@ to enhance the efficiency, accessibility, affordability and sustainability
 of new technologies to be integrated into our public healthcare systems,
 to support and uplift patient care and impact population health outcomes
 on a broader scale.</p>
-<blockquote>
-<p>"The celebration of our 10<sup>th  </sup>anniversary represents a significant
-milestone that paves the way for our future aspirations in healthcare innovation.
+<p>"The celebration of our 10th anniversary represents a significant milestone
+that paves the way for our future aspirations in healthcare innovation.
 As we look to the future, we are eager to build upon our accomplishments,
 advancing further in healthcare technology development and remaining steadfast
 in our commitment to driving systems-level healthcare transformation, locally
 and internationally. As we always say, Singapore first, Unicorn next,"
 said Associate Professor Henry Ho, Executive Director, National Health
 Innovation Centre Singapore (NHIC).</p>
-</blockquote>
 <hr>
 <p><strong>About the National Health Innovation Centre Singapore (NHIC)</strong>
 </p>
@@ -199,7 +192,7 @@ Core Funding Initiative (MOH-000952) and MOH IEO Decentralised Gap Funding
 Initiative (MOH-000953).</p>
 <p>For more information, visit <a href="http://www.nhic.sg" rel="noopener noreferrer nofollow" target="_blank"><u>www.nhic.sg</u></a>&nbsp;</p>
 <hr>
-<p><strong>For media inquiries, please contact:</strong>
+<p><strong>For media queries, please contact:</strong>
 </p>
 <p><strong>Bijal Doshi</strong>
 <br>Senior Manager
@@ -211,7 +204,7 @@ Initiative (MOH-000953).</p>
 <br>Executive
 <br>APRW
 <br>+65 9121 3354
-<br><a href="mailto:shivanipandey@aprw.asia" rel="noopener noreferrer nofollow" target="_blank">shivanipandey@aprw.asia</a> 
+<br><a href="mailto:shivanipandey@aprw.asia" rel="noopener noreferrer nofollow" target="_blank">shivanipandey@aprw.asia</a>
 </p>
 <p></p>
 <p></p>
