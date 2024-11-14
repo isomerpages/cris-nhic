@@ -165,10 +165,10 @@ on a broader scale.</p>
 that paves the way for our future aspirations in healthcare innovation.
 As we look to the future, we are eager to build upon our accomplishments,
 advancing further in healthcare technology development and remaining steadfast
-in our commitment to driving systems-level healthcare transformation, locally
-and internationally. As we always say, Singapore first, Unicorn next,"
-said Associate Professor Henry Ho, Executive Director, National Health
-Innovation Centre Singapore (NHIC).</p>
+in our commitment to driving systems-level healthcare transformation forward.
+As we always say, Singapore first, Unicorn next," said Associate Professor
+Henry Ho, Executive Director, National Health Innovation Centre Singapore
+(NHIC).</p>
 <hr>
 <p><strong>About the National Health Innovation Centre Singapore (NHIC)</strong>
 </p>
