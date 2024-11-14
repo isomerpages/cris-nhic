@@ -61,7 +61,7 @@ the ecosystem.</p>
 of several high-impact technologies, including novel medical devices, breakthroughs
 in therapeutics, and advanced diagnostic tools, resulting in 72 licenses
 facilitated, $4.38 million in licensing revenue, the creation of 25 start-up
-companies, and the launch of 16 products. <a href="https://www.enterprisesg.gov.sg/resources/media-centre/news/2024/september/singapore-rises-to-4th-place-in-global-innovation-index-its-best-rank-in-more-than-a-decade" rel="noopener nofollow" target="_blank">Global benchmarking analysis of Innovation &amp; Enterprise (I&amp;E) activities  indicate that Singapore demonstrates strong performance in startup creation and investment raised, placing us amongst the top in the world on the Global Innovation&nbsp;Index.</a>
+companies, and the launch of 16 products. <a href="https://www.enterprisesg.gov.sg/resources/media-centre/news/2024/september/singapore-rises-to-4th-place-in-global-innovation-index-its-best-rank-in-more-than-a-decade" rel="noopener nofollow" target="_blank">Global benchmarking analysis of Innovation &amp; Enterprise (I&amp;E) activities indicate that Singapore demonstrates strong performance in start-up creation and investment raised, placing us amongst the top in the world on the Global Innovation&nbsp;Index.</a>
 </p>
 <h4><strong>NHIC offers full spectrum support to uplift promising innovations that address unmet clinical needs</strong></h4>
 <p><strong><u>Improving skin health for individuals who are struggling with acne</u></strong>
@@ -127,14 +127,14 @@ in patients with diabetes.</p>
 <p>As it enters its second decade, NHIC will partner closely with healthcare
 clusters to select and resource high potential projects, catapulting them
 towards market readiness, increasing their value and impact. Under this
-pilot, which is an expansion of NHIC’s schemes, promising projects by PHIs
-can receive a grant of up to $1 million in project funding and other support
-from NHIC to address common challenges of translating medical innovations
-towards clinic and market readiness. The support will also facilitate further
-scaling of technologies, to draw in private-sector support for commercial
-and financial viability. Through this comprehensive approach, the scheme
-aspires to synergise greater public-private partnerships to accelerate
-commercialisation and adoption.</p>
+pilot, which is an extension of NHIC’s I2D scheme, promising projects by
+PHIs can receive a grant of up to $1 million in project funding and other
+support from NHIC to address common challenges of adequate resourcing to
+bring medical innovations towards clinic and market readiness. The support
+will also facilitate further scaling of technologies, to draw in private-sector
+support for commercial and financial viability. Through this comprehensive
+approach, the scheme aspires to synergise greater public-private partnerships
+to accelerate commercialisation.</p>
 <h4><strong>Rising Star Healthcare Innovation Tributes – Honouring Local Innovations and Public-Private Partnerships</strong></h4>
 <p>In conjunction with its 10<sup>th </sup>anniversary, NHIC also awarded
 Rising Star Healthcare Innovation Tributes to deserving local enterprises
