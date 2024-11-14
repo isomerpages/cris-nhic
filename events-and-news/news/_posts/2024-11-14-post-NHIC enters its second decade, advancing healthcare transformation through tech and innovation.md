@@ -129,12 +129,12 @@ clusters to select and resource high potential projects, catapulting them
 towards market readiness, increasing their value and impact. Under this
 pilot, which is an extension of NHIC’s I2D scheme, promising projects by
 PHIs can receive a grant of up to $1 million in project funding and other
-support from NHIC to address common challenges of adequate resourcing to
-bring medical innovations towards clinic and market readiness. The support
-will also facilitate further scaling of technologies, to draw in private-sector
-support for commercial and financial viability. Through this comprehensive
-approach, the scheme aspires to synergise greater public-private partnerships
-to accelerate commercialisation.</p>
+support from NHIC to address common challenges of securing sufficient financial
+resources to bring medical innovations towards clinic and market readiness.
+The support will also facilitate further scaling of technologies, to draw
+in private-sector support for commercial and financial viability. Through
+this comprehensive approach, the scheme aspires to synergise greater public-private
+partnerships to accelerate commercialisation.</p>
 <h4><strong>Rising Star Healthcare Innovation Tributes – Honouring Local Innovations and Public-Private Partnerships</strong></h4>
 <p>In conjunction with its 10<sup>th </sup>anniversary, NHIC also awarded
 Rising Star Healthcare Innovation Tributes to deserving local enterprises
