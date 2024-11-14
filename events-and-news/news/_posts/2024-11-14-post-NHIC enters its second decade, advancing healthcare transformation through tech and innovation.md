@@ -198,13 +198,11 @@ Initiative (MOH-000953).</p>
 <p><strong>Bijal Doshi</strong>
 <br>Senior Manager
 <br>APRW
-<br>+65 9754 7691
 <br><a href="mailto:bijal@aprw.asia" rel="noopener noreferrer nofollow" target="_blank">bijal@aprw.asia</a>
 </p>
 <p><strong>Shivani Pandey</strong>
 <br>Executive
 <br>APRW
-<br>+65 9121 3354
 <br><a href="mailto:shivanipandey@aprw.asia" rel="noopener noreferrer nofollow" target="_blank">shivanipandey@aprw.asia</a>
 </p>
 <p></p>
