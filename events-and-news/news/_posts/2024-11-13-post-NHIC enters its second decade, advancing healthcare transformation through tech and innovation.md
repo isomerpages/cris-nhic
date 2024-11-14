@@ -16,7 +16,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><em>Enhanced support for healthcare institutions partners by translating project-level innovation and tech support, enabling systems-level healthcare transformation to steer more cost-effective implementation of innovations in clinical settings.</em>
+<p><em>Enhanced support for healthcare institution partners by translating project-level innovation and tech support, enabling systems-level healthcare transformation to steer more cost-effective implementation of innovations in clinical settings.</em>
 </p>
 </li>
 <li>
@@ -44,7 +44,7 @@ of expertise in pioneering advancements in medical technologies and solutions.&n
 <h4><strong>Uplifting Singapore’s healthcare clusters for healthcare innovation&nbsp;</strong></h4>
 <p>Over the past ten years, NHIC has played a pivotal role in guiding healthcare
 innovators through the process of translating early-stage ideas into market-ready
-solutions that addresses unmet clinical needs. By ensuring these innovations
+solutions that address unmet clinical needs. By ensuring these innovations
 meet regulatory requirements, align with clinical workflows, and are applicable
 in real-world settings, NHIC has enabled more than 100 innovation projects
 across public healthcare institutions (PHIs), leading to enhanced healthcare
