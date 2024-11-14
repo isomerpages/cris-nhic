@@ -197,8 +197,8 @@ Initiative (MOH-000953).</p>
 </p>
 <p><strong>Bijal Doshi</strong>
 <br>Senior Manager
-<br>APRW <a href="mailto:Singapore￼charlene.tan@cris.sg" rel="noopener noreferrer nofollow" target="_blank"><br></a>+65
-9754 7691
+<br>APRW
+<br>+65 9754 7691
 <br><a href="mailto:bijal@aprw.asia" rel="noopener noreferrer nofollow" target="_blank">bijal@aprw.asia</a>
 </p>
 <p><strong>Shivani Pandey</strong>
