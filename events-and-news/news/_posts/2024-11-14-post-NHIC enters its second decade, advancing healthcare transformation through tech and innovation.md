@@ -102,9 +102,8 @@ for public procurement. HiCura Medical Pte Ltd co-developed the technology’s
 clinical application with KKH, supported by NHIC’s <a href="https://www.nhic.sg/funding/industry-i2i/" rel="noopener nofollow" target="_blank">Innovation to Industry (I2I) scheme</a>.&nbsp;</p>
 <p>uSINE® was eventually implemented in KKH in May 2023 and has also secured
 approval from the Health Sciences Authority for use in other healthcare
-institutions in Singapore. With support from NHIC’s Clinical Innovation
-&amp; Adoption Initiative (I2Adopt), the team is currently implementing
-uSINE® in selected PHIs.</p>
+institutions in Singapore. With support from NHIC’s <a href="https://www.nhic.sg/funding/innovation-to-adopt/" rel="noopener nofollow" target="_blank">Clinical Innovation &amp; Adoption Initiative (I2Adopt)</a>,
+the team is currently implementing uSINE® in selected PHIs.</p>
 <h4><strong>Enhanced support for healthcare innovations: NHIC’s I2Adopt spurs innovative healthcare solutions to implement and scale across healthcare clusters</strong></h4>
 <p>NHIC's I2Adopt, an enhanced support initiative for healthcare clusters
 and innovators, launched in October 2022, was developed to foster stronger
