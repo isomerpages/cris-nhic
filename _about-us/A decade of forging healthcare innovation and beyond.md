@@ -13,9 +13,9 @@ of our local healthcare ecosystem!</p>
 from an e-book encapsulating features across Singapore's healthcare innovation
 and enterprise ecosystem to recognising the achievements of our ecosystem
 partners.</p>
-<p>E-book (Desktop version): <a rel="noopener noreferrer nofollow" target="_blank">https://for.sg/nhic-ebook-dktp</a>
+<p>E-book (Desktop version): <a href="https://for.sg/nhic-ebook-dktp" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/nhic-ebook-dktp</a>
 </p>
-<p>E-book (Mobile version): <a rel="noopener noreferrer nofollow" target="_blank">https://for.sg/nhic-ebook</a>
+<p>E-book (Mobile version): <a href="https://for.sg/nhic-ebook" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/nhic-ebook</a>
 </p>
 <p>Additionally, we have also embarked on an engagement survey to shape our
 strategy moving forward to further strengthen our support for the healthcare
