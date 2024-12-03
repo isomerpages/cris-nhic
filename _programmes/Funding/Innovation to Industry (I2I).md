@@ -73,7 +73,7 @@ panel meeting.</p>
 <p>This category will provide a funding quantum capped at S$300,000 (inclusive
 of max. 30% indirect costs) awarded to the host institution.</p>
 <h5><strong>Funding duration</strong></h5>
-<p>The funding support is up to 12 months .</p>
+<p>The funding support is up to 12 months.</p>
 <h5><strong>List of Awarded Projects</strong></h5>
 <p>For the list of awarded Innovation to Industry (I2I) projects, please
 click <a href="https://for.sg/awardedi2i" rel="noopener noreferrer nofollow" target="_blank">here</a>
