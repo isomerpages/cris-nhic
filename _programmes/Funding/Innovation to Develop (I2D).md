@@ -64,16 +64,16 @@ research.</p>
 NHIC grants.</p>
 <h5><strong>NHIC I2D Grant Call</strong></h5>
 <p>NHIC I2D grant application is open for submission three times a year.</p>
-<p>Submission deadlines for&nbsp;<strong>2024</strong>&nbsp;are:</p>
+<p>Submission deadlines for&nbsp;<strong>2025</strong>&nbsp;are:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>2 February 2024, Friday, 5pm</p>
+<p>7 February 2025, Friday, 5pm</p>
 </li>
 <li>
-<p>7 June 2024, Friday, 5pm</p>
+<p>6 June 2025, Friday, 5pm</p>
 </li>
 <li>
-<p>4 October 2024, Friday, 5pm</p>
+<p>3 October 2025, Friday, 5pm</p>
 </li>
 </ul>
 <p><strong>Important</strong>:&nbsp;<em>Applicants are advised to refer to institutional internal deadlines for submission of grant applications.</em>
