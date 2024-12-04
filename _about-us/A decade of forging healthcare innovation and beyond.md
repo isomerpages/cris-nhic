@@ -13,6 +13,10 @@ of our local healthcare ecosystem!</p>
 from an e-book encapsulating features across Singapore's healthcare innovation
 and enterprise ecosystem to recognising the achievements of our ecosystem
 partners.</p>
+<p>E-book (Desktop version): <a href="https://for.sg/nhic-ebook-dktp" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/nhic-ebook-dktp</a>
+</p>
+<p>E-book (Mobile version): <a href="https://for.sg/nhic-ebook" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/nhic-ebook</a>
+</p>
 <p>Additionally, we have also embarked on an engagement survey to shape our
 strategy moving forward to further strengthen our support for the healthcare
 community as we step into the next decade!</p>
@@ -37,9 +41,9 @@ community as we step into the next decade!</p>
 <p></p>
 <p><strong>NHIC 10-YEAR ANNIVERSARY DINNER</strong>
 </p>
-<p>Our 10-yr anniversary celebrations will culminate in a special evening
-in November.</p>
-<p>This appreciation dinner will bring together key players from the healthcare
+<p>Our 10-yr anniversary celebrations culminated in a special evening in
+November.</p>
+<p>This appreciation dinner brought together key players from the healthcare
 ecosystem to honour the remarkable advancements in healthcare innovation
 and commercialisation that have transformed the landscape of healthcare
 in Singapore. The evening will feature innovation tributes to groundbreaking
