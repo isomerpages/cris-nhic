@@ -5,7 +5,7 @@ variant: tiptap
 description: Caroline Lee
 third_nav_title: Clinical Innovation & Adoption
 ---
-<h4><strong>Caroline Lee</strong></h4>
+<h4><strong>Asst. Manager</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="Caroline Lee" src="/images/About/Our Team/Clinical Innovation &amp; Adoption/CarolineLee_Bio.png">
 </div>
