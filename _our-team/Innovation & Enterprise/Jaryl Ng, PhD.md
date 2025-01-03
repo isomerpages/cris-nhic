@@ -5,7 +5,7 @@ variant: tiptap
 description: Jaryl Ng
 third_nav_title: Innovation & Enterprise
 ---
-<h4><strong>Manager (MedTech)</strong></h4>
+<h4><strong>Asst. Manager (MedTech)</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="Jaryl Ng" src="/images/About/Our Team/Innovation and Enterprise/JarylNg_Bio.png">
