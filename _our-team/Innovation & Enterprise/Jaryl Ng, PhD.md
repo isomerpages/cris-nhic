@@ -8,7 +8,7 @@ third_nav_title: Innovation & Enterprise
 <h4><strong>Manager (MedTech)</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="Chuah Yon Jin Roger" src="/images/About/Our Team/Innovation and Enterprise/ChuahYonJin_Bio.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Jaryl Ng" src="/images/About/Our Team/Innovation and Enterprise/JarylNg_Bio.png">
 </div>
 <p>Prior to joining NHIC, Jaryl served as a principal analyst at the Agency
 for Care Effectiveness (ACE), where he leveraged health technology assessment
