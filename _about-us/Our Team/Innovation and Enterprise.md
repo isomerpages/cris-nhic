@@ -36,11 +36,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/our-team/innovation-and-enterprise/ng-san-san"><img style="width: 100%" height="auto" width="100%" alt="Ng San San" src="/images/About/Our Team/Innovation and Enterprise/NgSanSan.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-team/innovation-and-enterprise/ng-san-san"><img style="width: 100%" height="auto" width="100%" alt="Ng San San" src="/images/About/Our Team/Innovation and Enterprise/NgSanSan.jpg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/our-team/innovation-and-enterprise/kerrine-too"><img style="width: 100%" height="auto" width="100%" alt="Kerrine Too" src="/images/About/Our Team/Innovation and Enterprise/KerrineToo.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-team/innovation-and-enterprise/kerrine-too"><img style="width: 100%" height="auto" width="100%" alt="Kerrine Too" src="/images/About/Our Team/Innovation and Enterprise/KerrineToo.jpg"></a>
 </td>
 </tr>
 </tbody>
