@@ -33,69 +33,39 @@ projects to be market-ready and investable. NHIC has established more than
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Coronet" src="/images/Partners Icons/CADRE2/cadre logos_coronet.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.coronetvc.com/"><img style="width: 100%" height="auto" width="100%" alt="Coronet" src="/images/Partners Icons/CADRE2/cadre logos_coronet.png"></a>
+</th>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.22healthventures.com/"><img style="width: 100%" height="auto" width="100%" alt="22 Health Ventures" src="/images/Partners Icons/CADRE2/22HealthVentures.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="22 Health Ventures" src="/images/Partners Icons/CADRE2/22HealthVentures.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Medtech Actuator" src="/images/Partners Icons/CADRE2/cadre logos_medtech actuator.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://medtechactuator.com/"><img style="width: 100%" height="auto" width="100%" alt="Medtech Actuator" src="/images/Partners Icons/CADRE2/cadre logos_medtech actuator.png"></a>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="mirxes" src="/images/Partners Icons/CADRE2/cadre logos_mirxes.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://mirxes.com/"><img style="width: 100%" height="auto" width="100%" alt="mirxes" src="/images/Partners Icons/CADRE2/cadre logos_mirxes.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Origgin" src="/images/Partners Icons/CADRE2/cadre logos_origgin.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.origgin.com/"><img style="width: 100%" height="auto" width="100%" alt="Origgin" src="/images/Partners Icons/CADRE2/cadre logos_origgin.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Outrambio" src="/images/Partners Icons/CADRE2/cadre logos_outrambio.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.outrambio.com/"><img style="width: 100%" height="auto" width="100%" alt="Outrambio" src="/images/Partners Icons/CADRE2/cadre logos_outrambio.png"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Roche" src="/images/Partners Icons/CADRE2/cadre logos_roche.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://diagnostics.roche.com/sg/en/home.html"><img style="width: 100%" height="auto" width="100%" alt="Roche" src="/images/Partners Icons/CADRE2/cadre logos_roche.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Singapore Deep-Tech Alliance" src="/images/Partners Icons/CADRE2/cadre logos_sdta.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.sdta.org.sg/"><img style="width: 100%" height="auto" width="100%" alt="Singapore Deep-Tech Alliance" src="/images/Partners Icons/CADRE2/cadre logos_sdta.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Trinity Innovation Bioventure Singapore" src="/images/Partners Icons/CADRE2/cadre logos_tibs.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.trinity-fund.com.sg/"><img style="width: 100%" height="auto" width="100%" alt="Trinity Innovation Bioventure Singapore" src="/images/Partners Icons/CADRE2/cadre logos_tibs.png"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TRIVE" src="/images/Partners Icons/CADRE2/cadre logos_trive.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.trive.vc/"><img style="width: 100%" height="auto" width="100%" alt="TRIVE" src="/images/Partners Icons/CADRE2/cadre logos_trive.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -104,47 +74,29 @@ projects to be market-ready and investable. NHIC has established more than
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="East Ventures" src="/images/Partners Icons/CADRE2/EastVentures.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://east.vc/"><img style="width: 100%" height="auto" width="100%" alt="East Ventures" src="/images/Partners Icons/CADRE2/EastVentures.png"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Temasek Life Sciences accelerator" src="/images/Partners Icons/CADRE2/TLA.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.tla.com.sg/"><img style="width: 100%" height="auto" width="100%" alt="Temasek Life Sciences accelerator" src="/images/Partners Icons/CADRE2/TLA.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Polaris Partners" src="/images/Partners Icons/CADRE2/polarispartners.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://polarispartners.com/"><img style="width: 100%" height="auto" width="100%" alt="Polaris Partners" src="/images/Partners Icons/CADRE2/polarispartners.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Openspace" src="/images/Partners Icons/CADRE2/cadre_logos_openspace.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.openspace.vc/"><img style="width: 100%" height="auto" width="100%" alt="Openspace" src="/images/Partners Icons/CADRE2/cadre_logos_openspace.jpg"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Heritas Capital" src="/images/Partners Icons/CADRE2/cadre_logos_heritascaptial.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.heritascapital.com/"><img style="width: 100%" height="auto" width="100%" alt="Heritas Capital" src="/images/Partners Icons/CADRE2/cadre_logos_heritascaptial.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="elev8.vc" src="/images/Partners Icons/CADRE2/cadre_logos_elev8vc.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://elev8.vc/"><img style="width: 100%" height="auto" width="100%" alt="elev8.vc" src="/images/Partners Icons/CADRE2/cadre_logos_elev8vc.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://www.clavystbio.com/"><img style="width: 100%" height="auto" width="100%" alt="ClavystBio" src="/images/Partners Icons/CADRE2/CVB.jpg"></a>
 </td>
 </tr>
 </tbody>
