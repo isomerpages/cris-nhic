@@ -4,10 +4,10 @@ permalink: /partnerships-and-network/ventures-and-industry/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Clinical Advancement and Development for Research, Entrepreneurship and Enterprise (CADRE2)</strong></h3>
+<h3><strong>Clinical Advancement and Development for Research, Entrepreneurship and Enterprise (CADRE)</strong></h3>
 <p>NHIC recently established stronger public-private partnerships as it launched
 its Clinical Advancement and Development for Research, Entrepreneurship
-and Enterprise (CADRE2) scheme in 2022.</p>
+and Enterprise (CADRE) scheme in 2022.</p>
 <p>This programme works with private sector partners who are keen to co-develop
 and co-invest efforts support healthtech projects at the PHCs with Public
 Healthcare Clusters/Institutes in the early stages of the HealthTech commercialisation
@@ -23,7 +23,7 @@ value of the product may not be apparent.</p>
 identify and support the achievement of healthcare objectives, while private
 sector partners would introduce the commercial discipline that prepares
 projects to be market-ready and investable. NHIC has established more than
-10 CADRE2 partnerships since the inception of this programme.</p>
+15 CADRE partnerships since the inception of this programme.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
