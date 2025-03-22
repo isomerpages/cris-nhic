@@ -49,7 +49,10 @@ projects to be market-ready and investable. NHIC has established more than
 <p></p><a class="isomer-image-wrapper" href="https://www.origgin.com/"><img style="width: 100%" height="auto" width="100%" alt="Origgin" src="/images/Partners Icons/CADRE2/cadre logos_origgin.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.outrambio.com/"><img style="width: 100%" height="auto" width="100%" alt="Outrambio" src="/images/Partners Icons/CADRE2/cadre logos_outrambio.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="AstraZeneca" src="/images/Partnerships and Network/Ventures &amp; Industry/AstraZeneca.jpg">
+</div>
 </td>
 </tr>
 <tr>
