@@ -10,7 +10,7 @@ variant: tiptap
 ---
 <h3>Translating innovations and breakthroughs into global healthcare solutions requires more than just cutting-edge technology.</h3>
 <hr>
-<p><strong>The commentary by Dr Pauline Tay, Director of the National Health Innovation Centre Singapore (NHIC), discusses how Singapore can translate innovations and breakthroughs into global healthcare solutions.</strong>
+<p><strong>The commentary by Dr Pauline Tay, Director, National Health Innovation Centre Singapore (NHIC), discusses how Singapore can translate innovations and breakthroughs into global healthcare solutions.</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
