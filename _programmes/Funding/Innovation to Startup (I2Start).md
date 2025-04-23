@@ -76,11 +76,9 @@ the proposed start-up structure and competitive landscape</p>
 <p>All I2Start grant applications will be jointly evaluated by the 3 funding
 agencies.</p>
 <p>Successful applicants will be awarded SMART Innovation Grant^ under Phase
-1, alongside a Letter of Intent from NHIC.</p>
-<p>Upon meeting the approved Phase 1 milestones, the project will transit
-into Phase 2, where it will be funded under NHIC I2D grant^. In parallel,
-ENTERPRISE SINGAPORE will provide a Letter of Intent to support the continuation
-of the project through the formation of a startup company.</p>
+1.</p>
+<p>&nbsp;Upon meeting the approved Phase 1 milestones, the project will transit
+into Phase 2, where it will be funded under NHIC I2D grant.</p>
 <p>Upon meeting the approved Phase 2 milestones and the required requisites*,
 the project will transit into Phase 3, whereby the startup company will
 be supported under Startup SG Tech POC/POV grant^. (To find out more general
@@ -101,10 +99,10 @@ year.</p>
 (inclusive of max. 30% indirect costs) awarded to the host institution.
 The NHIC I2D funding support is up to 1 year.</p>
 <p><strong>Phase 3:</strong>&nbsp;ENTERPRISE SINGAPORE Startup SG Tech (SSG
-Tech) funding is capped at $250,000 for Proof-of-Concept (POC) projects
-and $500,000 for Proof-of-Value (POV) projects, awarded to startups incorporated
+Tech) funding is capped at $400,000 for Proof-of-Concept (POC) projects
+and $800,000 for Proof-of-Value (POV) projects, awarded to startups incorporated
 in Singapore with at least 30% local shareholding. The SSG Tech funding
-support is up to 1 year for POC projects and 2 years for POV projects.
+support is up to 1.5 years for POC projects and 2.5 years for POV projects.
 To maintain financial discipline, startups would be required to increase
 its paid-up capital to 10% and 20% of the grant amount for POC and POV
 respectively.</p>
@@ -112,9 +110,8 @@ respectively.</p>
 <p>For the Terms and Conditions governing NHIC grants, please see&nbsp;
 <a href="http://www.nmrc.gov.sg/downloads" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions</a>.</p>
 <h5><strong>Grant Call</strong></h5>
-<p><a href="https://for.sg/nhic-i2start-loi" rel="noopener noreferrer nofollow" target="_blank">Letter of Intent</a>&nbsp;call
-for 2024 is now open for applications. The closing date is on 02 September
-2024.</p>
+<p>Letter of Intent call for 2025 is now open for applications. The closing
+date is on 04 July 2025.</p>
 <h5><strong>Submission details</strong></h5>
 <p>The&nbsp;<a href="https://for.sg/nhic-i2start-loi" rel="noopener noreferrer nofollow" target="_blank">Letter of Intent</a>&nbsp;must
 be submitted by Lead PI to the I2Start Grant Secretariat at&nbsp;<a href="mailto:grant@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">grant@nhic.cris.sg</a>.</p>
