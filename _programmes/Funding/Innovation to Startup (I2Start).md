@@ -71,7 +71,7 @@ the proposed start-up structure and competitive landscape</p>
 </ul>
 <h5><strong>Funding Process</strong></h5>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="funding quantum i2s1a" src="/images/Funding/funding-quantum-i2s1a.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Funding/I2Start_pathway_2025.jpg">
 </div>
 <p>All I2Start grant applications will be jointly evaluated by the 3 funding
 agencies.</p>
