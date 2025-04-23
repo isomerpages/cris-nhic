@@ -65,7 +65,7 @@ projects to be market-ready and investable. NHIC has established more than
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.trive.vc/"><img style="width: 100%" height="auto" width="100%" alt="TRIVE" src="/images/Partners Icons/CADRE2/cadre logos_trive.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://elev8.vc/"><img style="width: 100%" height="auto" width="100%" alt="elev8.vc" src="/images/Partners Icons/CADRE2/cadre_logos_elev8vc.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -82,7 +82,7 @@ projects to be market-ready and investable. NHIC has established more than
 <p></p><a class="isomer-image-wrapper" href="https://www.tla.com.sg/"><img style="width: 100%" height="auto" width="100%" alt="Temasek Life Sciences accelerator" src="/images/Partners Icons/CADRE2/TLA.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://polarispartners.com/"><img style="width: 100%" height="auto" width="100%" alt="Polaris Partners" src="/images/Partners Icons/CADRE2/polarispartners.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.clavystbio.com/"><img style="width: 100%" height="auto" width="100%" alt="ClavystBio" src="/images/Partners Icons/CADRE2/CVB.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="https://www.openspace.vc/"><img style="width: 100%" height="auto" width="100%" alt="Openspace" src="/images/Partners Icons/CADRE2/cadre_logos_openspace.jpg"></a>
@@ -93,10 +93,10 @@ projects to be market-ready and investable. NHIC has established more than
 <p></p><a class="isomer-image-wrapper" href="https://www.heritascapital.com/"><img style="width: 100%" height="auto" width="100%" alt="Heritas Capital" src="/images/Partners Icons/CADRE2/cadre_logos_heritascaptial.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://elev8.vc/"><img style="width: 100%" height="auto" width="100%" alt="elev8.vc" src="/images/Partners Icons/CADRE2/cadre_logos_elev8vc.jpg"></a>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.clavystbio.com/"><img style="width: 100%" height="auto" width="100%" alt="ClavystBio" src="/images/Partners Icons/CADRE2/CVB.jpg"></a>
+<p></p>
 </td>
 </tr>
 </tbody>
