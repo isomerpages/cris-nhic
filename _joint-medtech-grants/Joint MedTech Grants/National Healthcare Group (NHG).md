@@ -51,7 +51,7 @@ Co-I(s). Collaborator(s) are not entitled to receive directly any portion
 of the grant. Overheads or indirect research costs will not be supported.</p>
 <h5><strong>List of Awarded Projects</strong></h5>
 <p>For the list of awarded CMTi-NHIC Joint Medical Technology (MedTech) Grant
-projects, please click <a href="https://for.sg/awardednhg" rel="noopener noreferrer nofollow" target="_blank">here</a>
+projects, please click <a href="https://for.sg/awardednhgjoint" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 <p>For more information about this grant, please visit this link and contact
 your Host Institution’s Research Office:</p>
