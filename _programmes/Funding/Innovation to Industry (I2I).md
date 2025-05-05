@@ -46,7 +46,7 @@ of the feasibility of your proposal.</p>
 <p>NHG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Michael Ho, Dr Chuah Yon Jin</p>
+<p>Dr Michael Ho, Dr Chuah Yon Jin, Dr Jaryl Ng</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ of the feasibility of your proposal.</p>
 <p>NUHS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Tan Ee Lim, Ms Smitha Velayil, Dr Kirthika Senthil Kumar</p>
+<p>Ms Smitha Velayil, Dr Kirthika Senthil Kumar</p>
 </td>
 </tr>
 </tbody>
