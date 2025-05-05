@@ -39,7 +39,7 @@ interested in applying for the Central Gap Fund.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Singhealth</strong>
+<p><strong>SingHealth</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -61,6 +61,9 @@ interested in applying for the Central Gap Fund.</p>
 <br>Chuah Yon Jin
 <br><a href="mailto:Yonjin.chuah@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">Yonjin.chuah@nhic.cris.sg</a>
 </p>
+<p>Jaryl Ng</p>
+<p><a href="mailto:jaryl.ng.ck@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">jaryl.ng.ck@nhic.cris.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -69,8 +72,7 @@ interested in applying for the Central Gap Fund.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Ee Lim <a href="mailto:Eelim.tan@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">Eelim.tan@nhic.cris.sg</a>
-<br>Smitha Velayil
+<p>Smitha Velayil
 <br><a href="mailto:smitha.velayil@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">smitha.velayil@nhic.cris.sg</a>
 <br>Kirthika Senthil Kumar
 <br><a href="mailto:kirthika.senthil@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">kirthika.senthil@nhic.cris.sg</a>
