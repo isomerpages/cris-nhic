@@ -54,7 +54,7 @@ of the feasibility of your proposal.</p>
 <p>NUHS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Kirthika Senthil Kumar,Ms Caroline Lee</p>
+<p>Dr Kirthika Senthil Kumar, Ms Caroline Lee</p>
 </td>
 </tr>
 </tbody>
