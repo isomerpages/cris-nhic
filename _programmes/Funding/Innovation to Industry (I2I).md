@@ -38,7 +38,7 @@ of the feasibility of your proposal.</p>
 <p>SingHealth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Esther Lee, Ms Stephanie Lee</p>
+<p>Dr Esther Lee, Ms Stephanie Lee, Ms Smitha Velayil</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ of the feasibility of your proposal.</p>
 <p>NUHS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Smitha Velayil, Dr Kirthika Senthil Kumar</p>
+<p>Dr Kirthika Senthil Kumar, Ms Caroline Lee</p>
 </td>
 </tr>
 </tbody>
