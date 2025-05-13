@@ -46,11 +46,10 @@ interested in applying for the Central Gap Fund.</p>
 <p>Esther Lee
 <br><a href="mailto:esther.lee@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">esther.lee@nhic.cris.sg</a> 
 <br>Stephanie Lee
-<br><a href="mailto:stephanie.lee@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">stephanie.lee@nhic.cris.s</a>
+<br><a href="mailto:stephanie.lee@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">stephanie.lee@nhic.cris.sg </a>Smitha
+Velayil <a href="mailto:smitha.velayil@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank"><u>smitha.velayil@nhic.cris.sg</u></a>
 </p>
-<p>Smitha Velayil
-<br><a href="mailto:smitha.velayil@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">smitha.velayil@nhic.cris.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
