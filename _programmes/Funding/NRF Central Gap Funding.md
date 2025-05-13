@@ -75,8 +75,7 @@ interested in applying for the Central Gap Fund.</p>
 <td rowspan="1" colspan="1">
 <p>Kirthika Senthil Kumar
 <br><a href="mailto:kirthika.senthil@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">kirthika.senthil@nhic.cris.sg</a>
-</p>
-<p>Caroline Lee
+<br>Caroline Lee
 <br><a href="mailto:caroline.lee.ps@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">caroline.lee.ps@nhic.cris.sg</a>
 </p>
 </td>
