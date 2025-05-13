@@ -46,8 +46,9 @@ interested in applying for the Central Gap Fund.</p>
 <p>Esther Lee
 <br><a href="mailto:esther.lee@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">esther.lee@nhic.cris.sg</a> 
 <br>Stephanie Lee
-<br><a href="mailto:stephanie.lee@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">stephanie.lee@nhic.cris.s                                                                            </a>Smitha
-Velayil
+<br><a href="mailto:stephanie.lee@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">stephanie.lee@nhic.cris.s</a>
+</p>
+<p>Smitha Velayil
 <br><a href="mailto:smitha.velayil@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">smitha.velayil@nhic.cris.sg</a>
 </p>
 </td>
@@ -74,8 +75,9 @@ Velayil
 </td>
 <td rowspan="1" colspan="1">
 <p>Kirthika Senthil Kumar
-<br><a href="mailto:kirthika.senthil@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">kirthika.senthil@nhic.cris.sg                          </a>Caroline
-Lee <a href="mailto:caroline.lee.ps@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">caroline.lee.ps@nhic.cris.sg</a>
+<br><a href="mailto:kirthika.senthil@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">kirthika.senthil@nhic.cris.sg</a>
+</p>
+<p>Caroline Lee <a href="mailto:caroline.lee.ps@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">caroline.lee.ps@nhic.cris.sg</a>
 </p>
 </td>
 </tr>
