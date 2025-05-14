@@ -46,10 +46,10 @@ interested in applying for the Central Gap Fund.</p>
 <p>Esther Lee
 <br><a href="mailto:esther.lee@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">esther.lee@nhic.cris.sg</a> 
 <br>Stephanie Lee
-<br><a href="mailto:stephanie.lee@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">stephanie.lee@nhic.cris.sg </a>Smitha
-Velayil
-<br><a href="mailto:smitha.velayil@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">smitha.velayil@nhic.cris.sg</a>
+<br><a href="mailto:stephanie.lee@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">stephanie.lee@nhic.cris.sg</a>
+<br>Smitha Velayil <a href="mailto:smitha.velayil@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank"><u>smitha.velayil@nhic.cris.sg</u></a>
 </p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -63,7 +63,7 @@ Velayil
 <br>Chuah Yon Jin
 <br><a href="mailto:Yonjin.chuah@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">Yonjin.chuah@nhic.cris.sg</a>
 <br>Jaryl Ng
-<br> <a href="mailto:jaryl.ng.ck@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">jaryl.ng.ck@nhic.cris.sg</a>
+<br><a href="mailto:jaryl.ng.ck@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">jaryl.ng.ck@nhic.cris.sg</a>
 </p>
 </td>
 </tr>
@@ -73,10 +73,10 @@ Velayil
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Kirthika Senthil Kumar
-<br><a href="mailto:kirthika.senthil@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">kirthika.senthil@nhic.cris.sg </a>Caroline
-Lee <a href="mailto:caroline.lee.ps@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">caroline.lee.ps@nhic.cris.sg</a>
+<p>Kirthika Senthil Kumar
+<br><a href="mailto:kirthika.senthil@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">kirthika.senthil@nhic.cris.sg</a>
+<br>Caroline Lee
+<br><a href="mailto:caroline.lee.ps@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">caroline.lee.ps@nhic.cris.sg</a>
 </p>
 </td>
 </tr>
@@ -84,3 +84,4 @@ Lee <a href="mailto:caroline.lee.ps@nhic.cris.sg" rel="noopener noreferrer nofol
 </table>
 <p>For general Central Gap related inquiries, please email <a href="mailto:grant@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">grant@nhic.cris.sg</a>
 </p>
+<p></p>
