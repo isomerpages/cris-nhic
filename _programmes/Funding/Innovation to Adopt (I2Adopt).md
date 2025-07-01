@@ -67,7 +67,7 @@ management and people practices and workspaces.</p>
 <p><strong>Technology types: </strong>Sensors, wearables, robotics and automation;
 these can be process and product innovations, and not limited to the use
 of digital technologies.</p>
-<p><strong>a.&nbsp;     Sensors &amp; Wearables (S&amp;W)</strong>
+<p><strong>a.&nbsp; Sensors &amp; Wearables (S&amp;W)</strong>
 </p>
 <p>Innovation that uses S&amp;W. For primary care applications, we are hoping
 to dramatically (10x) the number of residents an individual doctor can
