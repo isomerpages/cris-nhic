@@ -62,11 +62,9 @@ to transforming the internal design and workings of agencies so that they
 remain healthy, effective and future-ready. This includes leadership and
 culture, organisational structure, organisational systems and processes,
 management and people practices and workspaces.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Technology types: </strong>Sensors, wearables, robotics and automation;
-these can be process and product innovations, and not limited to the use
-of digital technologies.</p>
+<p><strong>&nbsp;Technology types: </strong>Sensors, wearables, robotics
+and automation; these can be process and product innovations, and not limited
+to the use of digital technologies.</p>
 <p><strong>a.&nbsp; Sensors &amp; Wearables (S&amp;W)</strong>
 </p>
 <p>Innovation that uses S&amp;W. For primary care applications, we are hoping
@@ -339,7 +337,7 @@ site to NHIC listed in the table below.</p>
 <li>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/grant_process.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="grant process 2.0" src="/images/grant_process_2.jpg">
 </div>
 <p>Curated and prioritised by MHI Coordinating Parties and/or the Healthcare
 Cluster’s Innovation Offices (or equivalent)</p>
