@@ -229,7 +229,7 @@ site to NHIC listed in the table below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Healthcare Group (NHG)</p>
+<p>NHG Health</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Centre for Healthcare Innovation-Grants &amp; Innovation Office</p>
