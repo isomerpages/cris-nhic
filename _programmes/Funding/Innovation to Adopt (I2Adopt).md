@@ -336,4 +336,4 @@ for implementation?</p>
 <p>For the list of awarded Innovation to Adopt (I2A) projects, please click
 <a href="https://for.sg/awardedi2a" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h5><strong>Frequently Asked Questions (FAQs)</strong></h5>
-<p>Please refer to our list of&nbsp;<a href="/programmes/faqs/" rel="noopener noreferrer nofollow" target="_blank">FAQs for more information</a>.</p>
+<p>Please refer to our list of&nbsp;<a href="https://for.sg/i2afaq" rel="noopener noreferrer nofollow" target="_blank">FAQs for more information</a>.</p>
