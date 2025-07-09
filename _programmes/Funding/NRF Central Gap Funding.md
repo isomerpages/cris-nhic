@@ -86,4 +86,3 @@ Senthil Kumar
 </table>
 <p>For general Central Gap related inquiries, please email <a href="mailto:grant@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">grant@nhic.cris.sg</a>
 </p>
-<p></p>
