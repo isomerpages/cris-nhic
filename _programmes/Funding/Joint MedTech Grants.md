@@ -17,18 +17,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -39,7 +27,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/NHG_Logo_Preferred_RGB_1.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/NHG_Logo_Preferred_RGB_1.png">
 </div>
 <p></p>
 </td>
