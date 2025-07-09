@@ -73,8 +73,7 @@ interested in applying for the Central Gap Fund.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vipra Guneta</p>
-<p><a href="mailto:vipra.guneta@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">vipra.guneta@nhic.cris.sg</a>
+<p>Vipra Guneta <a href="mailto:vipra.guneta@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">vipra.guneta@nhic.cris.sg</a>
 </p>
 <p>Kirthika Senthil Kumar
 <br><a href="mailto:kirthika.senthil@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">kirthika.senthil@nhic.cris.sg</a>
