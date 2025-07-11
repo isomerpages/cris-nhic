@@ -99,50 +99,50 @@ Cluster (as listed in the table below) to the NHIC Grant Secretariat.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;National Healthcare Group (NHG)</p>
+<p>NHG Health</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;NHG Group Research and Innovation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;National University Health System (NUHS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;NUHS Research Office&nbsp;</p>
+<p>NHG Group Research and Innovation</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Singapore Health Services (SingHealth)</p>
+<p>National University Health System (NUHS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;SingHealth Office of Intellectual Property (SHIP)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Duke-NUS Medical School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Duke-NUS Medical School Sponsored Research Department</p>
+<p>NUHS Research Office&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Lee Kong Chian School of Medicine</p>
+<p>Singapore Health Services (SingHealth)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;NTU Research Support Office&nbsp;</p>
+<p>SingHealth Office of Intellectual Property (SHIP)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Yong Loo Lin School of Medicine&nbsp;</p>
+<p>Duke-NUS Medical School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;NUHS Research Office&nbsp;</p>
+<p>Duke-NUS Medical School Sponsored Research Department</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Kong Chian School of Medicine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NTU Research Support Office&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yong Loo Lin School of Medicine&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUHS Research Office&nbsp;</p>
 </td>
 </tr>
 </tbody>

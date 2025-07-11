@@ -32,7 +32,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 August 2024</p>
+<p>11 July 2025</p>
 </td>
 </tr>
 <tr>
@@ -68,7 +68,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 August 2024</p>
+<p>11 July 2025</p>
 </td>
 </tr>
 </tbody>
@@ -101,7 +101,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20 August 2024</p>
+<p>11 July 2025</p>
 </td>
 </tr>
 <tr>

@@ -32,7 +32,7 @@ of Designated Offices listed below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Healthcare Group</p>
+<p>NHG Health</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NHG Group Research and Innovation</p>
