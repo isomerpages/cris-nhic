@@ -9,9 +9,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:150px" height="auto" width="100%" src="/images/Funding/i2s%20logos.PNG">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width:300px" height="auto" width="100%" src="/images/Funding/logo_i2start.jpg">
-</div>
 <h5><strong>Aim</strong></h5>
 <p>I2Start program is a streamlined funding pathway which brings together
 three institutions: SMART, NHIC and Enterprise Singapore, in a manner to

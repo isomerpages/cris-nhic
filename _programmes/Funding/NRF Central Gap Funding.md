@@ -54,7 +54,7 @@ interested in applying for the Central Gap Fund.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>NHG</strong>
+<p><strong>NHG Health</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -73,8 +73,10 @@ interested in applying for the Central Gap Fund.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kirthika Senthil Kumar
-<br><a href="mailto:kirthika.senthil@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">kirthika.senthil@nhic.cris.sg</a>
+<p>Vipra Guneta</p>
+<p><a href="mailto:vipra.guneta@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">vipra.guneta@nhic.cris.sg</a>
+</p>
+<p>Kirthika Senthil Kumar <a href="mailto:kirthika.senthil@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">kirthika.senthil@nhic.cris.sg</a>
 <br>Caroline Lee
 <br><a href="mailto:caroline.lee.ps@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">caroline.lee.ps@nhic.cris.sg</a>
 </p>
@@ -84,4 +86,3 @@ interested in applying for the Central Gap Fund.</p>
 </table>
 <p>For general Central Gap related inquiries, please email <a href="mailto:grant@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">grant@nhic.cris.sg</a>
 </p>
-<p></p>

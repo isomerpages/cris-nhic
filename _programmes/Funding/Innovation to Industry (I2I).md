@@ -6,9 +6,6 @@ third_nav_title: Funding
 variant: tiptap
 ---
 <h4><strong>Co-development of a healthcare innovation with an industry partner</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width:300px" height="auto" width="100%" src="/images/Funding/logo_i2i.jpg">
-</div>
 <h5><strong>Aim</strong></h5>
 <p>The scheme is for projects which have successfully completed I2D funding
 (or equivalent as deemed appropriate by NHIC) and which, in conjunction
@@ -43,7 +40,7 @@ of the feasibility of your proposal.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NHG</p>
+<p>NHG Health</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Michael Ho, Dr Chuah Yon Jin, Dr Jaryl Ng</p>
@@ -54,7 +51,7 @@ of the feasibility of your proposal.</p>
 <p>NUHS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Kirthika Senthil Kumar, Ms Caroline Lee</p>
+<p>Dr Vipra Guneta, Dr Kirthika Senthil Kumar, Ms Caroline Lee</p>
 </td>
 </tr>
 </tbody>
