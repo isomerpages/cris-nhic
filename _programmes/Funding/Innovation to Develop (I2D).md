@@ -6,9 +6,6 @@ third_nav_title: Funding
 variant: tiptap
 ---
 <h4><strong>Funding for development of a healthcare innovation to a commercialisable endpoint</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width:300px" height="auto" width="100%" src="/images/Funding/logo_i2d.jpg">
-</div>
 <h5><strong>Aim</strong></h5>
 <p>This funding is for development of a clinically significant and commercially
 viable healthcare innovation. The grant application must clearly illustrate
