@@ -6,9 +6,6 @@ third_nav_title: Funding
 variant: tiptap
 ---
 <h4><strong>Funding which supports commercially viable innovation for implementation, adoption</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width:300px" height="auto" width="100%" src="/images/Funding/logos_i2adopt.jpg">
-</div>
 <h5><strong>Aim</strong></h5>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Identify and evaluate implementation feasibility </strong>of
 innovations for adoption and scaling across public healthcare clusters
