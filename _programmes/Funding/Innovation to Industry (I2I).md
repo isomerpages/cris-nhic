@@ -6,9 +6,6 @@ third_nav_title: Funding
 variant: tiptap
 ---
 <h4><strong>Co-development of a healthcare innovation with an industry partner</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width:300px" height="auto" width="100%" src="/images/Funding/logo_i2i.jpg">
-</div>
 <h5><strong>Aim</strong></h5>
 <p>The scheme is for projects which have successfully completed I2D funding
 (or equivalent as deemed appropriate by NHIC) and which, in conjunction
