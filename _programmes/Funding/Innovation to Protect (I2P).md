@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Funding
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width:300px" height="auto" width="100%" src="/images/Funding/logo_i2p.jpg">
-</div>
 <h5><strong>Aim</strong></h5>
 <p>This scheme provides funding for patentable inventions with demonstrated
 proof of concept.</p>
