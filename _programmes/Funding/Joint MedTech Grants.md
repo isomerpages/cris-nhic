@@ -25,10 +25,7 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/NHG_Logo_Preferred_RGB_1.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/funding/joint-medtech-grants/nhg/"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/NHG_Logo_Preferred_RGB_1.png"></a>
 <p></p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/funding/joint-medtech-grants/nuhs/"><img style="width: 70%;" height="auto" width="100%" src="/images/nuhslogo.png"></a>
