@@ -31,16 +31,10 @@ variant: tiptap
 </div>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/nuhslogo.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/funding/joint-medtech-grants/nuhs/"><img style="width: 70%;" height="auto" width="100%" src="/images/nuhslogo.png"></a>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/sglogo.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/funding/joint-medtech-grants/singhealth/"><img style="width: 100%;" height="auto" width="100%" src="/images/sglogo.jpg"></a>
 <p></p>
 </td>
 </tr>
