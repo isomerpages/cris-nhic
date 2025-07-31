@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Wendy Yep.md
       - Ng San San.md
       - Tan Ee Lim, PhD.md
       - Ng Yi Zhen.md
