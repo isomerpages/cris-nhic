@@ -8,7 +8,7 @@ third_nav_title: Innovation & Enterprise
 <h4><strong>Senior Manager (BioTech)</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="Jaryl Ng" src="/images/About/Our Team/Innovation and Enterprise/JarylNg_Bio.png">
+<img style="width: 40%;" height="auto" width="100%" alt="Vipra Guneta" src="/images/About/Our Team/Innovation and Enterprise/VipraGuneta_Bio.png">
 </div>
 <p>Prior to joining NHIC, Vipra held leadership roles across the healthcare
 innovation, biotech, and consulting sectors, with a focus on bridging science
