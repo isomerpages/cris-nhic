@@ -94,6 +94,9 @@ projects to be market-ready and investable. NHIC has established more than
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Polaris Partners" src="/images/Partners Icons/CADRE2/polarispartners.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
