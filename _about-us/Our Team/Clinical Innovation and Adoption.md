@@ -20,7 +20,8 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-team/clinical-innovation-adoption/caroline-lee"><img style="width: 100%" height="auto" width="100%" alt="Caroline Lee" src="/images/About/Our Team/Clinical Innovation &amp; Adoption/CarolineLee.jpg"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-team/clinical-innovation-adoption/wendy-yep"><img style="width: 100%" height="auto" width="100%" alt="Wendy Yep" src="/images/About/Our Team/Clinical Innovation &amp; Adoption/WendyYep.jpg"></a>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
