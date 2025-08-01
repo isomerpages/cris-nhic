@@ -93,10 +93,7 @@ projects to be market-ready and investable. NHIC has established more than
 <p></p><a class="isomer-image-wrapper" href="https://www.heritascapital.com/"><img style="width: 100%" height="auto" width="100%" alt="Heritas Capital" src="/images/Partners Icons/CADRE2/cadre_logos_heritascaptial.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Polaris Partners" src="/images/Partners Icons/CADRE2/polarispartners.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://polarispartners.com/"><img style="width: 100%" height="auto" width="100%" alt="Polaris Partners" src="/images/Partners Icons/CADRE2/polarispartners.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
