@@ -20,7 +20,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-team/innovation-and-enterprise/chuah-yon-jin/"><img style="width: 100%;" height="auto" width="100%" alt="Roger Chuah Yon Jin" src="/images/About/Our Team/Innovation and Enterprise/ChuahYonJin.JPG"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-team/innovation-and-enterprise/vipra-guneta"><img style="width: 100%" height="auto" width="100%" alt="Vipra Guneta" src="/images/About/Our Team/Innovation and Enterprise/VipraGuneta.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-team/innovation-and-enterprise/vipra-guneta/"><img style="width: 100%" height="auto" width="100%" alt="Vipra Guneta" src="/images/About/Our Team/Innovation and Enterprise/VipraGuneta.jpg"></a>
 </td>
 </tr>
 <tr>
