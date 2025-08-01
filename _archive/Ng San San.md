@@ -3,7 +3,6 @@ title: Ng San San
 permalink: /our-team/innovation-and-enterprise/ng-san-san/
 variant: tiptap
 description: Ng San San
-third_nav_title: Innovation & Enterprise
 ---
 <h4><strong>Assistant Manager, Grants and Administration</strong></h4>
 <p></p>

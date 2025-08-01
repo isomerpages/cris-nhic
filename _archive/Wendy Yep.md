@@ -3,7 +3,6 @@ title: Wendy Yep
 permalink: /our-team/clinical-innovation-adoption/wendy-yep/
 variant: tiptap
 description: Wendy Yep
-third_nav_title: Clinical Innovation & Adoption
 ---
 <h4><strong>Senior Executive, Grants and Administration</strong></h4>
 <p></p>
