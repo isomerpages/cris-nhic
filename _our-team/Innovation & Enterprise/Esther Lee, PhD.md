@@ -5,7 +5,7 @@ variant: tiptap
 description: Esther Lee
 third_nav_title: Innovation & Enterprise
 ---
-<h4><strong>Senior Manager (Biomed)</strong></h4>
+<h4><strong>Assistant Director (Biomed)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="Esther Lee" src="/images/About/Our Team/Innovation and Enterprise/EstherLee_Bio.jpg">
 </div>
