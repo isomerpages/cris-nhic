@@ -6,10 +6,10 @@ description: ""
 ---
 <p><strong>NHIC 10-YEAR ANNIVERSARY MILESTONE IN 2024</strong>
 </p>
-<p>As we mark a decade of healthcare innovation and commercialisation in
-Singapore, check out our key activities aimed at celebrating the achievements
+<p>As we marked a decade of healthcare innovation and commercialisation in
+2024, check out our key activities aimed at celebrating the achievements
 of our local healthcare ecosystem!</p>
-<p>We have an exceptional line-up of features for this celebratory occasion
+<p>We had an exceptional line-up of features for this celebratory occasion
 from an e-book encapsulating features across Singapore's healthcare innovation
 and enterprise ecosystem to recognising the achievements of our ecosystem
 partners.</p>
@@ -17,9 +17,9 @@ partners.</p>
 </p>
 <p>E-book (Mobile version): <a href="https://for.sg/nhic-ebook" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/nhic-ebook</a>
 </p>
-<p>Additionally, we have also embarked on an engagement survey to shape our
-strategy moving forward to further strengthen our support for the healthcare
-community as we step into the next decade!</p>
+<p>Additionally, we embarked on an engagement survey to shape our strategy
+moving forward to further strengthen our support for the healthcare community
+as we step into the next decade!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/10 year anniversary/Logo_.jpg">
@@ -50,7 +50,7 @@ in Singapore. The evening will feature innovation tributes to groundbreaking
 projects that have made significant impact on patient care and healthcare
 delivery.</p>
 <p>Heartfelt thanks to our corporate and startup sponsors, whose support
-is invaluable in making this milestone event possible. Their commitment
+was invaluable in making this milestone event possible. Their commitment
 to fostering innovation in healthcare continues to pave the way for a healthier
 future.</p>
 <table style="minWidth: 125px">
