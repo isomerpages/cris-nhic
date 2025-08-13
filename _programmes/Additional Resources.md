@@ -4,7 +4,7 @@ permalink: /additional-resources/
 variant: tiptap
 description: ""
 ---
-<h1><strong>Resources powered by HealthX</strong> </h1>
+<h1><strong>Resources powered by HealthX</strong></h1>
 <p>HealthX is Synapxe’s overarching HealthTech Innovation Programme that
 aims to be the virtual innovation platform to bring HealthTech ideas to
 reality.
@@ -20,8 +20,7 @@ suite of enablers including a conducive policy-ops Innovation Sandbox that
 is accessible, safe, self-contained and realistic in simulating a production
 environment that allow innovators to “start fast and prove fast / fail-and-recover
 fast” on their innovations.</p>
-<p>To learn more: <a href="https://innovation.healthx.sg/get-on-board/" rel="noopener noreferrer nofollow" target="_blank">Get On Board</a>
-</p>
+<h4><strong>To Apply</strong>: <a href="https://innovation.healthx.sg/get-on-board/" rel="noopener noreferrer nofollow" target="_blank">Get On Board</a></h4>
 <h3><strong>Cybersecurity Self-Attestation Portal- powered by HealthX</strong></h3>
 <p>The Cybersecurity Self-Attestation portal allows vendors/partners to attest
 their solutions design with reference to Ministry of Health (MOH)'s set
@@ -50,7 +49,5 @@ parties to demonstrate that the solution is secure, transparent and trustworthy.
 <p>Current release focus on ICT Security, Medical Devices &amp; Operational
 Technology Security and Data Management.</p>
 <p></p>
-<h4><strong>Get Started:</strong></h4>
-<p><a href="https://nhic-csap.healthx.sg/" rel="noopener noreferrer nofollow" target="_blank">HealthX Cybersecurity Self-Attestation Portal</a><strong><br></strong>
-</p>
+<h4><strong>Get Started: </strong><a href="https://nhic-csap.healthx.sg/" rel="noopener noreferrer nofollow" target="_blank">HealthX Cybersecurity Self-Attestation Portal</a><strong><br></strong></h4>
 <p></p>
