@@ -39,7 +39,7 @@ ideas to reality.
 whilst maintaining important tenets in a healthcare system environment
 - where patient safety and cybersecurity are paramount, and the multi-faceted
 patient journey is complex.</p>
-<h4><strong>Get Started: </strong></h4>
+<h4><strong>Get Started:</strong></h4>
 <p><a href="https://nhic-csap.healthx.sg/" rel="noopener noreferrer nofollow" target="_blank">HealthX Cybersecurity Self-Attestation Portal</a><strong><br></strong>
 </p>
 <p></p>
