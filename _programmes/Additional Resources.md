@@ -15,10 +15,10 @@ whilst maintaining important tenets in a healthcare system environment
 patient journey is complex.</p>
 <p></p>
 <h3><strong>HealthX Innovation Sandbox</strong></h3>
-<p>The objective of <strong>HealthX Innovation Sandbox</strong> is to establish
-suite of enablers including a conducive policy-ops Innovation Sandbox that
-is accessible, safe, self-contained and realistic in simulating a production
-environment that allow innovators to “start fast and prove fast / fail-and-recover
+<p>The objective of HealthX Innovation Sandbox is to establish suite of enablers
+including a conducive policy-ops Innovation Sandbox that is accessible,
+safe, self-contained and realistic in simulating a production environment
+that allow innovators to “start fast and prove fast / fail-and-recover
 fast” on their innovations.</p>
 <h4><strong>To Apply</strong>: <a href="https://innovation.healthx.sg/get-on-board/" rel="noopener noreferrer nofollow" target="_blank">Get On Board</a></h4>
 <h3><strong>Cybersecurity Self-Attestation Portal- powered by HealthX</strong></h3>
