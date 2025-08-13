@@ -6,37 +6,42 @@ description: ""
 ---
 <p><strong>NHIC 10-YEAR ANNIVERSARY MILESTONE IN 2024</strong>
 </p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NHIC101.jpg">
+</div>
+<p></p>
+<p></p>
 <p>As we marked a decade of healthcare innovation and commercialisation in
 2024, check out our key activities aimed at celebrating the achievements
 of our local healthcare ecosystem!</p>
-<p>We had an exceptional line-up of features for this celebratory occasion
-from an e-book encapsulating features across Singapore's healthcare innovation
-and enterprise ecosystem to recognising the achievements of our ecosystem
-partners.</p>
-<p>E-book (Desktop version): <a href="https://for.sg/nhic-ebook-dktp" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/nhic-ebook-dktp</a>
-</p>
-<p>E-book (Mobile version): <a href="https://for.sg/nhic-ebook" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/nhic-ebook</a>
-</p>
-<p>Additionally, we embarked on an engagement survey to shape our strategy
-moving forward to further strengthen our support for the healthcare community
-as we step into the next decade!</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/10 year anniversary/Logo_.jpg">
 </div>
 <p></p>
+<p>We had an exceptional line-up of features for this celebratory occasion
+from an e-book encapsulating features across Singapore's healthcare innovation
+and enterprise ecosystem to recognising the achievements of our ecosystem
+partners.</p>
+<p></p>
+<p><strong>COMMEMORATIVE BOOK</strong>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/10 year anniversary/Ebook.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/book.jpg">
 </div>
+<p>E-book (Desktop version): <a href="https://for.sg/nhic-ebook-dktp" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/nhic-ebook-dktp</a>
+</p>
+<p>E-book (Mobile version): <a href="https://for.sg/nhic-ebook" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/nhic-ebook</a>
+</p>
 <p></p>
-<p></p>
+<p><strong>RECOGNISING PROMISING HOME-GROWN LOCAL HEALTH INNOVATIONS AND PARTNERSHIPS</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/10 year anniversary/Tribute.jpg">
-</div>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/10 year anniversary/Survey.jpg">
 </div>
 <p></p>
 <p><strong>NHIC 10-YEAR ANNIVERSARY DINNER</strong>
@@ -138,4 +143,9 @@ future.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NHIC10.jpg">
+</div>
 <p></p>
