@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Additional Resources.md
       - Overview.md
       - Funding/.keep
       - Funding/Innovation to Protect (I2P).md
