@@ -19,7 +19,7 @@ notification: ""
 sections:
   - hero:
       title: Powering the Next Generation of Healthcare Innovation
-      background: /images/Homepage/nhic10_web_banner_v1.jpg
+      background: /images/Homepage/homepage banner-min.jpeg
       key_highlights:
         - title: Funding
           description: Impactful Health Innovations
