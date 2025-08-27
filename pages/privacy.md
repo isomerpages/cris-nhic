@@ -41,11 +41,11 @@ please do not hesitate to contact the CRIS Data Protection Office at&nbsp;
 </li>
 <li>
 <p>For more information on how we collect, use and/or disclose your personal
-data, please read our&nbsp;CRIS Data Protection Notice.</p>
+data, please read our&nbsp;<a href="/files/data_protection_notice.pdf" rel="noopener noreferrer nofollow" target="_blank">CRIS Data Protection Notice</a>.</p>
 </li>
 <li>
 <p>For additional details on the collection, use and disclosure of your personal
-data for job applications, please read our&nbsp;<a href="https://www.cris.sg/files/Critical%20Documents/dp%20notice%20for%20job%20applicants.pdf" rel="noopener noreferrer nofollow" target="_blank">CRIS Data Protection Notice for Job Applicants</a>.</p>
+data for job applications, please read our <a href="/files/CRIS_Data_Protection_Notice_for_Job_Applicants.pdf" rel="noopener noreferrer nofollow" target="_blank">CRIS Data Protection Notice for Job Applicants</a>.</p>
 </li>
 </ol>
 <p></p>
