@@ -33,10 +33,7 @@ variant: tiptap
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-team/innovation-and-enterprise/shermaine-kwan"><img style="width: 100%;" height="auto" width="100%" alt="Shermaine Kwan" src="/images/About/Our Team/Innovation and Enterprise/ShermaineKwan.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/Our Team/Innovation and Enterprise/pang joan.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://nhic.sg/joan-pang-kang-zhu/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/Our Team/Innovation and Enterprise/pang joan.jpg"></a>
 </td>
 </tr>
 <tr>
