@@ -8,6 +8,9 @@ third_nav_title: Innovation & Enterprise
 <h4><strong>Assistant Manager</strong></h4>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/Our Team/Innovation and Enterprise/joanpang.jpg">
+</div>
 <p>Joan holds a Bachelor of Science (Hons) in Business Management from University
 of Bradford, United Kingdom. Prior to joining NHIC, she worked in SingHealth
 and NUHS and had over a decade of experience in healthcare administration,
