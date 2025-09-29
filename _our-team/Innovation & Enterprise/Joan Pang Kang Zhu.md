@@ -5,7 +5,7 @@ variant: tiptap
 description: Joan Pang Kang Zhu
 third_nav_title: Innovation & Enterprise
 ---
-<h4><strong>Assistant Manager</strong></h4>
+<h4><strong>Assistant Manager, Corporate Administration</strong></h4>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
