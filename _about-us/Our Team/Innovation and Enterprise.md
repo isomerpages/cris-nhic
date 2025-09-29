@@ -30,22 +30,20 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-team/innovation-and-enterprise/jaryl-ng"><img style="width: 100%" height="auto" width="100%" alt="Jaryl Ng" src="/images/About/Our Team/Innovation and Enterprise/JarylNg.jpg"></a>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-team/innovation-and-enterprise/shermaine-kwan"><img style="width: 100%" height="auto" width="100%" alt="Shermaine Kwan" src="/images/About/Our Team/Innovation and Enterprise/ShermaineKwan.jpg"></a>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-team/innovation-and-enterprise/kerrine-too"><img style="width: 100%" height="auto" width="100%" alt="Kerrine Too" src="/images/About/Our Team/Innovation and Enterprise/KerrineToo.jpg"></a>
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-team/innovation-and-enterprise/shermaine-kwan"><img style="width: 100%;" height="auto" width="100%" alt="Shermaine Kwan" src="/images/About/Our Team/Innovation and Enterprise/ShermaineKwan.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-team/innovation-and-enterprise/jaryl-ng"><img style="width: 100%" height="auto" width="100%" alt="Jaryl Ng" src="/images/About/Our Team/Innovation and Enterprise/JarylNg.jpg"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-team/innovation-and-enterprise/kerrine-too"><img style="width: 100%" height="auto" width="100%" alt="Kerrine Too" src="/images/About/Our Team/Innovation and Enterprise/KerrineToo.jpg"></a>
+</td>
+</tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
