@@ -313,7 +313,7 @@ site to NHIC listed in the table below.</p>
 <p>Dec 2025 – Feb 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>May – Jul 2027</p>
+<p>May – Jul 2026</p>
 </td>
 </tr>
 <tr>
