@@ -39,7 +39,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-team/innovation-and-enterprise/jaryl-ng"><img style="width: 100%" height="auto" width="100%" alt="Jaryl Ng" src="/images/About/Our Team/Innovation and Enterprise/JarylNg.jpg"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://nhic.sg/joan-pang-kang-zhu/"><img style="width: 100%" height="auto" width="100%" alt="Kerrine Too" src="/images/About/Our Team/Innovation and Enterprise/KerrineToo.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-team/innovation-and-enterprise/kerrine-too/"><img style="width: 100%" height="auto" width="100%" alt="Kerrine Too" src="/images/About/Our Team/Innovation and Enterprise/KerrineToo.jpg"></a>
 </td>
 </tr>
 </tbody>
