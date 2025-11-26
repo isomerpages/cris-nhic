@@ -5,7 +5,7 @@ variant: tiptap
 description: Cho Lai Har
 third_nav_title: Clinical Innovation & Adoption
 ---
-<h3><strong>Senior Executive   </strong></h3>
+<h3><strong>Senior Executive</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/Our Team/Clinical Innovation &amp; Adoption/Photo_Lai_Har.jpg">
 </div>
