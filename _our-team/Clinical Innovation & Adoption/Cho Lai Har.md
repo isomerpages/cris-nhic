@@ -5,6 +5,7 @@ variant: tiptap
 description: Cho Lai Har
 third_nav_title: Clinical Innovation & Adoption
 ---
+<h1><strong>Senior Executive</strong></h1>
 <p>Lai Har holds a Bachelor of Arts (Hons) in Accounting and Finance from
 the University of Greenwich and brings with her over a decade of experience
 in governance across the public sector. Prior to joining NHIC, she served
