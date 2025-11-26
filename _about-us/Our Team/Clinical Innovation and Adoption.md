@@ -16,6 +16,9 @@ variant: tiptap
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/Our Team/Clinical Innovation &amp; Adoption/Slide25.jpg">
+</div>
 <p></p>
 </th>
 </tr>
