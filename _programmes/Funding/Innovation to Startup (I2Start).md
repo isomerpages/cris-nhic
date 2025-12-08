@@ -107,8 +107,8 @@ respectively.</p>
 <p>For the Terms and Conditions governing NHIC grants, please see&nbsp;
 <a href="http://www.nmrc.gov.sg/downloads" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions</a>.</p>
 <h5><strong>Grant Call</strong></h5>
-<p>Letter of Intent call for 2025 will open for applications on 12 May 2025.
-The closing date is on 04 July 2025, 5pm.</p>
+<p>The grant application is now closed. The next grant call will be announced
+in due course.</p>
 <h5><strong>Submission details</strong></h5>
 <p>The&nbsp;<a href="https://for.sg/nhic-i2start-loi" rel="noopener noreferrer nofollow" target="_blank">Letter of Intent</a>&nbsp;must
 be submitted by Lead PI to the I2Start Grant Secretariat at&nbsp;<a href="mailto:grant@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">grant@nhic.cris.sg</a>.</p>
