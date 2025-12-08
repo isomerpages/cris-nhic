@@ -60,19 +60,8 @@ research.</p>
 <p>Please see&nbsp;<a href="http://www.nmrc.gov.sg/downloads" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions</a>&nbsp;governing
 NHIC grants.</p>
 <h5><strong>NHIC I2D Grant Call</strong></h5>
-<p>NHIC I2D grant application is open for submission three times a year.</p>
-<p>Submission deadlines for&nbsp;<strong>2025</strong>&nbsp;are:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>7 February 2025, Friday, 5pm</p>
-</li>
-<li>
-<p>6 June 2025, Friday, 5pm</p>
-</li>
-<li>
-<p>3 October 2025, Friday, 5pm</p>
-</li>
-</ul>
+<p>NHIC I2D grant application is now closed. The next grant call will be
+announced in due course.</p>
 <p><strong>Important</strong>:&nbsp;<em>Applicants are advised to refer to institutional internal deadlines for submission of grant applications.</em>
 </p>
 <p>Each form&nbsp;<strong>MUST</strong>&nbsp;be endorsed and submitted electronically
