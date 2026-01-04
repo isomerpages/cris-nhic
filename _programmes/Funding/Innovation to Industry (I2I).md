@@ -11,9 +11,8 @@ variant: tiptap
 (or equivalent as deemed appropriate by NHIC) and which, in conjunction
 with an industry partner, require co-development in order for the industry
 partner to license the technology.</p>
-<p>Application to this fund is by&nbsp;<strong>NHIC invitation only</strong>.
-Please contact your respective NHIC Cluster Manager for initial assessment
-of the feasibility of your proposal.</p>
+<p><strong>The grant application is now closed. We will provide updates in due course.</strong> 
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -35,7 +34,7 @@ of the feasibility of your proposal.</p>
 <p>SingHealth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Esther Lee, Ms Stephanie Lee, Ms Smitha Velayil</p>
+<p>Ms Stephanie Lee, Ms Smitha Velayil</p>
 </td>
 </tr>
 <tr>
