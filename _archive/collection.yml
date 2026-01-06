@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - I&E Placement Programme.md
       - Wendy Yep.md
       - Ng San San.md
       - Tan Ee Lim, PhD.md
