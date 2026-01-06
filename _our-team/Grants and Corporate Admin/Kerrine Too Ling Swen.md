@@ -6,9 +6,8 @@ description: Kerrine Too
 third_nav_title: Grants and Corporate Admin
 ---
 <h4><strong>Senior Executive</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="Kerrine Too" src="/images/About/Our Team/Innovation and Enterprise/KerrineToo_Bio.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Kerrine Too" src="/images/About/Our Team/Grant &amp; Corporate/KerrineToo_Bio.jpg">
 </div>
 <p>After graduating from NUS with a Bachelor's in Life Sciences, specializing
 in Biomedical Sciences, Kerrine commenced her career at SingHealth in the
