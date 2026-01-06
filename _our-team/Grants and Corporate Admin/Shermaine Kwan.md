@@ -8,7 +8,7 @@ third_nav_title: Grants and Corporate Admin
 <h4><strong>Manager, Grants and Administration</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="Shermaine Kwan" src="/images/About/Our Team/Innovation and Enterprise/ShermaineKwan_Bio.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="ShermaineKwan" src="/images/About/Our Team/Grant &amp; Corporate/ShermaineKwan_Bio.jpg">
 </div>
 <p>Having graduated from RMIT University with a Bachelor in Business Administration,
 Shermaine has had opportunities that allowed her to perform various roles
