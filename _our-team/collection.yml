@@ -2,7 +2,6 @@ collections:
   our-team:
     output: true
     order:
-      - Grants and Corporate Administration.md
       - Senior Management/.keep
       - Senior Management/Associate Professor Henry Ho.md
       - Senior Management/Pauline Tay, PhD.md
@@ -17,7 +16,8 @@ collections:
       - Innovation & Enterprise/Smitha Velayil, MSc MBA.md
       - Innovation & Enterprise/Shermaine Kwan.md
       - Innovation & Enterprise/Kerrine Too Ling Swen.md
-      - Clinical Innovation & Adoption/Cho Lai Har.md
       - Clinical Innovation & Adoption/.keep
+      - Clinical Innovation & Adoption/Cho Lai Har.md
       - Clinical Innovation & Adoption/Caroline Lee, BSc.md
       - Clinical Innovation & Adoption/Stephanie Lee Meihui, BSc.md
+      - Grants and Corporate Administration.md
