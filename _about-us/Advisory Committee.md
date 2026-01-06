@@ -1,6 +1,6 @@
 ---
-title: Board Oversight Committee
-permalink: /about-us/board-oversight-committee/
+title: Advisory Committee
+permalink: /about-us/advisory-committee/
 description: ""
 variant: tiptap
 ---

@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - What We Do.md
-      - Board Oversight Committee.md
+      - Advisory Committee.md
       - Our Team/.keep
       - Our Team/Senior Management.md
       - Our Team/Innovation and Enterprise.md
       - Our Team/Clinical Innovation and Adoption.md
-      - Our Team/I&E Placement Programme.md
+      - Our Team/Grants and Corporate Administration.md
       - A decade of forging healthcare innovation and beyond.md

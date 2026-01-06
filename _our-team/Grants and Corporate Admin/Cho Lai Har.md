@@ -1,13 +1,13 @@
 ---
 title: Cho Lai Har
-permalink: /cho-lai-har/
+permalink: /our-team/grants-corporate/cho-lai-har/
 variant: tiptap
 description: Cho Lai Har
-third_nav_title: Clinical Innovation & Adoption
+third_nav_title: Grants and Corporate Admin
 ---
 <h3><strong>Senior Executive</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/Our Team/Clinical Innovation &amp; Adoption/Photo_Lai_Har.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Cho Lai Har" src="/images/About/Our Team/Grant &amp; Corporate/Photo_Lai_Har.jpg">
 </div>
 <p>Lai Har holds a Bachelor of Arts (Hons) in Accounting and Finance from
 the University of Greenwich and brings with her over a decade of experience
