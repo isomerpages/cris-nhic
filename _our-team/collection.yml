@@ -2,6 +2,7 @@ collections:
   our-team:
     output: true
     order:
+      - Grants and Corporate/.keep
       - Senior Management/.keep
       - Senior Management/Associate Professor Henry Ho.md
       - Senior Management/Pauline Tay, PhD.md
