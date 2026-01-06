@@ -2,6 +2,7 @@ collections:
   our-team:
     output: true
     order:
+      - Grants and Corporate/Joan Pang Kang Zhu.md
       - Grants and Corporate/.keep
       - Senior Management/.keep
       - Senior Management/Associate Professor Henry Ho.md
