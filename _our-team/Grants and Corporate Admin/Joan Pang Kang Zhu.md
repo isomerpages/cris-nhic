@@ -8,7 +8,7 @@ third_nav_title: Grants and Corporate Admin
 <h4><strong>Assistant Manager, Corporate Administration</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="JoanPang" src="/images/About/Our Team/Grant &amp; Corporate/joanpang_bio.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Joan Pang" src="/images/About/Our Team/Grant &amp; Corporate/JoanPang_Bio.png">
 </div>
 <p>Joan holds a Bachelor of Science (Hons) in Business Management from University
 of Bradford, United Kingdom. Prior to joining NHIC, she worked in SingHealth
