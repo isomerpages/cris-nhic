@@ -35,7 +35,7 @@ variant: tiptap
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Irene Cheong" src="/images/About/Oversight Committee/IreneCheong.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="IreneCheong" src="/images/About/Oversight Committee/Irene_Cheong.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -45,7 +45,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tan Say Beng" src="/images/About/Oversight Committee/TanSayBeng.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="TanSayBeng" src="/images/About/Oversight Committee/TanSayBeng.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">

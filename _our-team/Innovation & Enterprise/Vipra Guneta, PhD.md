@@ -1,6 +1,6 @@
 ---
 title: Vipra Guneta, PhD
-permalink: /vipra-guneta/
+permalink: /our-team/innovation-and-enterprise/vipra-guneta/
 variant: tiptap
 description: Vipra Guneta
 third_nav_title: Innovation & Enterprise

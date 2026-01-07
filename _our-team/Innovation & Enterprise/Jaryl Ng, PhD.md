@@ -1,6 +1,6 @@
 ---
 title: Jaryl Ng, PhD
-permalink: /jaryl-ng/
+permalink: /our-team/innovation-and-enterprise/jaryl-ng/
 variant: tiptap
 description: Jaryl Ng
 third_nav_title: Innovation & Enterprise

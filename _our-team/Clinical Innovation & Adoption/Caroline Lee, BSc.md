@@ -1,6 +1,6 @@
 ---
 title: Caroline Lee, BSc
-permalink: /caroline-lee/
+permalink: /our-team/clinical-innovation-adoption/caroline-lee/
 variant: tiptap
 description: Caroline Lee
 third_nav_title: Clinical Innovation & Adoption

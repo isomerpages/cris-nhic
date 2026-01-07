@@ -12,10 +12,15 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-team/clinical-innovation-adoption/stephanie-lee"><img style="width: 100%" height="auto" width="100%" alt="Stephanie Lee" src="/images/About/Our Team/Clinical Innovation &amp; Adoption/StephanieLee.jpg"></a>
-<p></p>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="StephanieLee" src="/images/About/Our Team/Clinical Innovation &amp; Adoption/StephanieLee.jpg">
+</div>
 </th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-team/clinical-innovation-adoption/caroline-lee"><img style="width: 100%" height="auto" width="100%" alt="Caroline Lee" src="/images/About/Our Team/Clinical Innovation &amp; Adoption/CarolineLee.jpg"></a>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CarolineLee" src="/images/About/Our Team/Clinical Innovation &amp; Adoption/CarolineLee.jpg">
+</div>
 </th>
 </tr>
 <tr>

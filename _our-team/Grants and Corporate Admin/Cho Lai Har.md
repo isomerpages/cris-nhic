@@ -6,8 +6,9 @@ description: Cho Lai Har
 third_nav_title: Grants and Corporate Admin
 ---
 <h3><strong>Senior Executive</strong></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="Cho Lai Har" src="/images/About/Our Team/Grant &amp; Corporate/Photo_Lai_Har.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="ChoLaiHar" src="/images/About/Our Team/Grant &amp; Corporate/cholaihar_bio.jpg">
 </div>
 <p>Lai Har holds a Bachelor of Arts (Hons) in Accounting and Finance from
 the University of Greenwich and brings with her over a decade of experience
