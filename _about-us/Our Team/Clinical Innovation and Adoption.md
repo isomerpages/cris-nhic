@@ -15,7 +15,7 @@ variant: tiptap
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-team/clinical-innovation-adoption/stephanie-lee"><img style="width: 100%" height="auto" width="100%" alt="Stephanie Lee" src="/images/About/Our Team/Clinical Innovation &amp; Adoption/StephanieLee.jpg"></a>
 <p></p>
 </th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-team/clinical-innovation-adoption/caroline-lee"><img style="width: 100%" height="auto" width="100%" alt="Caroline Lee" src="/images/About/Our Team/Clinical Innovation &amp; Adoption/CarolineLee.jpg"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://nhic.sg/our-team/clinical-innovation-adoption/caroline-lee/"><img style="width: 100%" height="auto" width="100%" alt="Caroline Lee" src="/images/About/Our Team/Clinical Innovation &amp; Adoption/CarolineLee.jpg"></a>
 </th>
 </tr>
 <tr>
