@@ -6,10 +6,7 @@ description: Michael Ho
 third_nav_title: Innovation & Enterprise
 ---
 <h4><strong>Assistant Director, Operations</strong></h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="Michael Ho" src="/images/About/Our Team/Innovation and Enterprise/MIchaelHo_Bio.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://nhic.sg/our-team/innovation-and-enterprise/michael-ho/"><img style="width: 40%;" height="auto" width="100%" alt="Michael Ho" src="/images/About/Our Team/Innovation and Enterprise/MIchaelHo_Bio.jpg"></a>
 <p>Prior to joining NHIC, Michael was a Scientist with A*STAR’s IME for five
 years. As a scientist in the Biomedical Integrated Circuit group, his primary
 focus was on Medtech innovation, working closely with clinical partners
