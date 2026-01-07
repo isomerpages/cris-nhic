@@ -25,7 +25,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Irene Cheong" src="/images/About/Advisory Committee/Irene_Cheong.jpg">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ng Choon Peng" src="/images/About/Advisory Committee/NgChoonPeng.JPG">
 </div>
@@ -34,6 +33,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Dr Andrew Makmur" src="/images/About/Advisory Committee/andrew makmur.jpg">
 </div>
+<p></p>
 <p></p>
 <p></p>
 </td>
@@ -47,16 +47,16 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Lim Jui" src="/images/About/Advisory Committee/LimJui.JPG">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sidney Yee" src="/images/About/Advisory Committee/SidneyYee.JPG">
 </div>
 <p></p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Prof Lim Soon Thye" src="/images/About/Advisory Committee/lim soon thye.jpg">
 </div>
+<p></p>
+<p></p>
 </td>
 </tr>
 </tbody>
