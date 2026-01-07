@@ -15,7 +15,10 @@ description: The National Health Innovation Centre Singapore (NHIC), is a
   and beyond.
 image: /images/Zz   NHIC logo/nhic logo.png
 permalink: /
-notification: ""
+notification: Public healthcare officials will never ask you to transfer money
+  or disclose bank log-in details over a phone call.   Call the 24/7 ScamShield
+  Helpline at 1799 to check if you are unsure if something is a scam or visit
+  ScamShield for more information.
 sections:
   - hero:
       title: Powering the Next Generation of Healthcare Innovation
