@@ -227,9 +227,18 @@ site to NHIC listed in the table below.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>NHG Health</p>
+<p></p>
+<p>For applications involving any NHG Health institution (whether lead site
+or collaborating site), they will require the endorsement by CEOs of the
+respective NHG Health institution. CHI Grants Management Office (GMO) will
+coordinate the endorsement process for NHG Health. If your project proposal
+involves any NHG Health institution, kindly submit your finalised application
+form to CHI GMO (<a href="mailto:CHI.Grants.Mgmt.Office@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">CHI.Grants.Mgmt.Office@nhghealth.com.sg</a>)
+by 27 February 2026 to ensure complete endorsement.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Centre for Healthcare Innovation-Grants &amp; Innovation Office</p>
+<p></p>
 </td>
 </tr>
 <tr>
