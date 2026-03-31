@@ -18,7 +18,11 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://nhic.sg/our-team/innovation-and-enterprise/chuah-yon-jin/"><img style="width: 100%" height="auto" width="100%" alt="ChuahYonJinRoger" src="/images/About/Our Team/Innovation and Enterprise/ChuahYonJin.jpg"></a>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/Our Team/Innovation and Enterprise/Updated_31_Mar_2026_RC.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://nhic.sg/our-team/innovation-and-enterprise/kirthika-senthil-kumar/"><img style="width: 100%" height="auto" width="100%" alt="KirthikaSenthilKumar" src="/images/About/Our Team/Innovation and Enterprise/KirthikaSenthilKumar.jpg"></a>
 </td>
