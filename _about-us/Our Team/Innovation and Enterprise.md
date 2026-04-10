@@ -21,7 +21,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="/our-team/innovation-and-enterprise/chuah-yon-jin/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/Our Team/Innovation and Enterprise/Updated_31_Mar_2026_RC.jpg"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://nhic.sg/our-team/innovation-and-enterprise/kirthika-senthil-kumar/"><img style="width: 100%" height="auto" width="100%" alt="KirthikaSenthilKumar" src="/images/About/Our Team/Innovation and Enterprise/KirthikaSenthilKumar.jpg"></a>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
