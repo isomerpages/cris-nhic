@@ -4,7 +4,6 @@ collections:
     order:
       - Overview.md
       - Funding/.keep
-      - Funding/Joint MedTech Grants.md
       - Funding/Innovation to Develop (I2D).md
       - Funding/Innovation to Industry (I2I).md
       - Funding/Innovation to Startup (I2Start).md
