@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Funding
 variant: tiptap
 ---
-<h2><strong>Developing early-stage innovations and POCs towards clinical and/or market readiness</strong></h2>
+<h2><strong>Developing early-stage innovations towards clinical and/or market readiness</strong></h2>
 <h3><strong>Objectives</strong></h3>
 <ul>
 <li>
