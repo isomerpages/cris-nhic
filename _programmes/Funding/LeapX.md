@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Funding
 variant: tiptap
 ---
-<h2><strong>Partnering scheme to de-risk late-stage innovations and accelerate impact</strong></h2>
+<h2>Partnering to move late-stage innovations towards clinical &amp; commercial inflection point</h2>
 <h3><strong>Aim</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -33,13 +33,18 @@ the total project quantum</p>
 </p>
 <p>For any queries concerning eligibility, please contact the Grant Secretariat
 at&nbsp;<a href="mailto:grant@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">grant@nhic.cris.sg</a>.</p>
-<h3><strong>Funding quantum</strong></h3>
+<h3><strong>Funding quantum and duration</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
 <p>NHIC’s funding quantum is capped at S$750,000 (inclusive of max. 30% indirect
 costs) and will be awarded to the public healthcare host institution on
 a reimbursement basis for expenses incurred under the approved proposed
 of work.</p>
-<h3><strong>Funding duration</strong></h3>
+</li>
+<li>
 <p>The duration of NHIC funding support is up to 2 years.</p>
+</li>
+</ul>
 <h3><strong>Funding criteria</strong></h3>
 <p>Funding is considered if the application satisfies the following criteria:</p>
 <ul data-tight="true" class="tight">
@@ -76,30 +81,73 @@ achieve key translational milestones.</p>
 </li>
 <li>
 <p>Potential to result in two or more of the below expected outcomes.</p>
-<ul data-tight="true" class="tight">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Categories​</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Post-Grant Outcomes​</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BioTech​</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
 <li>
-<p>Result in new or changes in local and/or international clinical practice
-within 5 years</p>
+<p>Reach First-in-Human (FIH) Phase within 2 years that represents a significant
+value inflection point for the innovation (e.g. therapeutics or implantable
+medical devices). &nbsp;​</p>
 </li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MedTech​</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Achieve first market regulatory approval within 2 years​</p>
+</li>
+<li>
+<p>Piloted and deployed in operational environments within 3 years​</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>All categories​</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
 <li>
 <p>Attract private investments/commercial revenue of at least S$1M within
 5 years</p>
 </li>
 <li>
-<p>Achieve first market regulatory approval within 2 years</p>
-</li>
-<li>
-<p>Piloted and deployed in operational environments within 3 years</p>
-</li>
-<li>
-<p>Reach First-in-Human (FIH) Phase within 2 years that represents a significant
-value inflection point for the innovation (e.g. therapeutics or implantable
-medical devices).</p>
+<p>Result in new or changes in local and/or international clinical practice
+within 5 years</p>
 </li>
 </ul>
+</td>
+</tr>
+</tbody>
+</table>
 </li>
 </ul>
-<h3><strong>Grant call</strong></h3>
+<h3><strong>Grant Schedule</strong></h3>
 <p>The grant is open on a rolling basis.</p>
 <p>Focus areas (not limited to): Medical devices, Digital Health, Therapeutics,
 Diagnostics</p>
