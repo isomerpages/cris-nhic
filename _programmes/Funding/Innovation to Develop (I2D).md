@@ -132,8 +132,8 @@ Cluster (as listed in the table below) to the NHIC Grant Secretariat.</p>
 </tbody>
 </table>
 <h3><strong>Terms and Conditions</strong></h3>
-<p>Please see&nbsp;<a href="https://for.sg/nmrc-grants-tnc" rel="noopener noreferrer nofollow" target="_blank">Research Grant Terms &amp; Conditions</a>&nbsp;
-governing NHIC grants.</p>
+<p>Please see&nbsp;<a href="https://for.sg/nmrc-grants-tnc" rel="noopener noreferrer nofollow" target="_blank">Research Grant Terms &amp; Conditions</a>&nbsp;governing
+NHIC grants.</p>
 <h3><strong>Application process and evaluation</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="NHIC I2D Grant Process" src="/images/NHIC_I2D_Grant_Process.png">
