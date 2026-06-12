@@ -47,8 +47,7 @@ for expenses incurred by project teams towards the development of proposed
 technology.</p>
 <h3><strong>Funding Duration</strong></h3>
 <p>The funding support is up to 18 months.</p>
-<p><strong>Eligibility</strong>
-</p>
+<h3><strong>Eligibility</strong></h3>
 <p>The Principal Investigator must hold a primary appointment in and be under
 the employment of a public healthcare institution in Singapore. Project
 teams must have strong clinical representation. Collaborations with industry
