@@ -19,14 +19,18 @@ to de-risk technologies and accelerate translation.</p>
 </li>
 </ul>
 <h3><strong>Eligibility</strong></h3>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Principal Investigator must hold
-primary appointment in a public healthcare institution and be salaried
-by the institution</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Minimum 20% fresh funding commitment
-from co-funding partner(s) towards the total project quantum</p>
-<p>Note: Partner(s) may include local public healthcare cluster/institute,
-local public sector entity/national programme office (RIE entity), Industry,
-International partner</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Principal Investigator must hold primary appointment in a public healthcare
+institution and be salaried by the institution</p>
+</li>
+<li>
+<p>Minimum 20% fresh funding commitment from co-funding partner(s) towards
+the total project quantum</p>
+</li>
+</ul>
+<p><strong><em>Note</em></strong><em>: Partner(s) may include local public healthcare cluster/institute, local public sector entity/national programme office (RIE entity), Industry, International partner</em>
+</p>
 <p>For any queries concerning eligibility, please contact the Grant Secretariat
 at&nbsp;<a href="mailto:grant@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">grant@nhic.cris.sg</a>.</p>
 <h3><strong>Funding quantum</strong></h3>
@@ -87,8 +91,6 @@ within 5 years</p>
 <li>
 <p>Piloted and deployed in operational environments within 3 years</p>
 </li>
-</ul>
-<ul data-tight="true" class="tight">
 <li>
 <p>Reach First-in-Human (FIH) Phase within 2 years that represents a significant
 value inflection point for the innovation (e.g. therapeutics or implantable
@@ -101,8 +103,8 @@ medical devices).</p>
 <p>The grant is open on a rolling basis.</p>
 <p>Focus areas (not limited to): Medical devices, Digital Health, Therapeutics,
 Diagnostics</p>
-<p><strong>Note</strong>: Process innovation projects are not eligible to
-apply.</p>
+<p><strong>Note</strong>: <em>Process innovation projects are not eligible to apply.</em>
+</p>
 <h3><strong>Application process and evaluation</strong></h3>
 <p>LeapX applicants must pre-engage with your respective NHIC cluster managers
 before proceeding to submit an official application.</p>
@@ -117,10 +119,8 @@ level offices and co-funding entity)</p>
 <p>Email subject to reflect “NHIC LeapX Application: Add <em>Name of clinical PI (PHI)</em> –
 Add <em>Co-funding partner”</em>
 </p>
-<p><strong>Note</strong>: Applicants using the co-funding entity template
-are only required to complete the first two slides of NHIC’s LeapX template
-for Stage 1. Also ensure that your slide deck covers content associated
-with the guiding questions listed in NHIC template. Limit to 20 slides.</p>
+<p><strong>Note</strong>: <em>Applicants using the co-funding entity template are only required to complete the first two slides of NHIC’s LeapX template for Stage 1. Also ensure that your slide deck covers content associated with the guiding questions listed in NHIC template. Limit to 20 slides.</em>
+</p>
 <p>Assessment to check that the minimum criteria is met with clear evidence,
 and an independent clinical review to validate the healthcare value.</p>
 <p><strong>Stage 2: Evaluation</strong>
