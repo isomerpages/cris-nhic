@@ -5,17 +5,50 @@ description: ""
 third_nav_title: Funding
 variant: tiptap
 ---
-<h2><strong>Funding for development of a healthcare innovation to a commercialisable or clinical implementation endpoint</strong></h2>
-<h3><strong>Aim</strong></h3>
-<p>This funding is for development of a clinically significant and/or commercially
-viable healthcare innovation. The grant application must clearly illustrate
-the scientific merit, competitive advantage and technical feasibility of
-the project. Additionally, it must demonstrate potential for translation
-to a point where the technology would be attractive to an industry partner
-or follow-on funder.</p>
+<h2><strong>Developing early-stage innovations and POCs towards clinical and/or market readiness</strong></h2>
+<h3><strong>Objectives</strong></h3>
+<ul>
+<li>
+<p>Support the development of a clinically significant and/or commercially
+viable healthcare innovation.</p>
+</li>
+<li>
+<p>The grant application must clearly illustrate the scientific merit, competitive
+advantage and technical feasibility of the project.</p>
+</li>
+<li>
+<p>Demonstrate potential for translation to a point where the technology
+would be attractive to an industry partner or follow-on funder.</p>
+</li>
+</ul>
+<h3><strong>Eligibility</strong></h3>
+<ul>
+<li>
+<p>Principal Investigator must hold primary appointment in a public healthcare
+institution and be salaried by the institution in Singapore.</p>
+</li>
+<li>
+<p>Project teams must have strong clinical representation.</p>
+</li>
+<li>
+<p>Collaborations with industry are encouraged if they strengthen the proposal.
+All applications are considered based on merit and eligibility is not limited
+to NMRC-funded research.</p>
+</li>
+</ul>
+<h3><strong>Funding quantum and duration</strong></h3>
+<ul>
+<li>
+<p>NHIC’s funding quantum is capped at S$400,000 (inclusive of max. 30% indirect
+costs), and will be awarded to the host institution on a reimbursement
+basis for expenses incurred under the approved proposed of work.</p>
+</li>
+<li>
+<p>The duration of NHIC funding support is up to 18 months.</p>
+</li>
+</ul>
 <h3><strong>Funding criteria</strong></h3>
-<p>Grant applications that emphasise the following aspects of the project
-are considered for funding:</p>
+<p>Funding is considered if the application satisfies the following criteria:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Well defined unmet healthcare need</p>
@@ -40,25 +73,17 @@ practice/guidelines and healthcare policy</p>
 competing technologies and potential industry partners</p>
 </li>
 </ul>
-<h3><strong>Funding quantum</strong></h3>
-<p>A funding quantum capped at S$400,000 (inclusive of max. 30% indirect
-costs) will be awarded to the host institution on a reimbursement basis
-for expenses incurred by project teams towards the development of proposed
-technology.</p>
-<h3><strong>Funding Duration</strong></h3>
-<p>The funding support is up to 18 months.</p>
-<h3><strong>Eligibility</strong></h3>
-<p>The Principal Investigator must hold a primary appointment in and be under
-the employment of a public healthcare institution in Singapore. Project
-teams must have strong clinical representation. Collaborations with industry
-are encouraged if they strengthen the proposal. All applications are considered
-based on merit and eligibility is not limited to NMRC-funded research.</p>
-<h3><strong>Terms and Conditions</strong></h3>
-<p>Please see&nbsp;<a href="https://for.sg/nmrc-grants-tnc" rel="noopener noreferrer nofollow" target="_blank">Research Grant Terms &amp; Conditions</a>&nbsp;
-governing NHIC grants.</p>
-<h3><strong>NHIC I2D Grant Call</strong></h3>
-<p>NHIC I2D grant application will be open till Friday, 11 September 2026,
-at 5pm.</p>
+<h3><strong>Grant Schedule</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Applications close 3<sup>rd</sup> week of Jan &amp; July (institutional
+dates may vary)</p>
+<p></p>
+<p>Note: Current NHIC I2D grant application will be open till Friday, 11
+September 2026, at 5pm.</p>
+<p></p>
+</li>
+</ul>
 <p><strong>Important</strong>:&nbsp;<em>Applicants are advised to refer to institutional internal deadlines for submission of grant applications.</em>
 </p>
 <p>Each form&nbsp;<strong>MUST</strong>&nbsp;be endorsed and submitted electronically
@@ -106,6 +131,10 @@ Cluster (as listed in the table below) to the NHIC Grant Secretariat.</p>
 </tr>
 </tbody>
 </table>
+<h3><strong>Terms and Conditions</strong></h3>
+<p>Please see&nbsp;<a href="https://for.sg/nmrc-grants-tnc" rel="noopener noreferrer nofollow" target="_blank">Research Grant Terms &amp; Conditions</a>&nbsp;
+governing NHIC grants.</p>
+<h3><strong>Application process and evaluation</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="NHIC I2D Grant Process" src="/images/NHIC_I2D_Grant_Process.png">
 </div>
