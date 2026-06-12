@@ -27,7 +27,7 @@ sections:
       key_highlights:
         - title: Funding
           description: Impactful Health Innovations
-          url: /funding/protect-i2p/
+          url: /funding/develop-i2d/
         - title: Ventures & Industry
           description: Partnerships
           url: /partnerships-and-network/ventures-and-industry/
