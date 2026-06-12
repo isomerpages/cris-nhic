@@ -77,7 +77,7 @@ competing technologies and potential industry partners</p>
 <h3><strong>Terms and Conditions</strong></h3>
 <p>Please see&nbsp;<a href="https://for.sg/nmrc-grants-tnc" rel="noopener noreferrer nofollow" target="_blank">Research Grant Terms &amp; Conditions</a>&nbsp;governing
 NHIC grants.</p>
-<h3><strong>NHIC I2D Schedule</strong></h3>
+<h3><strong>NHIC I2D Grant Call</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Applications close 3<sup>rd</sup> week of Jan &amp; July (institutional
