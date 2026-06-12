@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Funding
 variant: tiptap
 ---
-<h2><strong>Funding for development of a healthcare innovation to a commercialisable or clinical implementation endpoint</strong></h2>
+<h2><strong>Developing early-stage innovations towards clinical and/or market readiness</strong></h2>
 <h3><strong>Aim</strong></h3>
 <p>This funding is for development of a clinically significant and/or commercially
 viable healthcare innovation. The grant application must clearly illustrate
