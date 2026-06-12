@@ -5,19 +5,23 @@ description: ""
 third_nav_title: Funding
 variant: tiptap
 ---
-<h4><strong>Developing early-stage innovations and POCs towards clinical and/or market readiness</strong></h4>
-<h5><strong>Objectives</strong></h5>
+<h2><strong>Developing early-stage innovations towards clinical and/or market readiness</strong></h2>
+<h3><strong>Objectives</strong></h3>
 <ul>
 <li>
 <p>Support the development of a clinically significant and/or commercially
 viable healthcare innovation.</p>
 </li>
 <li>
+<p>The grant application must clearly illustrate the scientific merit, competitive
+advantage and technical feasibility of the project.</p>
+</li>
+<li>
 <p>Demonstrate potential for translation to a point where the technology
 would be attractive to an industry partner or follow-on funder.</p>
 </li>
 </ul>
-<h5><strong>Eligibility</strong></h5>
+<h3><strong>Eligibility</strong></h3>
 <ul>
 <li>
 <p>Principal Investigator must hold primary appointment in a public healthcare
@@ -26,22 +30,26 @@ institution and be salaried by the institution in Singapore.</p>
 <li>
 <p>Project teams must have strong clinical representation.</p>
 </li>
+<li>
+<p>Collaborations with industry are encouraged if they strengthen the proposal.
+All applications are considered based on merit and eligibility is not limited
+to NMRC-funded research.</p>
+</li>
 </ul>
-<h5><strong>Funding quantum and duration</strong></h5>
+<h3><strong>Funding quantum and duration</strong></h3>
 <ul>
 <li>
 <p>NHIC’s funding quantum is capped at S$400,000 (inclusive of max. 30% indirect
-costs), and will be awarded to the public healthcare host institution on
-a reimbursement basis for expenses incurred under the approved proposed
-of work.</p>
+costs), and will be awarded to the host institution on a reimbursement
+basis for expenses incurred under the approved proposed of work.</p>
 </li>
 <li>
 <p>The duration of NHIC funding support is up to 18 months.</p>
 </li>
 </ul>
-<h5><strong>Funding criteria</strong></h5>
+<h3><strong>Funding criteria</strong></h3>
 <p>Funding is considered if the application satisfies the following criteria:</p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>Well defined unmet healthcare need</p>
 </li>
@@ -65,12 +73,17 @@ practice/guidelines and healthcare policy</p>
 competing technologies and potential industry partners</p>
 </li>
 </ul>
-<h5><strong>Grant Schedule</strong></h5>
-<p>•Applications close 3<sup>rd</sup> week of Jan &amp; July (institutional
+<h3><strong>Grant Schedule</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Applications close 3<sup>rd</sup> week of Jan &amp; July (institutional
 dates may vary)</p>
-<p>•Note: Upcoming grant call will close in <strong>September 2026</strong>
-</p>
-<p>•Submit via your designated healthcare cluster innovation office</p>
+<p></p>
+<p>Note: Current NHIC I2D grant application will be open till Friday, 11
+September 2026, at 5pm.</p>
+<p></p>
+</li>
+</ul>
 <p><strong>Important</strong>:&nbsp;<em>Applicants are advised to refer to institutional internal deadlines for submission of grant applications.</em>
 </p>
 <p>Each form&nbsp;<strong>MUST</strong>&nbsp;be endorsed and submitted electronically
@@ -118,16 +131,19 @@ Cluster (as listed in the table below) to the NHIC Grant Secretariat.</p>
 </tr>
 </tbody>
 </table>
-<h5><strong>NHIC I2D Grant Process</strong></h5>
-<p>An overview of the grant process is as follows:</p>
+<h3><strong>Terms and Conditions</strong></h3>
+<p>Please see&nbsp;<a href="https://for.sg/nmrc-grants-tnc" rel="noopener noreferrer nofollow" target="_blank">Research Grant Terms &amp; Conditions</a>&nbsp;governing
+NHIC grants.</p>
+<h3><strong>Application process and evaluation</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Funding/i2dprocess.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="NHIC I2D Grant Process" src="/images/NHIC_I2D_Grant_Process.png">
 </div>
 <p>For further queries on NHIC I2D grant, please contact NHIC I2D Grant Secretariat
 at&nbsp;<a href="mailto:grant@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">grant@nhic.cris.sg</a>.</p>
-<p><strong>For more details, please refer to the I2D FAQs </strong><a href="https://for.sg/i2dfaq" rel="noopener nofollow" target="_blank">here</a><strong>.</strong>
+<h3><strong>Frequently Asked Questions (FAQs)</strong></h3>
+<p>Please refer to our list of FAQs for more information<strong> </strong>
+<a href="https://for.sg/i2dfaq" rel="noopener nofollow" target="_blank">here</a><strong>.</strong>
 </p>
-<p></p>
-<h5><strong>List of Awarded Projects</strong></h5>
+<h3><strong>List of Awarded Projects</strong></h3>
 <p>For the list of awarded Innovation to Develop (I2D) projects, please click
 <a href="https://for.sg/awardedi2d" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
