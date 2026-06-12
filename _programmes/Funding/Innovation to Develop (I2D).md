@@ -52,26 +52,26 @@ technology.</p>
 <p>Funding is considered if the application satisfies the following criteria:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Well defined unmet healthcare need</p>
+<p>Well defined unmet healthcare need.</p>
 </li>
 <li>
-<p>Proven scientific merit with proof-of-concept data</p>
+<p>Proven scientific merit with proof-of-concept data.</p>
 </li>
 <li>
 <p>Detailed development plan highlighting future project work, milestones,
-endpoints and regulatory strategy</p>
+endpoints and regulatory strategy.</p>
 </li>
 <li>
 <p>Clear understanding of current clinical workflow and potential for eventual
-clinical adoption</p>
+clinical adoption.</p>
 </li>
 <li>
 <p>Potential for healthcare impact that results in new or change in clinical
-practice/guidelines and healthcare policy</p>
+practice/guidelines and healthcare policy.</p>
 </li>
 <li>
 <p>Clear and achievable commercial plan outlining the proposed route to market,
-competing technologies and potential industry partners</p>
+competing technologies and potential industry partners.</p>
 </li>
 </ul>
 <h3><strong>Terms and Conditions</strong></h3>
