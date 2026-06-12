@@ -78,8 +78,8 @@ achieve key translational milestones.</p>
 within 5 years</p>
 </li>
 <li>
-<p>&nbsp;Attract private investments/commercial revenue of at least S$1M
-within 5 years</p>
+<p>Attract private investments/commercial revenue of at least S$1M within
+5 years</p>
 </li>
 <li>
 <p>Achieve first market regulatory approval within 2 years</p>
@@ -101,7 +101,8 @@ medical devices).</p>
 <p>The grant is open on a rolling basis.</p>
 <p>Focus areas (not limited to): Medical devices, Digital Health, Therapeutics,
 Diagnostics</p>
-<p>Note: Process innovation projects are not eligible to apply.</p>
+<p><strong>Note</strong>: Process innovation projects are not eligible to
+apply.</p>
 <h3><strong>Application process and evaluation</strong></h3>
 <p>LeapX applicants must pre-engage with your respective NHIC cluster managers
 before proceeding to submit an official application.</p>
