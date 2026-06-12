@@ -19,16 +19,11 @@ to de-risk technologies and accelerate translation.</p>
 </li>
 </ul>
 <h3><strong>Eligibility</strong></h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Principal Investigator must hold primary appointment in a public healthcare
-institution and be salaried by the institution</p>
-</li>
-<li>
-<p>Minimum 20% fresh funding commitment from co-funding partner(s) towards
-the total project quantum</p>
-</li>
-</ul>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Principal Investigator must hold
+primary appointment in a public healthcare institution and be salaried
+by the institution</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Minimum 20% fresh funding commitment
+from co-funding partner(s) towards the total project quantum</p>
 <p>Note: Partner(s) may include local public healthcare cluster/institute,
 local public sector entity/national programme office (RIE entity), Industry,
 International partner</p>
