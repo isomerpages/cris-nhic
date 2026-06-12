@@ -125,7 +125,7 @@ Cluster (as listed in the table below) to the NHIC Grant Secretariat.</p>
 </div>
 <p>For further queries on NHIC I2D grant, please contact NHIC I2D Grant Secretariat
 at&nbsp;<a href="mailto:grant@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">grant@nhic.cris.sg</a>.</p>
-<p><strong>For more details, please refer to the I2D FAQs here.</strong>
+<p><strong>For more details, please refer to the I2D FAQs </strong><a href="https://for.sg/i2dfaq" rel="noopener nofollow" target="_blank">here</a><strong>.</strong>
 </p>
 <p></p>
 <h5><strong>List of Awarded Projects</strong></h5>
