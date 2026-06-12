@@ -4,13 +4,9 @@ collections:
     order:
       - Overview.md
       - Funding/.keep
-      - Funding/Innovation to Protect (I2P).md
-      - Funding/Joint MedTech Grants.md
       - Funding/Innovation to Develop (I2D).md
-      - Funding/Innovation to Industry (I2I).md
-      - Funding/Innovation to Startup (I2Start).md
+      - Funding/LeapX.md
       - Funding/Innovation to Adopt (I2Adopt).md
-      - Funding/NRF Central Gap Funding.md
       - Talent Development.md
       - Therapeutic Development.md
       - Downloadable Forms.md
