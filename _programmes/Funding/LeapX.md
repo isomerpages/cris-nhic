@@ -161,7 +161,7 @@ within 5 years</p>
 before proceeding to submit an official application.</p>
 <p>Two-stage process</p>
 <p>Stage 1: Review</p>
-<p>Document required: PowerPoint template-based application</p>
+<p>Document required: PowerPoint template-based application. Download <a href="https://for.sg/leapx" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>The application may be submitted by the PI directly or through the relevant
 cluster-level office/PHI office/co-funding partner via email to <a href="mailto:grant@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">grant@nhic.cris.sg</a>.
 Please ensure that the key stakeholders are on copy (cluster/institute
