@@ -163,11 +163,12 @@ before proceeding to submit an official application.</p>
 <p>Document required: PowerPoint template-based application. Download <a href="https://for.sg/leapx" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>The application may be submitted by the PI directly via email to <a href="mailto:grant@nhic.cris.sg" rel="noopener noreferrer nofollow" target="_blank">grant@nhic.cris.sg</a>.
 Please ensure that the key stakeholders are on copy (cluster/institute
-level offices and co-funding entity)</p>
+level offices and co-funding entity). The co-funding entity's acknowledgement
+of support must also be included.</p>
 <p>Email subject to reflect “NHIC LeapX Application: Add <em>Name of clinical PI (PHI)</em> –
 Add <em>Co-funding partner”</em>
 </p>
-<p><strong>Note</strong>: <em>Applicants using the co-funding entity template are only required to complete the first two slides of NHIC’s LeapX template for Stage 1. Also ensure that your slide deck covers content associated with the guiding questions listed in NHIC template. Limit to 20 slides.</em>
+<p><strong>Note</strong>: <em>Applicants using the co-funding entity ppt template are only required to include slide number 1 (executive summary), 2 (co-funding entity details), and 11 (reviewer suggestion) from NHIC’s LeapX template for Stage 1. Also ensure that your slide deck covers content associated with the guiding questions listed in NHIC template. Limit to 20 slides.</em>
 </p>
 <p>Assessment to check that the minimum criteria is met with clear evidence,
 and an independent clinical review to validate the healthcare value.</p>
