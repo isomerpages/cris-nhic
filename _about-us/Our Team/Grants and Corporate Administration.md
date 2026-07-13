@@ -18,7 +18,8 @@ third_nav_title: Our Team
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://nhic.sg/our-team/grants-corporate/kerrine-too/"><img style="width: 100%" height="auto" width="100%" alt="KerrineToo" src="/images/About/Our Team/Grant &amp; Corporate/KerrineToo.jpg"></a>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://nhic.sg/our-team/grants-corporate/cho-lai-har/"><img style="width: 100%" height="auto" width="100%" alt="ChoLaiHar" src="/images/About/Our Team/Grant &amp; Corporate/ChoLaiHar.jpg"></a>
 </td>
