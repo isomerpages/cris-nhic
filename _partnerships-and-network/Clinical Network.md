@@ -2,62 +2,71 @@
 title: Clinical Network
 permalink: /partnerships-and-network/clinical-network/
 description: ""
+variant: tiptap
 ---
-### **Walking alongside our clinical community to drive innovations to impactful outcomes**
-
-NHIC works closely with all three of the healthcare clusters in Singapore, covering all publicly funded hospitals, public health institutions and national speciality centres. 
-
-In addition, NHIC also partners with the academic medical schools across Singapore. 
-
-Our partners are as follows:
-
-<table>
-   <tbody>
-      <tr>
-         <td style="width:33%">
-            <a href="https://corp.nhg.com.sg/Pages/default.aspx">
-            <img src="/images/Partners%20Icons/Clinical%20Network/clinical%20network%20logos_nhg.png">
-            </a>
-         </td>
-         <td style="width:33%">
-            <a href="https://www.nuhs.edu.sg/Pages/Home.aspx">
-            <img src="/images/Partners%20Icons/Clinical%20Network/clinical%20network%20logos_nuhs.png">
-            </a>
-         </td>
-         <td style="width:33%">
-            <a href="https://www.singhealth.com.sg/">
-            <img src="/images/Partners%20Icons/Clinical%20Network/clinical%20network%20logos_singhealth.png">
-            </a>
-         </td>
-      </tr>
-      <tr>
-         <td style="width:33%">
-            <a href="https://medicine.nus.edu.sg/">
-            <img src="/images/Partners%20Icons/Clinical%20Network/clinical%20network%20logos_yll.png">
-            </a>
-         </td>
-         <td style="width:33%">
-            <a href="https://www.dentistry.nus.edu.sg/">
-            <img src="/images/Partners%20Icons/Clinical%20Network/clinical%20network%20logos_dentristry.png">
-            </a>
-         </td>
-         <td style="width:33%">
-            <a href="https://sph.nus.edu.sg/">
-            <img src="/images/Partners%20Icons/Clinical%20Network/clinical%20network%20logos_sshsps.png">
-            </a>
-         </td>
-      </tr>
-      <tr>
-         <td style="width:33%">
-            <a href="https://www.duke-nus.edu.sg/">
-            <img src="/images/Partners%20Icons/Clinical%20Network/duke-nus-logo.png">
-            </a>
-         </td>
-         <td style="width:33%">
-            <a href="https://www.ntu.edu.sg/medicine">
-            <img src="/images/Partners%20Icons/Clinical%20Network/clinical%20network%20logos_lkc.png">
-            </a>
-         </td>
-      </tr>
-   </tbody>
+<h3><strong>Walking alongside our clinical community to drive innovations to impactful outcomes</strong></h3>
+<p>NHIC works closely with all three of the healthcare clusters in Singapore,
+covering all publicly funded hospitals, public health institutions and
+national speciality centres.</p>
+<p>In addition, NHIC also partners with the academic medical schools across
+Singapore.</p>
+<p>Our partners are as follows:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NHG Health" src="/images/NHG_Logo_Preferred_RGB_1.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/Partners%20Icons/Clinical%20Network/clinical%20network%20logos_nuhs.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/Partners%20Icons/Clinical%20Network/clinical%20network%20logos_singhealth.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/Partners%20Icons/Clinical%20Network/clinical%20network%20logos_yll.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/Partners%20Icons/Clinical%20Network/clinical%20network%20logos_dentristry.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/Partners%20Icons/Clinical%20Network/clinical%20network%20logos_sshsps.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/Partners%20Icons/Clinical%20Network/duke-nus-logo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/Partners%20Icons/Clinical%20Network/clinical%20network%20logos_lkc.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
 </table>
+<p></p>
