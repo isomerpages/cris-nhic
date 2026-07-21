@@ -80,12 +80,10 @@ NHIC grants.</p>
 <h3><strong>Grant Schedule</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Applications close 3<sup>rd</sup> week of Jan &amp; July (institutional
-dates may vary)</p>
+<p>NHIC I2D grant application will be open till Friday, 11 September 2026,
+at 5pm.</p>
 </li>
 </ul>
-<p>Note: NHIC I2D grant application will be open till Friday, 11 September
-2026, at 5pm.</p>
 <p><strong>Important</strong>:&nbsp;<em>Applicants are advised to refer to institutional internal deadlines for submission of grant applications.</em>
 </p>
 <p>Each form&nbsp;<strong>MUST</strong>&nbsp;be endorsed and submitted electronically
